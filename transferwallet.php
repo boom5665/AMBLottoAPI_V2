@@ -9,6 +9,9 @@
                 .txtHead {
                     color: #7F0055;
                 }
+                .d-non{
+                    display: none;
+                }
             </style>
             <div style="background: #f2f3f4; padding: 30px; margin-top: 1%; border-radius: .375rem;">
                 <h1><b style="color: #19A17A  !important;" data-translate="4" set-lan="text:5. Transferwallet Api">5.
@@ -159,9 +162,12 @@
                                 <div class="koh-faq-question form-group ex">
                                     <lable class="Point"><b style="color: #19A17A  !important;" set-lan="text:Example Request Body">Example Request Body</b><i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i></lable>
                                 </div>
+                                <div class="form-group ex">
+                                <button onclick="copyContent()" class="btn btn-info waves-effect waves-light">Copy Code</button>
+                                </div>
                                 <div class="koh-faq-answer col-9">
-                                    <pre><code id="3_4A" style="border-radius: 0.375rem;" class="hljs json">{
-                                        <span class="hljs-attr">"agentUsername"</span>: <span class="hljs-string">"agenttoe2",</span>
+                                    <pre ><code id="3_4A" style="border-radius: 0.375rem;" class="hljs json">{
+  <span class="hljs-attr">"agentUsername"</span>: <span class="hljs-string">"agenttoe2",</span>
   <span class="hljs-attr">"agentApiKey"</span>: <span class="hljs-string">"90c1f92bf298eeedf29ddea95681f56c7b707ec32368f820e01270d2bf9cda8b",</span>
   <span class="hljs-attr">"playerUsername"</span>: <span class="hljs-string">"testuserapi002",</span>
   <span class="hljs-attr">"data"</span>:{
@@ -1471,6 +1477,1332 @@
     }
 
 }</code></pre>
+
+<div id="myText" class="d-non">
+ {
+    "agentUsername": "agenttoe2",
+    "agentApiKey": "90c1f92bf298eeedf29ddea95681f56c7b707ec32368f820e01270d2bf9cda8b",
+    "playerUsername": "testuserapi002",
+    "data": {
+        "username": "ketttt",
+        "phone": "0111111111",
+        "email": "google1@gmail.com",
+        "line": "line1",
+        "currency": "THB",
+        "rate": {
+            "thailotto": {
+                "top6": {
+                    "discount": 0,
+                    "max": 1000,
+                    "min": 1,
+                    "payout": 50000
+                },
+                "top5": {
+                    "discount": 0,
+                    "max": 2000,
+                    "min": 1,
+                    "payout": 25000
+                },
+                "top4": {
+                    "discount": 0,
+                    "max": 5000,
+                    "min": 1,
+                    "payout": 5000
+                },
+                "row4": {
+                    "discount": 0,
+                    "max": 7000,
+                    "min": 1,
+                    "payout": 225
+                },
+                "top3": {
+                    "discount": 0,
+                    "max": 5000,
+                    "min": 1,
+                    "payout": 900
+                },
+                "bottom3": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 225
+                },
+                "row3": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 150
+                },
+                "top2": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 90
+                },
+                "bottom2": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 90
+                },
+                "row2": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 12
+                },
+                "top1": {
+                    "discount": 0,
+                    "max": 200000,
+                    "min": 1,
+                    "payout": 3.2
+                },
+                "bottom1": {
+                    "discount": 0,
+                    "max": 200000,
+                    "min": 1,
+                    "payout": 4.2
+                }
+            },
+            "gsblotto": {
+                "top3": {
+                    "discount": 0,
+                    "max": 5000,
+                    "min": 1,
+                    "payout": 900
+                },
+                "row3": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 150
+                },
+                "top2": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 90
+                },
+                "bottom2": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 90
+                },
+                "top1": {
+                    "discount": 0,
+                    "max": 200000,
+                    "min": 1,
+                    "payout": 3.2
+                },
+                "bottom1": {
+                    "discount": 0,
+                    "max": 200000,
+                    "min": 1,
+                    "payout": 4.2
+                }
+            },
+            "baaclotto": {
+                "top3": {
+                    "discount": 0,
+                    "max": 5000,
+                    "min": 1,
+                    "payout": 900
+                },
+                "row3": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 150
+                },
+                "top2": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 90
+                },
+                "bottom2": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 90
+                },
+                "top1": {
+                    "discount": 0,
+                    "max": 200000,
+                    "min": 1,
+                    "payout": 3.2
+                },
+                "bottom1": {
+                    "discount": 0,
+                    "max": 200000,
+                    "min": 1,
+                    "payout": 4.2
+                }
+            },
+            "laoslotto": {
+                "top4": {
+                    "discount": 0,
+                    "max": 5000,
+                    "min": 1,
+                    "payout": 4500
+                },
+                "row4": {
+                    "discount": 0,
+                    "max": 7000,
+                    "min": 1,
+                    "payout": 220
+                },
+                "top3": {
+                    "discount": 0,
+                    "max": 5000,
+                    "min": 1,
+                    "payout": 900
+                },
+                "row3": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 150
+                },
+                "top2": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 90
+                },
+                "bottom2": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 90
+                },
+                "row2": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 12
+                },
+                "top1": {
+                    "discount": 0,
+                    "max": 200000,
+                    "min": 1,
+                    "payout": 3.2
+                },
+                "bottom1": {
+                    "discount": 0,
+                    "max": 200000,
+                    "min": 1,
+                    "payout": 4.2
+                }
+            },
+            "laoslotto_set": {
+                "top4": {
+                    "discount": 0,
+                    "max": 5000,
+                    "min": 1,
+                    "payout": 4500
+                },
+                "row4": {
+                    "discount": 0,
+                    "max": 7000,
+                    "min": 1,
+                    "payout": 220
+                },
+                "top3": {
+                    "discount": 0,
+                    "max": 5000,
+                    "min": 1,
+                    "payout": 900
+                },
+                "row3": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 150
+                },
+                "front2": {
+                    "discount": 0,
+                    "max": 600,
+                    "min": 1,
+                    "payout": 15
+                },
+                "back2": {
+                    "discount": 0,
+                    "max": 600,
+                    "min": 1,
+                    "payout": 15
+                }
+            },
+            "laoslottotv": {
+                "top5": {
+                    "discount": 0,
+                    "max": 5000,
+                    "min": 1,
+                    "payout": 4500
+                },
+                "top4": {
+                    "discount": 0,
+                    "max": 5000,
+                    "min": 1,
+                    "payout": 4500
+                },
+                "row4": {
+                    "discount": 0,
+                    "max": 7000,
+                    "min": 1,
+                    "payout": 220
+                },
+                "top3": {
+                    "discount": 0,
+                    "max": 5000,
+                    "min": 1,
+                    "payout": 900
+                },
+                "row3": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 150
+                },
+                "top2": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 90
+                },
+                "bottom2": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 90
+                },
+                "row2": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 12
+                },
+                "top1": {
+                    "discount": 0,
+                    "max": 200000,
+                    "min": 1,
+                    "payout": 3.2
+                },
+                "bottom1": {
+                    "discount": 0,
+                    "max": 200000,
+                    "min": 1,
+                    "payout": 4.2
+                }
+            },
+            "laoslottotv_set": {
+                "top4": {
+                    "discount": 0,
+                    "max": 5000,
+                    "min": 1,
+                    "payout": 4500
+                },
+                "row4": {
+                    "discount": 0,
+                    "max": 7000,
+                    "min": 1,
+                    "payout": 220
+                },
+                "top3": {
+                    "discount": 0,
+                    "max": 5000,
+                    "min": 1,
+                    "payout": 900
+                },
+                "row3": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 150
+                },
+                "front2": {
+                    "discount": 0,
+                    "max": 600,
+                    "min": 1,
+                    "payout": 15
+                },
+                "back2": {
+                    "discount": 0,
+                    "max": 600,
+                    "min": 1,
+                    "payout": 15
+                }
+            },
+            "laoslottohd": {
+                "top5": {
+                    "discount": 0,
+                    "max": 5000,
+                    "min": 1,
+                    "payout": 4500
+                },
+                "top4": {
+                    "discount": 0,
+                    "max": 5000,
+                    "min": 1,
+                    "payout": 4500
+                },
+                "row4": {
+                    "discount": 0,
+                    "max": 7000,
+                    "min": 1,
+                    "payout": 220
+                },
+                "top3": {
+                    "discount": 0,
+                    "max": 5000,
+                    "min": 1,
+                    "payout": 900
+                },
+                "row3": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 150
+                },
+                "top2": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 90
+                },
+                "bottom2": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 90
+                },
+                "row2": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 12
+                },
+                "top1": {
+                    "discount": 0,
+                    "max": 200000,
+                    "min": 1,
+                    "payout": 3.2
+                },
+                "bottom1": {
+                    "discount": 0,
+                    "max": 200000,
+                    "min": 1,
+                    "payout": 4.2
+                }
+            },
+            "laoslottohd_set": {
+                "top4": {
+                    "discount": 0,
+                    "max": 5000,
+                    "min": 1,
+                    "payout": 4500
+                },
+                "row4": {
+                    "discount": 0,
+                    "max": 7000,
+                    "min": 1,
+                    "payout": 220
+                },
+                "top3": {
+                    "discount": 0,
+                    "max": 5000,
+                    "min": 1,
+                    "payout": 900
+                },
+                "row3": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 150
+                },
+                "front2": {
+                    "discount": 0,
+                    "max": 600,
+                    "min": 1,
+                    "payout": 15
+                },
+                "back2": {
+                    "discount": 0,
+                    "max": 600,
+                    "min": 1,
+                    "payout": 15
+                }
+            },
+            "laoslottoextra": {
+                "top5": {
+                    "discount": 0,
+                    "max": 5000,
+                    "min": 1,
+                    "payout": 4500
+                },
+                "top4": {
+                    "discount": 0,
+                    "max": 5000,
+                    "min": 1,
+                    "payout": 4500
+                },
+                "row4": {
+                    "discount": 0,
+                    "max": 7000,
+                    "min": 1,
+                    "payout": 220
+                },
+                "top3": {
+                    "discount": 0,
+                    "max": 5000,
+                    "min": 1,
+                    "payout": 900
+                },
+                "row3": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 150
+                },
+                "top2": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 90
+                },
+                "bottom2": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 90
+                },
+                "row2": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 12
+                },
+                "top1": {
+                    "discount": 0,
+                    "max": 200000,
+                    "min": 1,
+                    "payout": 3.2
+                },
+                "bottom1": {
+                    "discount": 0,
+                    "max": 200000,
+                    "min": 1,
+                    "payout": 4.2
+                }
+            },
+            "laoslottoextra_set": {
+                "top4": {
+                    "discount": 0,
+                    "max": 5000,
+                    "min": 1,
+                    "payout": 4500
+                },
+                "row4": {
+                    "discount": 0,
+                    "max": 7000,
+                    "min": 1,
+                    "payout": 220
+                },
+                "top3": {
+                    "discount": 0,
+                    "max": 5000,
+                    "min": 1,
+                    "payout": 900
+                },
+                "row3": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 150
+                },
+                "front2": {
+                    "discount": 0,
+                    "max": 600,
+                    "min": 1,
+                    "payout": 15
+                },
+                "back2": {
+                    "discount": 0,
+                    "max": 600,
+                    "min": 1,
+                    "payout": 15
+                }
+            },
+            "malaylotto": {
+                "top3": {
+                    "discount": 0,
+                    "max": 5000,
+                    "min": 1,
+                    "payout": 900
+                },
+                "row3": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 150
+                },
+                "top2": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 90
+                },
+                "bottom2": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 90
+                },
+                "top1": {
+                    "discount": 0,
+                    "max": 200000,
+                    "min": 1,
+                    "payout": 3.2
+                },
+                "bottom1": {
+                    "discount": 0,
+                    "max": 200000,
+                    "min": 1,
+                    "payout": 4.2
+                }
+            },
+            "malaylotto_set": {
+                "top4": {
+                    "discount": 0,
+                    "max": 5000,
+                    "min": 1,
+                    "payout": 900
+                },
+                "row4": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 150
+                },
+                "top3": {
+                    "discount": 0,
+                    "max": 5000,
+                    "min": 1,
+                    "payout": 900
+                },
+                "row3": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 150
+                },
+                "front2": {
+                    "discount": 0,
+                    "max": 600,
+                    "min": 1,
+                    "payout": 15
+                },
+                "back2": {
+                    "discount": 0,
+                    "max": 600,
+                    "min": 1,
+                    "payout": 15
+                }
+            },
+            "hanoylotto": {
+                "top3": {
+                    "discount": 0,
+                    "max": 5000,
+                    "min": 1,
+                    "payout": 900
+                },
+                "row3": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 150
+                },
+                "top2": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 90
+                },
+                "bottom2": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 90
+                },
+                "top1": {
+                    "discount": 0,
+                    "max": 200000,
+                    "min": 1,
+                    "payout": 3.2
+                },
+                "bottom1": {
+                    "discount": 0,
+                    "max": 200000,
+                    "min": 1,
+                    "payout": 4.2
+                }
+            },
+            "hanoylotto_set": {
+                "top4": {
+                    "discount": 0,
+                    "max": 5000,
+                    "min": 1,
+                    "payout": 900
+                },
+                "row4": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 150
+                },
+                "top3": {
+                    "discount": 0,
+                    "max": 5000,
+                    "min": 1,
+                    "payout": 900
+                },
+                "row3": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 150
+                },
+                "front2": {
+                    "discount": 0,
+                    "max": 600,
+                    "min": 1,
+                    "payout": 15
+                },
+                "back2": {
+                    "discount": 0,
+                    "max": 600,
+                    "min": 1,
+                    "payout": 15
+                }
+            },
+            "hanoylottospecial": {
+                "top3": {
+                    "discount": 0,
+                    "max": 5000,
+                    "min": 1,
+                    "payout": 900
+                },
+                "row3": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 150
+                },
+                "top2": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 90
+                },
+                "bottom2": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 90
+                },
+                "top1": {
+                    "discount": 0,
+                    "max": 200000,
+                    "min": 1,
+                    "payout": 3.2
+                },
+                "bottom1": {
+                    "discount": 0,
+                    "max": 200000,
+                    "min": 1,
+                    "payout": 4.2
+                }
+            },
+            "hanoylottospecial_set": {
+                "top4": {
+                    "discount": 0,
+                    "max": 5000,
+                    "min": 1,
+                    "payout": 900
+                },
+                "row4": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 150
+                },
+                "top3": {
+                    "discount": 0,
+                    "max": 5000,
+                    "min": 1,
+                    "payout": 900
+                },
+                "row3": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 150
+                },
+                "front2": {
+                    "discount": 0,
+                    "max": 600,
+                    "min": 1,
+                    "payout": 15
+                },
+                "back2": {
+                    "discount": 0,
+                    "max": 600,
+                    "min": 1,
+                    "payout": 15
+                }
+            },
+            "hanoylottovip": {
+                "top3": {
+                    "discount": 0,
+                    "max": 5000,
+                    "min": 1,
+                    "payout": 900
+                },
+                "row3": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 150
+                },
+                "top2": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 90
+                },
+                "bottom2": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 90
+                },
+                "top1": {
+                    "discount": 0,
+                    "max": 200000,
+                    "min": 1,
+                    "payout": 3.2
+                },
+                "bottom1": {
+                    "discount": 0,
+                    "max": 200000,
+                    "min": 1,
+                    "payout": 4.2
+                }
+            },
+            "hanoylottovip_set": {
+                "top4": {
+                    "discount": 0,
+                    "max": 5000,
+                    "min": 1,
+                    "payout": 900
+                },
+                "row4": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 150
+                },
+                "top3": {
+                    "discount": 0,
+                    "max": 5000,
+                    "min": 1,
+                    "payout": 900
+                },
+                "row3": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 150
+                },
+                "front2": {
+                    "discount": 0,
+                    "max": 600,
+                    "min": 1,
+                    "payout": 15
+                },
+                "back2": {
+                    "discount": 0,
+                    "max": 600,
+                    "min": 1,
+                    "payout": 15
+                }
+            },
+            "hanoylottotv": {
+                "top3": {
+                    "discount": 0,
+                    "max": 5000,
+                    "min": 1,
+                    "payout": 900
+                },
+                "row3": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 150
+                },
+                "top2": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 90
+                },
+                "bottom2": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 90
+                },
+                "top1": {
+                    "discount": 0,
+                    "max": 200000,
+                    "min": 1,
+                    "payout": 3.2
+                },
+                "bottom1": {
+                    "discount": 0,
+                    "max": 200000,
+                    "min": 1,
+                    "payout": 4.2
+                }
+            },
+            "hanoylottotv_set": {
+                "top4": {
+                    "discount": 0,
+                    "max": 5000,
+                    "min": 1,
+                    "payout": 900
+                },
+                "row4": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 150
+                },
+                "top3": {
+                    "discount": 0,
+                    "max": 5000,
+                    "min": 1,
+                    "payout": 900
+                },
+                "row3": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 150
+                },
+                "front2": {
+                    "discount": 0,
+                    "max": 600,
+                    "min": 1,
+                    "payout": 15
+                },
+                "back2": {
+                    "discount": 0,
+                    "max": 600,
+                    "min": 1,
+                    "payout": 15
+                }
+            },
+            "hanoylottostar": {
+                "top3": {
+                    "discount": 0,
+                    "max": 5000,
+                    "min": 1,
+                    "payout": 900
+                },
+                "row3": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 150
+                },
+                "top2": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 90
+                },
+                "bottom2": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 90
+                },
+                "top1": {
+                    "discount": 0,
+                    "max": 200000,
+                    "min": 1,
+                    "payout": 3.2
+                },
+                "bottom1": {
+                    "discount": 0,
+                    "max": 200000,
+                    "min": 1,
+                    "payout": 4.2
+                }
+            },
+            "hanoylottostar_set": {
+                "top4": {
+                    "discount": 0,
+                    "max": 5000,
+                    "min": 1,
+                    "payout": 900
+                },
+                "row4": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 150
+                },
+                "top3": {
+                    "discount": 0,
+                    "max": 5000,
+                    "min": 1,
+                    "payout": 900
+                },
+                "row3": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 150
+                },
+                "front2": {
+                    "discount": 0,
+                    "max": 600,
+                    "min": 1,
+                    "payout": 15
+                },
+                "back2": {
+                    "discount": 0,
+                    "max": 600,
+                    "min": 1,
+                    "payout": 15
+                }
+            },
+            "pingponglotto": {
+                "top6": {
+                    "discount": 0,
+                    "max": 1000,
+                    "min": 1,
+                    "payout": 50000
+                },
+                "top5": {
+                    "discount": 0,
+                    "max": 2000,
+                    "min": 1,
+                    "payout": 25000
+                },
+                "top4": {
+                    "discount": 0,
+                    "max": 5000,
+                    "min": 1,
+                    "payout": 5000
+                },
+                "row4": {
+                    "discount": 0,
+                    "max": 7000,
+                    "min": 1,
+                    "payout": 225
+                },
+                "top3": {
+                    "discount": 0,
+                    "max": 5000,
+                    "min": 1,
+                    "payout": 800
+                },
+                "row3": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 130
+                },
+                "top2": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 90
+                },
+                "bottom2": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 90
+                },
+                "row2": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 12
+                },
+                "top1": {
+                    "discount": 0,
+                    "max": 200000,
+                    "min": 1,
+                    "payout": 3
+                },
+                "bottom1": {
+                    "discount": 0,
+                    "max": 200000,
+                    "min": 1,
+                    "payout": 4
+                }
+            },
+            "pingponglotto6": {
+                "top6": {
+                    "discount": 0,
+                    "max": 1000,
+                    "min": 1,
+                    "payout": 50000
+                },
+                "top5": {
+                    "discount": 0,
+                    "max": 2000,
+                    "min": 1,
+                    "payout": 25000
+                },
+                "top4": {
+                    "discount": 0,
+                    "max": 5000,
+                    "min": 1,
+                    "payout": 5000
+                },
+                "row4": {
+                    "discount": 0,
+                    "max": 7000,
+                    "min": 1,
+                    "payout": 225
+                },
+                "top3": {
+                    "discount": 0,
+                    "max": 5000,
+                    "min": 1,
+                    "payout": 800
+                },
+                "row3": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 130
+                },
+                "top2": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 90
+                },
+                "bottom2": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 90
+                },
+                "row2": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 12
+                },
+                "top1": {
+                    "discount": 0,
+                    "max": 200000,
+                    "min": 1,
+                    "payout": 3
+                },
+                "bottom1": {
+                    "discount": 0,
+                    "max": 200000,
+                    "min": 1,
+                    "payout": 4
+                }
+            },
+            "pingponglotto3": {
+                "top3": {
+                    "discount": 0,
+                    "max": 5000,
+                    "min": 1,
+                    "payout": 800
+                },
+                "row3": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 130
+                },
+                "top2": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 90
+                },
+                "row2": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 12
+                },
+                "top1": {
+                    "discount": 0,
+                    "max": 200000,
+                    "min": 1,
+                    "payout": 3
+                }
+            },
+            "pingponglotto2": {
+                "top2": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 90
+                },
+                "row2": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 12
+                },
+                "top1": {
+                    "discount": 0,
+                    "max": 200000,
+                    "min": 1,
+                    "payout": 3
+                }
+            },
+            "yeekeelotto": {
+                "top3": {
+                    "discount": 0,
+                    "max": 5000,
+                    "min": 1,
+                    "payout": 800
+                },
+                "row3": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 130
+                },
+                "top2": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 90
+                },
+                "bottom2": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 90
+                },
+                "top1": {
+                    "discount": 0,
+                    "max": 200000,
+                    "min": 1,
+                    "payout": 3
+                },
+                "bottom1": {
+                    "discount": 0,
+                    "max": 200000,
+                    "min": 1,
+                    "payout": 4
+                }
+            },
+            "stock": {
+                "top3": {
+                    "discount": 0,
+                    "max": 5000,
+                    "min": 1,
+                    "payout": 800
+                },
+                "row3": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 130
+                },
+                "top2": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 90
+                },
+                "bottom2": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 90
+                },
+                "top1": {
+                    "discount": 0,
+                    "max": 200000,
+                    "min": 1,
+                    "payout": 3
+                },
+                "bottom1": {
+                    "discount": 0,
+                    "max": 200000,
+                    "min": 1,
+                    "payout": 4
+                }
+            },
+            "zodiaclotto": {
+                "ball1": {
+                    "discount": 0,
+                    "max": 200000,
+                    "min": 1,
+                    "payout": 4.2
+                },
+                "ball2": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 90
+                },
+                "ball3": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 150
+                },
+                "ball4": {
+                    "discount": 0,
+                    "max": 200000,
+                    "min": 1,
+                    "payout": 3.2
+                },
+                "color": {
+                    "discount": 0,
+                    "max": 20000,
+                    "min": 1,
+                    "payout": 90
+                }
+            }
+        }
+    }
+} 
+</div>
+<script>
+  let text = document.getElementById('myText').innerHTML;
+  const copyContent = async () => {
+    try {
+      await navigator.clipboard.writeText(text);
+      console.log('Content copied to clipboard');
+    } catch (err) {
+      console.error('Failed to copy: ', err);
+    }
+    alert("Copy Code Successful");
+  }
+ 
+</script>
                                     <script src="./API_files/ex_3-1.js.download"></script>
                                 </div>
                             </div>
@@ -1822,7 +3154,7 @@
                                         <td class="bRight txtCenter txtMid">laoslottotv</td>
                                     </tr>
                                     <tr>
-                                        <td class="bRight txtMid">หวยลาว รอบ  10.30 (แบบชุด)</td>
+                                        <td class="bRight txtMid">หวยลาว รอบ 10.30 (แบบชุด)</td>
                                         <td class="bRight txtCenter txtMid">laoslottotv_set</td>
                                     </tr>
 
@@ -2259,7 +3591,7 @@
 
 
 
-                <div class="col-12" id="tab5">
+                <!-- <div class="col-12" id="tab5">
                     <lable><b style="color: #19A17A  !important;" set-lan="text:5.5 getUserBalance">5.5
                             getUserBalance</b></lable>
                 </div>
@@ -2474,12 +3806,12 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
                 <div class="pb-5"></div>
 
 
                 <div class="col-12" id="tab6">
-                    <lable><b style="color: #19A17A  !important;">5.6 deposit</b></lable>
+                    <lable><b style="color: #19A17A  !important;">5.5 deposit</b></lable>
                 </div>
                 <div class="pb-3"></div>
                 <div class="btn-toolbar mb-3" role="toolbar">
@@ -2760,7 +4092,7 @@
 
 
                 <div class="col-12" id="tab7">
-                    <lable><b style="color: #19A17A  !important;">5.7 withdrawal</b></lable>
+                    <lable><b style="color: #19A17A  !important;">5.6 withdrawal</b></lable>
                 </div>
                 <div class="pb-3"></div>
                 <div class="btn-toolbar mb-3" role="toolbar">
@@ -3040,7 +4372,7 @@
                 </div>
                 <div class="pb-5"></div>
 
-
+<!-- 
                 <div class="col-12" id="tab8">
                     <lable><b style="color: #19A17A  !important;">5.8 memberBetHistories</b></lable>
                 </div>
@@ -3092,7 +4424,7 @@
                                         <td class="bRight">agentApiKey</td>
                                         <td class="bRight">String</td>
                                         <td>System generate key ID after crate Agent</td>
-                                        <!-- <td>System generate <a href="https://service-api.prettygaming.asia/Page_API_Document/Seamless_API.aspx?Action=0" class="aLink">key</a> ID after crate Agent</td> -->
+                                        <td>System generate <a href="https://service-api.prettygaming.asia/Page_API_Document/Seamless_API.aspx?Action=0" class="aLink">key</a> ID after crate Agent</td>
                                     </tr>
                                     <tr>
                                         <td class="bRight">playerUsername</td>
@@ -3552,6 +4884,7 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="pb-5"></div>
 
 
@@ -4797,21 +6130,22 @@
                         </div>
                     </div>
                 </div>
-                <div class="pb-5"></div>
+                <div class="pb-5"></div> -->
 
-            </div>
-            <div class="btn-toolbar mb-12">
-                <div class="col-md-6">
-                    <button type="button" class="btn btn-info waves-effect waves-light" onclick="location.href='seamlessapi.php'">
-                        <lan set-lan="html:Back">Back</lan>
-                    </button>
+                <div class="btn-toolbar mb-12">
+                    <div class="col-md-6">
+                        <button type="button" class="btn btn-info waves-effect waves-light" onclick="location.href='seamlessapi.php'">
+                            <lan set-lan="html:Back">Back</lan>
+                        </button>
+                    </div>
+                    <div class="col-md-6" style="text-align: right;">
+                        <button type="button" class="btn btn-info waves-effect waves-light" onclick="location.href='responsecode.php'">
+                            <lan set-lan="html:Next">Next</lan>
+                        </button>
+                    </div>
                 </div>
-                <div class="col-md-6" style="text-align: right;">
-                    <button type="button" class="btn btn-info waves-effect waves-light" onclick="location.href='responsecode.php'">
-                        <lan set-lan="html:Next">Next</lan>
-                    </button>
-                </div>
             </div>
+
         </div>
     </main>
 </div>

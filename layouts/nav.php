@@ -260,17 +260,17 @@
                                         <span class="sv-normal" set-lan="text:4.4 login request">5.4 login
                                             request</span></a>
                                 </li>
-                                <li id="manu55"><a class="waves-effect submenu" href="transferwallet.php#tab5">
-                                        <span class="sv-normal" set-lan="text:4.5 getUserBalance">5.5
+                                <!-- <li id="manu55"><a class="waves-effect submenu" href="transferwallet.php#tab5">
+                                        <span class="sv-normal" set-lan="text:4.5 getUserBalance">5.5 old
                                             getUserBalance</span></a>
-                                </li>
+                                </li> -->
                                 <li id="manu56"><a class="waves-effect submenu" href="transferwallet.php#tab6">
-                                        <span class="sv-normal" set-lan="html:4.6">5.6 deposit</span></a>
+                                        <span class="sv-normal" set-lan="html:4.6">5.5 deposit</span></a>
                                 </li>
                                 <li id="manu57"><a class="waves-effect submenu" href="transferwallet.php#tab7">
-                                        <span class="sv-normal" set-lan="html:4.7">5.7 withdrawal</span></a>
+                                        <span class="sv-normal" set-lan="html:4.7">5.6 withdrawal</span></a>
                                 </li>
-                                <li id="manu58"><a class="waves-effect submenu" href="transferwallet.php#tab8">
+                                <!-- <li id="manu58"><a class="waves-effect submenu" href="transferwallet.php#tab8">
                                         <span class="sv-normal" set-lan="html:4.8">5.8
                                             memberBetHistories</span></a>
                                 </li>
@@ -290,7 +290,7 @@
                                 <li id="manu512"><a class="waves-effect submenu" href="transferwallet.php#tab12">
                                         <span class="sv-normal" set-lan="html:4.12">5.12
                                             GetListBetResult</span></a>
-                                </li>
+                                </li> -->
                             </ul>
 
                             <!-- <ul>
