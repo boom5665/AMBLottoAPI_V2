@@ -280,7 +280,7 @@
                                 </li>
                          
                                 <li id="manu510"><a class="waves-effect submenu" href="transferwallet.php#tab10">
-                                        <span class="sv-normal" set-lan="html:4.10">5.10
+                              ad          <span class="sv-normal" set-lan="html:4.10">5.10
                                             depositWithdrawHistory</span></a>
                                 </li>
                                 <li id="manu511"><a class="waves-effect submenu" href="transferwallet.php#tab11">
