@@ -11,11 +11,11 @@
                 }
             </style>
             <div style="background: #f2f3f4; padding: 30px; margin-top: 1%; border-radius: .375rem;">
-                <h1><b style="color: #19A17A !important;" set-lan="text:4. Seamless API">4. Seamless API</b></h1>
+                <h1><b style="color: #19A17A !important;" set-lan="text:4. Seamless API">4. <span style="padding-left: 3px;" id="Seamless_Seamless_API"> Seamless API</span></b></h1>
                 <div class="pb-3"></div>
                 <div class="col-12" id="tabOne">
                     <lable><b style="color: #19A17A !important;" set-lan="text:4.1 Introduction Seamless API">4.1
-                            Introduction Seamless API</b></lable>
+                            <span style="padding-left: 3px;" id="Seamless_Introduction_Seamless_API">Introduction Seamless API</span></b></lable>
                 </div>
                 <div class="pb-3"></div>
                 <div class="btn-toolbar mb-3" role="toolbar">
@@ -26,7 +26,7 @@
                 </div>
                 <div class="pb-3"></div>
                 <div class="col-12" id="tabTwo">
-                    <lable><b style="color: #19A17A !important;" set-lan="text:4.2 Workflow">4.2 Workflow</b>
+                    <lable><b style="color: #19A17A !important;" set-lan="text:4.2 Workflow">4.2 <span style="padding-left: 3px;" id="Seamless_Workflow">Workflow</span></b>
                     </lable>
                 </div>
                 <div class="pb-3"></div>
@@ -43,7 +43,7 @@
 
 
                 <div class="col-12" id="tabThree">
-                    <lable><b style="color: #19A17A !important;" set-lan="text:4.3 Setting">4.3 Setting</b></lable>
+                    <lable><b style="color: #19A17A !important;" set-lan="text:4.3 Setting">4.3 <span style="padding-left: 3px;" id="Seamless_Setting">Setting</span></b></lable>
                 </div>
                 <div class="pb-3"></div>
                 <div class="btn-toolbar mb-3" role="toolbar">
@@ -80,8 +80,8 @@
 
 
                 <div class="col-12" id="tabFour">
-                    <lable><b style="color: #19A17A !important;" set-lan="text:4.4 login request">4.4 Login
-                            request</b></lable>
+                    <lable><b style="color: #19A17A !important;" set-lan="text:4.4 login request">4.4 <span style="padding-left: 3px;" id="Seamless_login_request">Login
+                    request</span></b></lable>
                 </div>
                 <div class="pb-3"></div>
                 <div class="btn-toolbar mb-3" role="toolbar">
@@ -954,8 +954,8 @@
 
 
                 <div class="col-12" id="tabFive">
-                    <lable><b style="color: #19A17A !important;" set-lan="text:4.5 Call Back Service">4.5 Call Back
-                            Service</b></lable>
+                    <lable><b style="color: #19A17A !important;" set-lan="text:4.5 Call Back Service">4.5 <span style="padding-left: 3px;" id="Seamless_Call_Back_Service">Call Back Service</span>
+                            </b></lable>
                 </div>
                 <div class="pb-3"></div>
                 <div class="col-12">
@@ -967,7 +967,7 @@
                 <div class="pb-5"></div>
                 <div class="col-12" id="tabSix" style="margin-left: 10px;">
                     <lable><b style="color: #19A17A !important;" set-lan="text:4.5.1 GetUserBalance">4.5.1
-                            GetUserDetail</b>
+                    <span style="padding-left: 3px;" id="Seamless_GetUserDetail">GetUserDetail</span></b>
                     </lable>
                 </div>
                 <div class="btn-toolbar mb-3" role="toolbar">
@@ -1843,7 +1843,7 @@
                 <div class="pb-3"></div>
                 <div class="col-12" id="tabSixs" style="margin-left: 10px;">
                     <lable><b style="color: #19A17A !important;" set-lan="text:4.5.1 GetUserBalance">4.5.2
-                            GetUserBalance</b></lable>
+                    <span style="padding-left: 3px;" id="Seamless_GetUserBalance">GetUserBalance</span></b></lable>
                 </div>
                 <div class="pb-3"></div>
                 <div class="btn-toolbar mb-3" role="toolbar">
@@ -2002,7 +2002,7 @@
 
                 <div class="col-12" id="tabSeven">
                     <lable><b style="color: #19A17A !important;" set-lan="text:4.5.2 UserPlaceBet">4.5.3
-                            UserPlaceBet</b></lable>
+                    <span style="padding-left: 3px;" id="Seamless_UserPlaceBet">UserPlaceBet</span></b></lable>
                 </div>
                 <div class="pb-3"></div>
                 <div class="btn-toolbar mb-3" role="toolbar">
@@ -2313,7 +2313,7 @@
 
 
                 <div class="col-12" id="tabEight">
-                    <lable><b style="color: #19A17A !important;">4.5.4 UserPlaceBetCancel</b></lable>
+                    <lable><b style="color: #19A17A !important;">4.5.4 <span style="padding-left: 3px;" id="Seamless_UserPlaceBetCancel">UserPlaceBetCancel</span></b></lable>
                 </div>
                 <div class="pb-3"></div>
                 <div class="btn-toolbar mb-3" role="toolbar">
@@ -2619,7 +2619,7 @@
 
 
                 <div class="col-12" id="tabNine">
-                    <lable><b style="color: #19A17A !important;">4.5.5 UserPlacePayout</b></lable>
+                    <lable><b style="color: #19A17A !important;">4.5.5 <span style="padding-left: 3px;" id="Seamless_UserPlacePayout">UserPlacePayout</span></b></lable>
                 </div>
                 <div class="pb-3"></div>
                 <div class="btn-toolbar mb-3" role="toolbar">
@@ -2943,7 +2943,7 @@
 
 
                 <div class="col-12" id="tab15">
-                    <lable><b style="color: #19A17A !important;">4.5.6 UserPlaceReToRunning</b></lable>
+                    <lable><b style="color: #19A17A !important;">4.5.6 <span style="padding-left: 3px;" id="Seamless_UserPlaceReToRunning">UserPlaceReToRunning</span></b></lable>
                 </div>
                 <div class="pb-3"></div>
                 <div class="btn-toolbar mb-3" role="toolbar">
@@ -3232,7 +3232,7 @@
 
 
                 <div class="col-12" id="tab16">
-                    <lable><b style="color: #19A17A !important;">4.5.7 UserPayReward</b></lable>
+                    <lable><b style="color: #19A17A !important;">4.5.7 <span style="padding-left: 3px;" id="Seamless_UserPayReward">UserPayReward</span></b></lable>
                 </div>
                 <div class="pb-3"></div>
                 <div class="btn-toolbar mb-3" role="toolbar">
@@ -3444,7 +3444,7 @@
 
 
                 <div class="col-12" id="tabTen">
-                    <lable><b style="color: #19A17A !important;">4.5.8 UserPayRewardCancel</b></lable>
+                    <lable><b style="color: #19A17A !important;">4.5.8 <span style="padding-left: 3px;" id="Seamless_UserPayRewardCancel">UserPayRewardCancel</span></b></lable>
                 </div>
                 <div class="pb-3"></div>
                 <div class="btn-toolbar mb-3" role="toolbar">
@@ -3647,10 +3647,10 @@
                 <div class="pb-5"></div>
 
 
-                <lable id="tabEleven"><b style="color: #19A17A !important;">4.6 Optional API</b></lable>
+                <lable id="tabEleven"><b style="color: #19A17A !important;">4.6 <span style="padding-left: 3px;" id="Seamless_Optional_API">Optional API</span></b></lable>
                 <div class="pb-4"></div>
                 <div class="col-12" id="tabFourteen">
-                    <lable><b style="color: #19A17A !important;">4.6.1 memberBetHistories</b></lable>
+                    <lable><b style="color: #19A17A !important;">4.6.1 <span style="padding-left: 3px;" id="Seamless_memberBetHistories">memberBetHistories</span></b></lable>
                 </div>
                 <div class="pb-3"></div>
                 <div class="btn-toolbar mb-3" role="toolbar">
@@ -4125,7 +4125,7 @@
 
 
                 <div class="col-12" id="tabTwelve">
-                    <lable><b style="color: #19A17A !important;">4.6.2 betHistories</b></lable>
+                    <lable><b style="color: #19A17A !important;">4.6.2 <span style="padding-left: 3px;" id="Seamless_betHistories">betHistories</span></b></lable>
                 </div>
                 <div class="pb-3"></div>
                 <div class="btn-toolbar mb-3" role="toolbar">
@@ -4656,7 +4656,7 @@
 
 
                 <div class="col-12" id="tabThirteen">
-                    <lable><b style="color: #19A17A !important;">4.6.3 GetListBetResult</b></lable>
+                    <lable><b style="color: #19A17A !important;">4.6.3 <span style="padding-left: 3px;" id="Seamless_GetListBetResult">GetListBetResult</span></b></lable>
                 </div>
                 <div class="pb-3"></div>
                 <div class="btn-toolbar mb-3" role="toolbar">
@@ -4907,11 +4907,11 @@
                     </div>
                 </div>
                 <div class="pb-5"></div>
-                <lable id="tab464"><b style="color: #19A17A !important;">4.6.4 Setting Back-Office</b></lable>
+                <lable id="tab464"><b style="color: #19A17A !important;">4.6.4 <span style="padding-left: 3px;" id="Seamless_Setting_Back_Office">Setting Back-Office</span></b></lable>
                 <div class="pb-4"></div>
 
                 <div class="col-12" id="tab4641">
-                    <lable><b style="color: #19A17A !important;">4.6.4.1 AddHotnumber</b></lable>
+                    <lable><b style="color: #19A17A !important;">4.6.4.1 <span style="padding-left: 3px;" id="Seamless_AddHotnumber">AddHotnumber</span></b></lable>
                 </div>
                 <div class="pb-3"></div>
                 <div class="btn-toolbar mb-3" role="toolbar">
@@ -5177,7 +5177,7 @@
                 <div class="pb-5"></div>
 
                 <div class="col-12" id="tab4642">
-                    <lable><b style="color: #19A17A !important;">4.6.4.2 EditHotnumber</b></lable>
+                    <lable><b style="color: #19A17A !important;">4.6.4.2 <span style="padding-left: 3px;" id="Seamless_EditHotnumber">EditHotnumber</span></b></lable>
                 </div>
                 <div class="pb-3"></div>
                 <div class="btn-toolbar mb-3" role="toolbar">
@@ -5439,7 +5439,7 @@
                 <div class="pb-5"></div>
 
                 <div class="col-12" id="tab4643">
-                    <lable><b style="color: #19A17A !important;">4.6.4.3 DeleteHotnumber</b></lable>
+                    <lable><b style="color: #19A17A !important;">4.6.4.3 <span style="padding-left: 3px;" id="Seamless_DeleteHotnumber">DeleteHotnumber</span></b></lable>
                 </div>
                 <div class="pb-3"></div>
                 <div class="btn-toolbar mb-3" role="toolbar">
@@ -5683,7 +5683,7 @@
                 <div class="pb-5"></div>
 
                 <div class="col-12" id="tab4644">
-                    <lable><b style="color: #19A17A !important;">4.6.4.4 AddLimitnumber</b></lable>
+                    <lable><b style="color: #19A17A !important;">4.6.4.4 <span style="padding-left: 3px;" id="Seamless_AddLimitnumber">AddLimitnumber</span></b></lable>
                 </div>
                 <div class="pb-3"></div>
                 <div class="btn-toolbar mb-3" role="toolbar">
@@ -5927,7 +5927,7 @@
                 <div class="pb-5"></div>
 
                 <div class="col-12" id="tab4645">
-                    <lable><b style="color: #19A17A !important;">4.6.4.5 DeleteLimitnumber</b></lable>
+                    <lable><b style="color: #19A17A !important;">4.6.4.5 <span style="padding-left: 3px;" id="Seamless_DeleteLimitnumber">DeleteLimitnumber</span></b></lable>
                 </div>
                 <div class="pb-3"></div>
                 <div class="btn-toolbar mb-3" role="toolbar">
@@ -6155,7 +6155,7 @@
                 <div class="pb-5"></div>
 
                 <div class="col-12" id="tab4646">
-                    <lable><b style="color: #19A17A !important;">4.6.4.6 SetPlaceout</b></lable>
+                    <lable><b style="color: #19A17A !important;">4.6.4.6 <span style="padding-left: 3px;" id="Seamless_SetPlaceout">SetPlaceout</span></b></lable>
                 </div>
                 <div class="pb-3"></div>
                 <div class="btn-toolbar mb-3" role="toolbar">
@@ -6546,7 +6546,7 @@
                 <div class="pb-5"></div>
 
                 <div class="col-12" id="tab47">
-                    <lable><b style="color: #19A17A !important;">4.7 ListPlaceout</b></lable>
+                    <lable><b style="color: #19A17A !important;">4.7 <span style="padding-left: 3px;" id="Seamless_ListPlaceout">ListPlaceout</span></b></lable>
                 </div>
                 <div class="pb-3"></div>
                 <div class="btn-toolbar mb-3" role="toolbar">
@@ -8002,7 +8002,7 @@
                 <div class="pb-5"></div>
 
                 <div class="col-12" id="tab48">
-                    <lable><b style="color: #19A17A !important;">4.8 ListHotnumberandLimitnumber</b></lable>
+                    <lable><b style="color: #19A17A !important;">4.8 <span style="padding-left: 3px;" id="Seamless_ListHotnumberandLimitnumber">ListHotnumberandLimitnumber</span></b></lable>
                 </div>
                 <div class="pb-3"></div>
                 <div class="btn-toolbar mb-3" role="toolbar">
@@ -8253,7 +8253,7 @@
                     </div>
                 </div>
                 <div class="col-12" id="tab49">
-                    <lable><b style="color: #19A17A !important;">4.9 Detail</b></lable>
+                    <lable><b style="color: #19A17A !important;">4.9 <span style="padding-left: 3px;" id="Seamless_Detail">Detail</span></b></lable>
                 </div>
                 <div class="pb-3"></div>
                 <div class="btn-toolbar mb-3" role="toolbar">

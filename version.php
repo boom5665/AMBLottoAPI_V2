@@ -6,7 +6,7 @@
             <?php include 'layouts/lang.php';?>
             <div class="body-content">
                 <div style="background: #f2f3f4; padding: 30px; margin-top: 1%; border-radius: .375rem;">
-                    <h1><b style="color: #19A17A !important;" set-lan="text:2. Version">2. Version</b></h1>
+                    <h1><b style="color: #19A17A !important;" set-lan="text:2. Version">2. <span id="Version_Version">Version</span></b></h1>
                     <div class="pb-3"></div>
                     <div class="table-wrapper">
                         <table class="table table-borderless table-striped" id="DataTable">

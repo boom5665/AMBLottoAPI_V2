@@ -1,3 +1,5 @@
+
+
 <?php include 'layouts/header.php';?>
     <div class="wrapper container">
         <?php include 'layouts/nav.php';?>
@@ -6,7 +8,7 @@
             <div class="body-content">
 
                 <div style="background: #f2f3f4; padding: 30px; margin-top: 1%; border-radius: .375rem;">
-                    <h1><b style="color: #19A17A !important;" set-lan="text:1. Introduction">1. Introduction</b>
+                    <h1><b style="color: #19A17A !important;" set-lan="text:1. Introduction">1. <span id="index_Introduction">Introduction</span></span></b>
                     </h1>
                     <div class="pb-3"></div>
                     <div class="btn-toolbar mb-3" role="toolbar">
@@ -19,7 +21,7 @@
 
                 </div>
                 <div style="background: #f2f3f4; padding: 30px; margin-top: 1%; border-radius: .375rem;">
-                    <h1><b style="color: #19A17A !important;">Askmelotto Integration Form</b></h1>
+                    <h1><b style="color: #19A17A !important;"><span id="index_Askmelotto_Integration_Form">Askmelotto Integration Form</span></b></h1>
                     <div class="btn-toolbar mb-3" role="toolbar">
                         <div class="form-group col-12" style="margin-left: 4rem;">
                             <a href="./API_files/AMBLOTTOVIP_integration_form.docx"
@@ -57,3 +59,4 @@
 </body>
 
 </html>
+
