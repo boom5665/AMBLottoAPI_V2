@@ -12,11 +12,11 @@
             </style>
 
             <div style="background: #f2f3f4; padding: 30px; margin-top: 1%; border-radius: .375rem;">
-                <h1><b style="color: #19A17A !important;">6. Service Respond Code</b></h1>
+                <h1><b style="color: #19A17A !important;">6. <span style="padding-left: 3px;" id="ser_Service_Respond_Code">Service Respond Code</span></b></h1>
                 <div class="pb-3"></div>
 
                 <div class="col-12" id="tabOne">
-                    <lable><b style="color: #19A17A !important;">6.1 Member Authen</b></lable>
+                    <lable><b style="color: #19A17A !important;">6.1 <span style="padding-left: 3px;" id="ser_Member_Authen">Member Authen</span></b></lable>
                 </div>
                 <div class="btn-toolbar mb-3" role="toolbar">
                     <div class="form-group col-1"></div>
@@ -62,7 +62,7 @@
       
 
                 <div class="col-12" id="tabTwo">
-                    <lable><b style="color: #19A17A !important;">6.2 Service Respone</b></lable>
+                    <lable><b style="color: #19A17A !important;">6.2 <span style="padding-left: 3px;" id="ser_Service_Respone">Service Respone</span></b></lable>
                 </div>
                 <div class="btn-toolbar mb-3" role="toolbar">
                     <div class="form-group col-1"></div>

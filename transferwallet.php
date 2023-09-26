@@ -15,11 +15,11 @@
             </style>
             <div style="background: #f2f3f4; padding: 30px; margin-top: 1%; border-radius: .375rem;">
                 <h1><b style="color: #19A17A  !important;" data-translate="4" set-lan="text:5. Transferwallet Api">5.
-                        Transferwallet API</b></h1>
+                <span style="padding-left: 3px;" id="tran_Transferwallet_API">Transferwallet API</span></b></h1>
                 <div class="pb-3"></div>
                 <div class="col-12" id="tab1">
                     <lable><b style="color: #19A17A  !important;" set-lan="text:5.1 Introduction Transferwallet API">5.1
-                            Introduction Transferwallet API</b></lable>
+                    <span style="padding-left: 3px;" id="tran_Introduction_Transferwallet_API">Introduction Transferwallet API</span></b></lable>
                 </div>
                 <div class="pb-3"></div>
                 <div class="btn-toolbar mb-3" role="toolbar">
@@ -31,7 +31,7 @@
                 </div>
                 <div class="pb-3"></div>
                 <div class="col-12" id="tab2">
-                    <lable><b style="color: #19A17A  !important;" set-lan="text:5.2 Workflow">5.2 Workflow</b></lable>
+                    <lable><b style="color: #19A17A  !important;" set-lan="text:5.2 Workflow">5.2 <span style="padding-left: 3px;" id="tran_Workflow5">Workflow</span></b></lable>
                 </div>
                 <div class="pb-3"></div>
                 <div class="btn-toolbar mb-3" role="toolbar">
@@ -43,7 +43,7 @@
                 </div>
                 <div class="pb-3"></div>
                 <div class="col-12" id="tab3">
-                    <lable><b style="color: #19A17A  !important;" set-lan="text:5.3 Setting">5.3 Setting</b></lable>
+                    <lable><b style="color: #19A17A  !important;" set-lan="text:5.3 Setting">5.3 <span style="padding-left: 3px;" id="tran_Setting5">Setting</span></b></lable>
                 </div>
                 <div class="pb-3"></div>
                 <div class="btn-toolbar mb-3" role="toolbar">
@@ -82,7 +82,7 @@
 
 
                 <div class="col-12" id="tab4">
-                    <lable><b style="color: #19A17A  !important;" set-lan="text:5.4 login request">5.4 login request</b>
+                    <lable><b style="color: #19A17A  !important;" set-lan="text:5.4 login request">5.4 <span style="padding-left: 3px;" id="tran_login_request5">login request</span></b>
                     </lable>
                 </div>
                 <div class="pb-3"></div>
@@ -3811,7 +3811,7 @@
 
 
                 <div class="col-12" id="tab6">
-                    <lable><b style="color: #19A17A  !important;">5.5 deposit</b></lable>
+                    <lable><b style="color: #19A17A  !important;">5.5 <span style="padding-left: 3px;" id="tran_deposit">deposit</span></b></lable>
                 </div>
                 <div class="pb-3"></div>
                 <div class="btn-toolbar mb-3" role="toolbar">
@@ -4092,7 +4092,7 @@
 
 
                 <div class="col-12" id="tab7">
-                    <lable><b style="color: #19A17A  !important;">5.6 withdrawal</b></lable>
+                    <lable><b style="color: #19A17A  !important;">5.6 <span style="padding-left: 3px;" id="tran_withdrawal">withdrawal</span></b></lable>
                 </div>
                 <div class="pb-3"></div>
                 <div class="btn-toolbar mb-3" role="toolbar">

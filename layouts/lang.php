@@ -87,6 +87,7 @@
         menu_Service_Respond_Code :"การบริการรหัสตอบกลับ",
         menu_Member_Authen: "สมาชิกแท้",
         menu_Service_Respone: "การตอบสนองการบริการ",
+
         index_Introduction: "การแนะนำ",
         index_Askmelotto_Integration_Form: "Askmelotto แบบฟอร์มบูรณาการ",
         Version_Version: "เวอร์ชั่น",
@@ -122,6 +123,18 @@
         Seamless_ListPlaceout: "รายชือสถานที่",
         Seamless_ListHotnumberandLimitnumber: "รายชือหมายเลขยอดนิยม และ เลขจำนวนจำกัด",
         Seamless_Detail: "รายละเอียด",
+
+        tran_Transferwallet_API: "โอนกระเป๋าสตางค์ API",
+        tran_Introduction_Transferwallet_API: "การดำเนินการโอนกระเป๋าสตางค์ API",
+        tran_Workflow5: "ขั้นตอนการทำงาน",
+        tran_Setting5: "การตั้งค่า",
+        tran_login_request5: "คำขอเข้าสู่ระบบ",
+        tran_deposit: "เงินฝาก",
+        tran_withdrawal: "การถอนตัว",
+
+        ser_Service_Respond_Code :"การบริการรหัสตอบกลับ",
+        ser_Member_Authen: "สมาชิกแท้",
+        ser_Service_Respone: "การตอบสนองการบริการ",
 
     };
     var en = {
@@ -169,6 +182,7 @@
         menu_Service_Respond_Code :"Service Respond Code",
         menu_Member_Authen: "Member Authen",
         menu_Service_Respone: "Service Respone",
+
         index_Introduction: "Introduction",
         index_Askmelotto_Integration_Form: "Askmelotto Integration Form",
         Version_Version: "Version",
@@ -205,6 +219,17 @@
         Seamless_ListHotnumberandLimitnumber: "ListHotnumberandLimitnumber",
         Seamless_Detail: "Detail",
 
+        tran_Transferwallet_API: "Transferwallet API",
+        tran_Introduction_Transferwallet_API: "Introduction Transferwallet API",
+        tran_Workflow5: "Workflow",
+        tran_Setting5: "Setting",
+        tran_login_request5: "login request",
+        tran_deposit: "deposit",
+        tran_withdrawal: "withdrawal",
+
+        ser_Service_Respond_Code :"Service Respond Code",
+        ser_Member_Authen: "Member Authen",
+        ser_Service_Respone: "Service Respone",
     };
 
     function renderlang() {
@@ -255,6 +280,7 @@
             $("#menu_Service_Respond_Code").text(settext("menu_Service_Respond_Code"));
             $("#menu_Member_Authen").text(settext("menu_Member_Authen"));
             $("#menu_Service_Respone").text(settext("menu_Service_Respone"));
+
             $("#index_Introduction").text(settext("index_Introduction"));
             $("#index_Askmelotto_Integration_Form").text(settext("index_Askmelotto_Integration_Form"));
             $("#Version_Version").text(settext("Version_Version"));
@@ -290,6 +316,18 @@
             $("#Seamless_ListPlaceout").text(settext("Seamless_ListPlaceout"));
             $("#Seamless_ListHotnumberandLimitnumber").text(settext("Seamless_ListHotnumberandLimitnumber"));
             $("#Seamless_Detail").text(settext("Seamless_Detail"));
+
+            $("#tran_Transferwallet_API").text(settext("tran_Transferwallet_API"));
+            $("#tran_Introduction_Transferwallet_API").text(settext("tran_Introduction_Transferwallet_API"));
+            $("#tran_Workflow5").text(settext("tran_Workflow5"));
+            $("#tran_Setting5").text(settext("tran_Setting5"));
+            $("#tran_login_request5").text(settext("tran_login_request5"));
+            $("#tran_deposit").text(settext("tran_deposit"));
+            $("#tran_withdrawal").text(settext("tran_withdrawal"));
+
+            $("#ser_Service_Respond_Code").text(settext("ser_Service_Respond_Code"));
+            $("#ser_Member_Authen").text(settext("ser_Member_Authen"));
+            $("#ser_Service_Respone").text(settext("ser_Service_Respone"));
         }
     }
 
