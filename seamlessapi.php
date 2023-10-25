@@ -96,7 +96,7 @@
                             </label>
                             <label>
 
-                                https://test-api.pirate168.com/apiRoute/member/loginRequest
+                                https://dev-api.amblotto.net/apiRoute/member/loginRequest
                             </label>
                         </div>
                         <div class="col-12">
@@ -3816,7 +3816,7 @@
                         </div>
                         <div class="col-12">
                             <label class="txtHead">Url : </label>
-                            <label>https://test-api.pirate168.com/apiRoute/api/memberBetHistories</label>
+                            <label>https://dev-api.amblotto.net/apiRoute/api/memberBetHistories</label>
                         </div>
                         <div class="col-12">
                             <label class="txtHead">
@@ -4294,7 +4294,7 @@
                                 Url :
                             </label>
                             <label>
-                                https://test-api.pirate168.com/apiRoute/api/betHistories
+                                https://dev-api.amblotto.net/apiRoute/api/betHistories
                             </label>
                         </div>
                         <div class="col-12">
@@ -4825,7 +4825,7 @@
                                 Url :
                             </label>
                             <label>
-                                https://test-api.pirate168.com/apiRoute/api/GetListBetResult
+                                https://dev-api.amblotto.net/apiRoute/api/GetListBetResult
                             </label>
                         </div>
                         <div class="col-12">
@@ -5080,7 +5080,7 @@
                                 Url :
                             </label>
                             <label>
-                                https://test-api.pirate168.com/apiRoute/api/settingBO
+                                https://dev-api.amblotto.net/apiRoute/api/settingBO
                             </label>
                         </div>
                         <div class="col-12">
@@ -5346,7 +5346,7 @@
                                 Url :
                             </label>
                             <label>
-                                https://test-api.pirate168.com/apiRoute/api/settingBO
+                                https://dev-api.amblotto.net/apiRoute/api/settingBO
                             </label>
                         </div>
                         <div class="col-12">
@@ -5608,7 +5608,7 @@
                                 Url :
                             </label>
                             <label>
-                                https://test-api.pirate168.com/apiRoute/api/settingBO
+                                https://dev-api.amblotto.net/apiRoute/api/settingBO
                             </label>
                         </div>
                         <div class="col-12">
@@ -5852,7 +5852,7 @@
                                 Url :
                             </label>
                             <label>
-                                https://test-api.pirate168.com/apiRoute/api/settingBO
+                                https://dev-api.amblotto.net/apiRoute/api/settingBO
                             </label>
                         </div>
                         <div class="col-12">
@@ -6096,7 +6096,7 @@
                                 Url :
                             </label>
                             <label>
-                                https://test-api.pirate168.com/apiRoute/api/settingBO
+                                https://dev-api.amblotto.net/apiRoute/api/settingBO
                             </label>
                         </div>
                         <div class="col-12">
@@ -6324,7 +6324,7 @@
                                 Url :
                             </label>
                             <label>
-                                https://test-api.pirate168.com/apiRoute/api/settingBO
+                                https://dev-api.amblotto.net/apiRoute/api/settingBO
                             </label>
                         </div>
                         <div class="col-12">
@@ -6715,7 +6715,7 @@
                                 Url :
                             </label>
                             <label>
-                                https://test-api.pirate168.com/apiRoute/api/ListPlaceout
+                                https://dev-api.amblotto.net/apiRoute/api/ListPlaceout
                             </label>
                         </div>
                         <div class="col-12">
@@ -8171,7 +8171,7 @@
                                 Url :
                             </label>
                             <label>
-                                https://test-api.pirate168.com/apiRoute/api/ListHotnumberandLimitnumber
+                                https://dev-api.amblotto.net/apiRoute/api/ListHotnumberandLimitnumber
                             </label>
                         </div>
                         <div class="col-12">
@@ -8422,7 +8422,7 @@
                                 Url :
                             </label>
                             <label>
-                                https://test-api.pirate168.com/apiRoute/api/detail
+                                https://dev-api.amblotto.net/apiRoute/api/detail
                             </label>
                         </div>
                         <div class="col-12">

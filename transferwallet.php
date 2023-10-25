@@ -3605,7 +3605,7 @@
                         <div class="col-12">
                             <label class="txtHead">Url : </label>
                             <label>
-                                https://test-api.pirate168.com/apiRoute/api/getUserBalance
+                                https://dev-api.amblotto.net/apiRoute/api/getUserBalance
                             </label>
                         </div>
                         <div class="col-12">
@@ -3823,7 +3823,7 @@
                         <div class="col-12">
                             <label class="txtHead">Url : </label>
                             <label>
-                                https://test-api.pirate168.com/apiRoute/api/deposit
+                                https://dev-api.amblotto.net/apiRoute/api/deposit
                             </label>
                         </div>
                         <div class="col-12">
@@ -4104,7 +4104,7 @@
                         <div class="col-12">
                             <label class="txtHead">Url : </label>
                             <label>
-                                https://test-api.pirate168.com/apiRoute/api/withdraw
+                                https://dev-api.amblotto.net/apiRoute/api/withdraw
                             </label>
                         </div>
                         <div class="col-12">
@@ -4386,7 +4386,7 @@
                         <div class="col-12">
                             <label class="txtHead">Url : </label>
                             <label>
-                                https://test-api.pirate168.com/apiRoute/api/memberBetHistories
+                                https://dev-api.amblotto.net/apiRoute/api/memberBetHistories
                             </label>
                         </div>
                         <div class="col-12">
@@ -4901,7 +4901,7 @@
                         <div class="col-12">
                             <label class="txtHead">Url : </label>
                             <label>
-                                https://test-api.pirate168.com/apiRoute/api/betHistories
+                                https://dev-api.amblotto.net/apiRoute/api/betHistories
                             </label>
                         </div>
                         <div class="col-12">
@@ -5407,7 +5407,7 @@
                         <div class="col-12">
                             <label class="txtHead">Url : </label>
                             <label>
-                                https://test-api.pirate168.com/apiRoute/api/depositWithdrawHistory
+                                https://dev-api.amblotto.net/apiRoute/api/depositWithdrawHistory
                             </label>
                         </div>
                         <div class="col-12">
@@ -5647,7 +5647,7 @@
                         <div class="col-12">
                             <label class="txtHead">Url : </label>
                             <label>
-                                https://test-api.pirate168.com/apiRoute/api/depositWithdrawHistoryByTransId
+                                https://dev-api.amblotto.net/apiRoute/api/depositWithdrawHistoryByTransId
                             </label>
                         </div>
                         <div class="col-12">
@@ -5886,7 +5886,7 @@
                         <div class="col-12">
                             <label class="txtHead">Url : </label>
                             <label>
-                                https://test-api.pirate168.com/apiRoute/api/GetListBetResult
+                                https://dev-api.amblotto.net/apiRoute/api/GetListBetResult
                             </label>
                         </div>
                         <div class="col-12">
