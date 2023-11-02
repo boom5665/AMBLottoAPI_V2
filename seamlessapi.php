@@ -36,7 +36,7 @@
                             ข้อมูลเบื้องต้นแสดงการทำงานในการเรียกใช้ API ของระบบคู่ธุรกิจ เพื่อให้ระบบสามารถเรียกใช้ API ได้ภายใต้เงื่อนไขได้อย่างถูกต้อง</label>
                     </div>
                     <div class="col-12">
-                        <img src="./API_files/SeamlessFlow.png" style="width: 80%; margin-left: 10%;">
+                        <img src="./API_files/SeamlessFlow1.png" style="width: 80%; margin-left: 10%;">
                     </div>
                 </div>
                 <div class="pb-5"></div>
