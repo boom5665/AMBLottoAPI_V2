@@ -2610,48 +2610,38 @@
                                     <pre><code id="353A" style="border-radius: 0.375rem;" class="hljs json">{
     <span class="hljs-attr">"service"</span>: <span class="hljs-string">"UserPlaceBetCancel"</span>,
     <span class="hljs-attr">"data"</span>: {
-        <span class="hljs-attr">"playerApiId"</span>: <span class="hljs-string">"17305dd0a2769c38d3a589eb9488b9262c59b592432206e184f6687844be57"</span>,
-        <span class="hljs-attr">"playerApiUsername"</span>: <span class="hljs-string">"'superbas@agentapi"</span>,
-        <span class="hljs-attr">"playerUsername"</span>: <span class="hljs-string">"superbas"</span>,
-        <span class="hljs-attr">"ticketId"</span>: <span class="hljs-string">"6542"</span>,
+        <span class="hljs-attr">"playerApiId"</span>: <span class="hljs-string">"4e4fbb4539fb0b7bd1d6b01a7f218cc0c311466f40bade45189b24a3efa3e6ba5ef2d47ee85eb2cffa48379b4fa017c6"</span>,
+        <span class="hljs-attr">"playerApiUsername"</span>: <span class="hljs-string">"testa0alottoviptestcarl@sportbookv2"</span>,
+        <span class="hljs-attr">"playerUsername"</span>: <span class="hljs-string">"testa0alottoviptestcarl"</span>,
+        <span class="hljs-attr">"ticketId"</span>: <span class="hljs-string">53000</span>,
         <span class="hljs-attr">"type"</span>: <span class="hljs-string">"thailotto"</span>,
         <span class="hljs-attr">"government"</span>: <span class="hljs-string">false</span>,
-        <span class="hljs-attr">"drawId"</span>: <span class="hljs-number">20064</span>,
-        <span class="hljs-attr">"totalBetAmt"</span>: <span class="hljs-number">-80</span>,
+        <span class="hljs-attr">"drawId"</span>: <span class="hljs-number">44170</span>,
+        <span class="hljs-attr">"totalBetAmt"</span>: <span class="hljs-number">-10000</span>
         <span class="hljs-attr">"txtList"</span>: [
             {
-                <span class="hljs-attr">"agentPt"</span>: <span class="hljs-number">"20"</span>,
-                <span class="hljs-attr">"apiPt"</span>: <span class="hljs-string">"80"</span>,
-                <span class="hljs-attr">"betKey"</span>: <span class="hljs-number">"NjU0Mi0y"</span>,
-                <span class="hljs-attr">"betId"</span>: <span class="hljs-string">"2"</span>,
+                <span class="hljs-attr">"agentPt"</span>: <span class="hljs-number">"95"</span>,
+                <span class="hljs-attr">"apiPt"</span>: <span class="hljs-string">"5"</span>,
+                <span class="hljs-attr">"betKey"</span>: <span class="hljs-number">"NTMwMDAtMQ=="</span>,
+                <span class="hljs-attr">"betId"</span>: <span class="hljs-string">"1"</span>,
                 <span class="hljs-attr">"betType"</span>: <span class="hljs-number">"bottom2"</span>,
-                <span class="hljs-attr">"betNumber"</span>: <span class="hljs-number">"23"</span>,
-                <span class="hljs-attr">"betStatus"</span>: <span class="hljs-number">"Cancel"</span>,
-                <span class="hljs-attr">"betAmt"</span>: <span class="hljs-number">10</span>,
-                <span class="hljs-attr">"betTotal"</span>: <span class="hljs-string">10</span>,
+                <span class="hljs-attr">"betNumber"</span>: <span class="hljs-number">"10"</span>,
+                <span class="hljs-attr">"betStatus"</span>: <span class="hljs-number">"pending"</span>,
+                <span class="hljs-attr">"betAmt"</span>: <span class="hljs-number">10000</span>,
+                <span class="hljs-attr">"betTotal"</span>: <span class="hljs-string">10000</span>,
                 <span class="hljs-attr">"betDiscount"</span>: <span class="hljs-number">0</span>,
                 <span class="hljs-attr">"payOutRate"</span>: <span class="hljs-number">90</span>,
                 <span class="hljs-attr">"rateLevel"</span>: <span class="hljs-number">0</span>,
-                <span class="hljs-attr">"rateLevelAmount"</span>: <span class="hljs-number">0</span>
-            },
-            {
-                <span class="hljs-attr">"agentPt"</span>: <span class="hljs-number">"20"</span>,
-                <span class="hljs-attr">"apiPt"</span>: <span class="hljs-string">"80"</span>,
-                <span class="hljs-attr">"betKey"</span>: <span class="hljs-number">"NjU0Mi0z"</span>,
-                <span class="hljs-attr">"betId"</span>: <span class="hljs-string">"3"</span>,
-                <span class="hljs-attr">"betType"</span>: <span class="hljs-number">"bottom2"</span>,
-                <span class="hljs-attr">"betNumber"</span>: <span class="hljs-number">"13"</span>,
-                <span class="hljs-attr">"betStatus"</span>: <span class="hljs-number">"Cancel"</span>,
-                <span class="hljs-attr">"betAmt"</span>: <span class="hljs-number">10</span>,
-                <span class="hljs-attr">"betTotal"</span>: <span class="hljs-string">10</span>,
-                <span class="hljs-attr">"betDiscount"</span>: <span class="hljs-number">0</span>,
-                <span class="hljs-attr">"payOutRate"</span>: <span class="hljs-number">90</span>,
-                <span class="hljs-attr">"rateLevel"</span>: <span class="hljs-number">0</span>,
-                <span class="hljs-attr">"rateLevelAmount"</span>: <span class="hljs-number">0</span>
+                <span class="hljs-attr">"rateLevelAmount"</span>: <span class="hljs-number">0</span>,
+                <span class="hljs-attr">"betResultKey"</span>: <span class="hljs-number">""</span>,
+                <span class="hljs-attr">"payOutAmt"</span>: <span class="hljs-number">0</span>
             }
         ],
-        <span class="hljs-attr">"status"</span>: <span class="hljs-string">"Cancel"</span>,
-        <span class="hljs-attr">"createDate"</span>: <span class="hljs-string">"2021-07-09 20:53:31"</span>
+        <span class="hljs-attr">"status"</span>: <span class="hljs-string">"cancel"</span>,
+        <span class="hljs-attr">"createDate"</span>: <span class="hljs-string">"2023-11-11 15:16:44"</span>,
+        <span class="hljs-attr">"currency"</span>: <span class="hljs-string">"thb"</span>,
+        <span class="hljs-attr">"DrawOpen"</span>: <span class="hljs-string">"2023-11-09 01:00:00"</span>,
+        <span class="hljs-attr">"drawExpire"</span>: <span class="hljs-string">"2023-11-19 15:25:00"</span>
     }
 }</code></pre>
                                 </div>
