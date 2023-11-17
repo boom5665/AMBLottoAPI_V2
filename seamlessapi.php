@@ -3272,33 +3272,39 @@
                                     <pre><code id="356A" style="border-radius: 0.375rem;" class="hljs json">{
     <span class="hljs-attr">"service"</span>: <span class="hljs-string">"UserPlaceReToRunning"</span>,
     <span class="hljs-attr">"data"</span>: {
-        <span class="hljs-attr">"playerApiId"</span>: <span class="hljs-string">"67239355aa8af3f4a6678e31cc3eb83a1612322fc2bf6b8f268b1660f1f37e"</span>,
-        <span class="hljs-attr">"playerApiUsername"</span>: <span class="hljs-string">"member1@compseamless"</span>,
-        <span class="hljs-attr">"playerUsername"</span>: <span class="hljs-string">"member1"</span>,
-        <span class="hljs-attr">"ticketId"</span>: <span class="hljs-string">"6579"</span>,
-        <span class="hljs-attr">"type"</span>: <span class="hljs-string">"stockgerman"</span>,
+        <span class="hljs-attr">"playerApiId"</span>: <span class="hljs-string">"281199a5837d34ce72dcc86c0e14bc26b9362d63b0f49173a3b977d0dfe2adfd"</span>,
+        <span class="hljs-attr">"playerApiUsername"</span>: <span class="hljs-string">"testa0aagentthbmb01@sportbookv2"</span>,
+        <span class="hljs-attr">"playerUsername"</span>: <span class="hljs-string">"testa0aagentthbmb01"</span>,
+        <span class="hljs-attr">"ticketId"</span>: <span class="hljs-string">40864</span>,
+        <span class="hljs-attr">"type"</span>: <span class="hljs-string">"pingponglotto6"</span>,
         <span class="hljs-attr">"government"</span>: <span class="hljs-string">false</span>,
-        <span class="hljs-attr">"drawId"</span>: <span class="hljs-number">21330</span>,
-        <span class="hljs-attr">"totalBetAmt"</span>: <span class="hljs-number">-10</span>,
+        <span class="hljs-attr">"drawId"</span>: <span class="hljs-number">37187</span>,
+        <span class="hljs-attr">"totalBetAmt"</span>: <span class="hljs-number">1243</span>,
         <span class="hljs-attr">"txtList"</span>: [
             {
-                <span class="hljs-attr">"agentPt"</span>: <span class="hljs-string">"20"</span>,
-                <span class="hljs-attr">"apiPt"</span>: <span class="hljs-number">"80"</span>,
-                <span class="hljs-attr">"betKey"</span>: <span class="hljs-string">"NjU3OS0x"</span>,
+                <span class="hljs-attr">"agentPt"</span>: <span class="hljs-string">"95"</span>,
+                <span class="hljs-attr">"apiPt"</span>: <span class="hljs-number">"5"</span>,
+                <span class="hljs-attr">"betKey"</span>: <span class="hljs-string">"NDA4NjQtMQ=="</span>,
                 <span class="hljs-attr">"betId"</span>: <span class="hljs-number">"1"</span>,
-                <span class="hljs-attr">"betType"</span>: <span class="hljs-number">"top3"</span>,
-                <span class="hljs-attr">"betNumber"</span>: <span class="hljs-string">"111"</span>,
-                <span class="hljs-attr">"betStatus"</span>: <span class="hljs-number">"True"</span>,
-                <span class="hljs-attr">"betAmt"</span>: <span class="hljs-number">10</span>,
-                <span class="hljs-attr">"betTotal"</span>: <span class="hljs-number">10</span>,
+                <span class="hljs-attr">"betType"</span>: <span class="hljs-number">"top6"</span>,
+                <span class="hljs-attr">"betNumber"</span>: <span class="hljs-string">"789000"</span>,
+                <span class="hljs-attr">"betStatus"</span>: <span class="hljs-number">"pending"</span>,
+                <span class="hljs-attr">"betAmt"</span>: <span class="hljs-number">733</span>,
+                <span class="hljs-attr">"betTotal"</span>: <span class="hljs-number">733</span>,
                 <span class="hljs-attr">"betDiscount"</span>: <span class="hljs-string">0</span>,
-                <span class="hljs-attr">"payOutRate"</span>: <span class="hljs-number">900</span>,
+                <span class="hljs-attr">"payOutRate"</span>: <span class="hljs-number">50000</span>,
                 <span class="hljs-attr">"rateLevel"</span>: <span class="hljs-number">0</span>,
-                <span class="hljs-attr">"rateLevelAmount"</span>: <span class="hljs-number">0</span>
+                <span class="hljs-attr">"rateLevelAmount"</span>: <span class="hljs-number">0</span>,
+                <span class="hljs-attr">"betResultKey"</span>: <span class="hljs-number">""</span>,
+                <span class="hljs-attr">"payOutAmt"</span>: <span class="hljs-number">0</span>
             }
         ],
-        <span class="hljs-attr">"status"</span>: <span class="hljs-string">"Pending"</span>,
-        <span class="hljs-attr">"createDate"</span>: <span class="hljs-string">"2021-07-14 20:26:39"</span>
+        <span class="hljs-attr">"status"</span>: <span class="hljs-string">"pending"</span>,
+        <span class="hljs-attr">"createDate"</span>: <span class="hljs-string">"2023-10-07 17:18:42"</span>,
+        <span class="hljs-attr">"DrawOpen"</span>: <span class="hljs-string">"2023-10-07 17:00:00"</span>,
+        <span class="hljs-attr">"currency"</span>: <span class="hljs-string">"thb"</span>
+        <span class="hljs-attr">"drawExpire"</span>: <span class="hljs-string">"2023-10-07 17:30:00"</span>,
+        <span class="hljs-attr">"totalPayOutAmt"</span>: <span class="hljs-string">0</span>
     }
 }</code></pre>
                                 </div>
