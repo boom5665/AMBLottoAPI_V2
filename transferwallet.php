@@ -3910,7 +3910,11 @@
                         <div class="koh-tab-content-body">
                             <div class="koh-faq form-group">
                                 <div class="koh-faq-question form-group ex">
-                                    <lable class="Point"><b style="color: #19A17A  !important;" set-lan="text:Example Request Body">Example Request Body</b><i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i></lable>
+                                <lable class="Point">
+                                        <b style="color: #19A17A  !important;" set-lan="text:Example Request Body">Example Request Body</b>
+                                        <i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i>
+                                        <button onclick="copyContent(document.getElementById('transfer_tabfive-four_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>
+                                    </lable>
                                 </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre><code id="46A" style="border-radius: 0.375rem;" class="hljs json">{
@@ -4089,6 +4093,7 @@
                                 <div class="koh-faq-question form-group ex">
                                     <lable class="Point"><b style="color: #19A17A  !important;">Example Service Respond
                                             Code</b><i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i></lable>
+                                            <button onclick="copyContent(document.getElementById('transfer_tabfive-four_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>
                                 </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre><code id="46B" style="border-radius: 0.375rem;" class="hljs json">{
@@ -4192,7 +4197,11 @@
                         <div class="koh-tab-content-body">
                             <div class="koh-faq form-group">
                                 <div class="koh-faq-question form-group ex">
-                                    <lable class="Point"><b style="color: #19A17A  !important;" set-lan="text:Example Request Body">Example Request Body</b><i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i></lable>
+                                <lable class="Point">
+                                        <b style="color: #19A17A  !important;" set-lan="text:Example Request Body">Example Request Body</b>
+                                        <i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i>
+                                        <button onclick="copyContent(document.getElementById('transfer_tabfive-four_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>
+                                    </lable>
                                 </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre><code id="47A" style="border-radius: 0.375rem;" class="hljs json">{
@@ -4371,6 +4380,7 @@
                                 <div class="koh-faq-question form-group ex">
                                     <lable class="Point"><b style="color: #19A17A  !important;">Example Service Respond
                                             Code</b><i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i></lable>
+                                            <button onclick="copyContent(document.getElementById('transfer_tabfive-four_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>
                                 </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre><code id="47B" style="border-radius: 0.375rem;" class="hljs json">{

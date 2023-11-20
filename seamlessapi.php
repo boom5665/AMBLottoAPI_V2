@@ -151,6 +151,7 @@
                             <div class="koh-faq form-group">
                                 <div class="koh-faq-question form-group ex">
                                     <lable class="Point"><b style="color: #19A17A !important;" set-lan="text:Example Request Body">Example Request Body</b><i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i></lable>
+                                    <button onclick="copyContent(document.getElementById('transfer_tabfive-four_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>
                                 </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre><code id="3_4A" style="border-radius: 0.375rem;" class="hljs json">{
@@ -294,6 +295,7 @@
                                 <div class="koh-faq-question form-group ex">
                                     <lable class="Point"><b style="color: #19A17A !important;">Example Response
                                             Code</b><i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i></lable>
+                                            <button onclick="copyContent(document.getElementById('transfer_tabfive-four_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>
                                 </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre><code id="3_4B" style="border-radius: 0.375rem;" class="hljs json">{
@@ -1022,6 +1024,7 @@
                             <div class="koh-faq form-group">
                                 <div class="koh-faq-question form-group ex">
                                     <lable class="Point"><b style="color: #19A17A !important;" set-lan="text:Example Request Body">Example Request Body</b><i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i></lable>
+                                    <button onclick="copyContent(document.getElementById('transfer_tabfive-four_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>
                                 </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre class="myInput"><code id="351A" style="border-radius: 0.375rem;" class="hljs json">{
@@ -1133,6 +1136,7 @@
                             <div class="koh-faq form-group">
                                 <div class="koh-faq-question form-group ex">
                                     <lable class="Point"><b style="color: #19A17A !important;" set-lan="text:Example Request Body">Example Response Body</b><i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i></lable>
+                                    <button onclick="copyContent(document.getElementById('transfer_tabfive-four_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>
                                 </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre><code id="351A" style="border-radius: 0.375rem;" class="hljs json">{
@@ -2000,6 +2004,7 @@
                             <div class="koh-faq form-group">
                                 <div class="koh-faq-question form-group ex">
                                     <lable class="Point"><b style="color: #19A17A !important;" set-lan="text:Example Request Body">Example Request Body</b><i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i></lable>
+                                    <button onclick="copyContent(document.getElementById('transfer_tabfive-four_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>
                                 </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre><code id="351A" style="border-radius: 0.375rem;" class="hljs json">{
@@ -2082,7 +2087,8 @@
                                 <div class="koh-faq-question form-group ex">
                                     <lable class="Point"><b style="color: #19A17A !important;">Example Service
                                             Respond Code</b><i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i></lable>
-                                </div>
+                                            <button onclick="copyContent(document.getElementById('transfer_tabfive-four_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>
+                                        </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre><code id="351B" style="border-radius: 0.375rem;" class="hljs json">{
     <span class="hljs-attr">"code"</span>: <span class="hljs-number">0</span>,
@@ -2266,6 +2272,7 @@
                             <div class="koh-faq form-group">
                                 <div class="koh-faq-question form-group ex">
                                     <lable class="Point"><b style="color: #19A17A !important;" set-lan="text:Example Request Body">Example Request Body</b><i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i></lable>
+                                    <button onclick="copyContent(document.getElementById('transfer_tabfive-four_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>
                                 </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre><code id="352A" style="border-radius: 0.375rem;" class="hljs json">{
@@ -2419,7 +2426,8 @@
                                 <div class="koh-faq-question form-group ex">
                                     <lable class="Point"><b style="color: #19A17A !important;">Example Service
                                             Respond Code</b><i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i></lable>
-                                </div>
+                                            <button onclick="copyContent(document.getElementById('transfer_tabfive-four_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>
+                                        </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre><code id="352B" style="border-radius: 0.375rem;" class="hljs json">{
     <span class="hljs-attr">"code"</span>: <span class="hljs-number">0</span>
@@ -2605,6 +2613,7 @@
                             <div class="koh-faq form-group">
                                 <div class="koh-faq-question form-group ex">
                                     <lable class="Point"><b style="color: #19A17A !important;" set-lan="text:Example Request Body">Example Request Body</b><i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i></lable>
+                                    <button onclick="copyContent(document.getElementById('transfer_tabfive-four_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>
                                 </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre><code id="353A" style="border-radius: 0.375rem;" class="hljs json">{
@@ -2715,7 +2724,8 @@
                                 <div class="koh-faq-question form-group ex">
                                     <lable class="Point"><b style="color: #19A17A !important;">Example Service
                                             Respond Code</b><i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i></lable>
-                                </div>
+                                            <button onclick="copyContent(document.getElementById('transfer_tabfive-four_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>
+                                        </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre><code id="353B" style="border-radius: 0.375rem;" class="hljs json">{
     <span class="hljs-attr">"code"</span>: <span class="hljs-number">0</span>
@@ -2915,6 +2925,7 @@
                             <div class="koh-faq form-group">
                                 <div class="koh-faq-question form-group ex">
                                     <lable class="Point"><b style="color: #19A17A !important;" set-lan="text:Example Request Body">Example Request Body</b><i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i></lable>
+                                    <button onclick="copyContent(document.getElementById('transfer_tabfive-four_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>
                                 </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre><code id="354A" style="border-radius: 0.375rem;" class="hljs json">{
@@ -3074,7 +3085,8 @@
                                 <div class="koh-faq-question form-group ex">
                                     <lable class="Point"><b style="color: #19A17A !important;">Example Service
                                             Respond Code</b><i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i></lable>
-                                </div>
+                                            <button onclick="copyContent(document.getElementById('transfer_tabfive-four_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>
+                                        </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre><code id="354B" style="border-radius: 0.375rem;" class="hljs json">{
     <span class="hljs-attr">"code"</span>: <span class="hljs-number">0</span>
@@ -3257,6 +3269,7 @@
                             <div class="koh-faq form-group">
                                 <div class="koh-faq-question form-group ex">
                                     <lable class="Point"><b style="color: #19A17A !important;" set-lan="text:Example Request Body">Example Request Body</b><i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i></lable>
+                                    <button onclick="copyContent(document.getElementById('transfer_tabfive-four_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>
                                 </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre><code id="356A" style="border-radius: 0.375rem;" class="hljs json">{
@@ -3369,7 +3382,8 @@
                                 <div class="koh-faq-question form-group ex">
                                     <lable class="Point"><b style="color: #19A17A !important;">Example Service
                                             Respond Code</b><i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i></lable>
-                                </div>
+                                            <button onclick="copyContent(document.getElementById('transfer_tabfive-four_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>
+                                        </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre><code id="356B" style="border-radius: 0.375rem;" class="hljs json">{
     <span class="hljs-attr">"code"</span>: <span class="hljs-number">0</span>
@@ -3492,6 +3506,7 @@
                             <div class="koh-faq form-group">
                                 <div class="koh-faq-question form-group ex">
                                     <lable class="Point"><b style="color: #19A17A !important;" set-lan="text:Example Request Body">Example Request Body</b><i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i></lable>
+                                    <button onclick="copyContent(document.getElementById('transfer_tabfive-four_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>
                                 </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre><code id="357A" style="border-radius: 0.375rem;" class="hljs json">{
@@ -3581,7 +3596,8 @@
                                 <div class="koh-faq-question form-group ex">
                                     <lable class="Point"><b style="color: #19A17A !important;">Example Service
                                             Respond Code</b><i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i></lable>
-                                </div>
+                                            <button onclick="copyContent(document.getElementById('transfer_tabfive-four_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>
+                                        </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre><code id="357B" style="border-radius: 0.375rem;" class="hljs json">{
     <span class="hljs-attr">"code"</span>: <span class="hljs-number">0</span>
@@ -3696,6 +3712,7 @@
                             <div class="koh-faq form-group">
                                 <div class="koh-faq-question form-group ex">
                                     <lable class="Point"><b style="color: #19A17A !important;" set-lan="text:Example Request Body">Example Request Body</b><i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i></lable>
+                                    <button onclick="copyContent(document.getElementById('transfer_tabfive-four_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>
                                 </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre><code id="357A" style="border-radius: 0.375rem;" class="hljs json">{
@@ -3785,7 +3802,8 @@
                                 <div class="koh-faq-question form-group ex">
                                     <lable class="Point"><b style="color: #19A17A !important;">Example Service
                                             Respond Code</b><i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i></lable>
-                                </div>
+                                            <button onclick="copyContent(document.getElementById('transfer_tabfive-four_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>
+                                        </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre><code id="357B" style="border-radius: 0.375rem;" class="hljs json">{
     <span class="hljs-attr">"code"</span>: <span class="hljs-number">0</span>
@@ -3885,6 +3903,7 @@
                             <div class="koh-faq form-group">
                                 <div class="koh-faq-question form-group ex">
                                     <lable class="Point"><b style="color: #19A17A !important;" set-lan="text:Example Request Body">Example Request Body</b><i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i></lable>
+                                    <button onclick="copyContent(document.getElementById('transfer_tabfive-four_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>
                                 </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre><code id="48A" style="border-radius: 0.375rem;" class="hljs json">{
@@ -4213,7 +4232,8 @@
                                 <div class="koh-faq-question form-group ex">
                                     <lable class="Point"><b style="color: #19A17A !important;">Example Service
                                             Respond Code</b><i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i></lable>
-                                </div>
+                                            <button onclick="copyContent(document.getElementById('transfer_tabfive-four_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>
+                                        </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre><code id="48B" style="border-radius: 0.375rem;" class="hljs json">{
     <span class="hljs-attr">"code"</span>: <span class="hljs-number">0</span>,
@@ -4359,6 +4379,7 @@
                             <div class="koh-faq form-group">
                                 <div class="koh-faq-question form-group ex">
                                     <lable class="Point"><b style="color: #19A17A !important;" set-lan="text:Example Request Body">Example Request Body</b><i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i></lable>
+                                    <button onclick="copyContent(document.getElementById('transfer_tabfive-four_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>
                                 </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre><code id="49A" style="border-radius: 0.375rem;" class="hljs json">{
@@ -4744,7 +4765,8 @@
                                 <div class="koh-faq-question form-group ex">
                                     <lable class="Point"><b style="color: #19A17A !important;">Example Service
                                             Respond Code</b><i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i></lable>
-                                </div>
+                                            <button onclick="copyContent(document.getElementById('transfer_tabfive-four_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>
+                                        </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre><code id="48B" style="border-radius: 0.375rem;" class="hljs json">{
     <span class="hljs-attr">"code"</span>: <span class="hljs-number">0</span>,
@@ -4885,6 +4907,7 @@
                             <div class="koh-faq form-group">
                                 <div class="koh-faq-question form-group ex">
                                     <lable class="Point"><b style="color: #19A17A !important;" set-lan="text:Example Request Body">Example Request Body</b><i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i></lable>
+                                    <button onclick="copyContent(document.getElementById('transfer_tabfive-four_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>
                                 </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre><code id="410A" style="border-radius: 0.375rem;" class="hljs json">{
@@ -5012,7 +5035,8 @@
                                 <div class="koh-faq-question form-group ex">
                                     <lable class="Point"><b style="color: #19A17A !important;">Example Service
                                             Respond Code</b><i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i></lable>
-                                </div>
+                                            <button onclick="copyContent(document.getElementById('transfer_tabfive-four_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>
+                                        </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre><code id="410B" style="border-radius: 0.375rem;" class="hljs json">{
     <span class="hljs-attr">"code"</span>: <span class="hljs-number">0</span>,
@@ -5160,6 +5184,7 @@
                             <div class="koh-faq form-group">
                                 <div class="koh-faq-question form-group ex">
                                     <lable class="Point"><b style="color: #19A17A !important;" set-lan="text:Example Request Body">Example Request Body</b><i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i></lable>
+                                    <button onclick="copyContent(document.getElementById('transfer_tabfive-four_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>
                                 </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre><code id="410A" style="border-radius: 0.375rem;" class="hljs json">{
@@ -5314,7 +5339,8 @@
                                 <div class="koh-faq-question form-group ex">
                                     <lable class="Point"><b style="color: #19A17A !important;">Example Service
                                             Respond Code</b><i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i></lable>
-                                </div>
+                                            <button onclick="copyContent(document.getElementById('transfer_tabfive-four_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>
+                                        </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre><code id="410B" style="border-radius: 0.375rem;" class="hljs json">{
     <span class="hljs-attr">"code"</span>: <span class="hljs-number">"0"</span>,
@@ -5426,6 +5452,7 @@
                             <div class="koh-faq form-group">
                                 <div class="koh-faq-question form-group ex">
                                     <lable class="Point"><b style="color: #19A17A !important;" set-lan="text:Example Request Body">Example Request Body</b><i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i></lable>
+                                    <button onclick="copyContent(document.getElementById('transfer_tabfive-four_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>
                                 </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre><code id="410A" style="border-radius: 0.375rem;" class="hljs json">{
@@ -5576,7 +5603,8 @@
                                 <div class="koh-faq-question form-group ex">
                                     <lable class="Point"><b style="color: #19A17A !important;">Example Service
                                             Respond Code</b><i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i></lable>
-                                </div>
+                                            <button onclick="copyContent(document.getElementById('transfer_tabfive-four_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>
+                                        </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre><code id="410B" style="border-radius: 0.375rem;" class="hljs json">{
     <span class="hljs-attr">"code"</span>: <span class="hljs-number">"0"</span>,
@@ -5683,6 +5711,7 @@
                             <div class="koh-faq form-group">
                                 <div class="koh-faq-question form-group ex">
                                     <lable class="Point"><b style="color: #19A17A !important;" set-lan="text:Example Request Body">Example Request Body</b><i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i></lable>
+                                    <button onclick="copyContent(document.getElementById('transfer_tabfive-four_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>
                                 </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre><code id="410A" style="border-radius: 0.375rem;" class="hljs json">{
@@ -5820,7 +5849,8 @@
                                 <div class="koh-faq-question form-group ex">
                                     <lable class="Point"><b style="color: #19A17A !important;">Example Service
                                             Respond Code</b><i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i></lable>
-                                </div>
+                                            <button onclick="copyContent(document.getElementById('transfer_tabfive-four_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>
+                                        </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre><code id="410B" style="border-radius: 0.375rem;" class="hljs json">{
     <span class="hljs-attr">"code"</span>: <span class="hljs-number">"0"</span>,
@@ -5927,6 +5957,7 @@
                             <div class="koh-faq form-group">
                                 <div class="koh-faq-question form-group ex">
                                     <lable class="Point"><b style="color: #19A17A !important;" set-lan="text:Example Request Body">Example Request Body</b><i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i></lable>
+                                    <button onclick="copyContent(document.getElementById('transfer_tabfive-four_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>
                                 </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre><code id="410A" style="border-radius: 0.375rem;" class="hljs json">{
@@ -6064,7 +6095,8 @@
                                 <div class="koh-faq-question form-group ex">
                                     <lable class="Point"><b style="color: #19A17A !important;">Example Service
                                             Respond Code</b><i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i></lable>
-                                </div>
+                                            <button onclick="copyContent(document.getElementById('transfer_tabfive-four_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>
+                                        </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre><code id="410B" style="border-radius: 0.375rem;" class="hljs json">{
     <span class="hljs-attr">"code"</span>: <span class="hljs-number">"0"</span>,
@@ -6171,6 +6203,7 @@
                             <div class="koh-faq form-group">
                                 <div class="koh-faq-question form-group ex">
                                     <lable class="Point"><b style="color: #19A17A !important;" set-lan="text:Example Request Body">Example Request Body</b><i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i></lable>
+                                    <button onclick="copyContent(document.getElementById('transfer_tabfive-four_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>
                                 </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre><code id="410A" style="border-radius: 0.375rem;" class="hljs json">{
@@ -6292,7 +6325,8 @@
                                 <div class="koh-faq-question form-group ex">
                                     <lable class="Point"><b style="color: #19A17A !important;">Example Service
                                             Respond Code</b><i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i></lable>
-                                </div>
+                                            <button onclick="copyContent(document.getElementById('transfer_tabfive-four_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>
+                                        </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre><code id="410B" style="border-radius: 0.375rem;" class="hljs json">{
     <span class="hljs-attr">"code"</span>: <span class="hljs-number">"0"</span>,
@@ -6414,6 +6448,7 @@
                             <div class="koh-faq form-group">
                                 <div class="koh-faq-question form-group ex">
                                     <lable class="Point"><b style="color: #19A17A !important;" set-lan="text:Example Request Body">Example Request Body</b><i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i></lable>
+                                    <button onclick="copyContent(document.getElementById('transfer_tabfive-four_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>
                                 </div>
                                 <div class="koh-faq-answer col-12 d-flex" style="margin-left:0%">
                                     <pre class="col-6">
@@ -6683,7 +6718,8 @@
                                 <div class="koh-faq-question form-group ex">
                                     <lable class="Point"><b style="color: #19A17A !important;">Example Service
                                             Respond Code</b><i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i></lable>
-                                </div>
+                                            <button onclick="copyContent(document.getElementById('transfer_tabfive-four_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>
+                                        </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre><code id="410B" style="border-radius: 0.375rem;" class="hljs json">{
     <span class="hljs-attr">"code"</span>: <span class="hljs-number">"0"</span>,
@@ -6760,6 +6796,7 @@
                             <div class="koh-faq form-group">
                                 <div class="koh-faq-question form-group ex">
                                     <lable class="Point"><b style="color: #19A17A !important;" set-lan="text:Example Request Body">Example Request Body</b><i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i></lable>
+                                    <button onclick="copyContent(document.getElementById('transfer_tabfive-four_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>
                                 </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre><code id="410A" style="border-radius: 0.375rem;" class="hljs json">{
@@ -6894,7 +6931,8 @@
                                 <div class="koh-faq-question form-group ex">
                                     <lable class="Point"><b style="color: #19A17A !important;">Example Service
                                             Respond Code</b><i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i></lable>
-                                </div>
+                                            <button onclick="copyContent(document.getElementById('transfer_tabfive-four_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>
+                                        </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre><code id="410B" style="border-radius: 0.375rem;" class="hljs json">{
     <span class="hljs-attr">"code"</span>: <span class="hljs-number">"0"</span>,
@@ -8246,6 +8284,7 @@
                             <div class="koh-faq form-group">
                                 <div class="koh-faq-question form-group ex">
                                     <lable class="Point"><b style="color: #19A17A !important;" set-lan="text:Example Request Body">Example Request Body</b><i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i></lable>
+                                    <button onclick="copyContent(document.getElementById('transfer_tabfive-four_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>
                                 </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre><code id="410A" style="border-radius: 0.375rem;" class="hljs json">{
@@ -8367,7 +8406,8 @@
                                 <div class="koh-faq-question form-group ex">
                                     <lable class="Point"><b style="color: #19A17A !important;">Example Service
                                             Respond Code</b><i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i></lable>
-                                </div>
+                                            <button onclick="copyContent(document.getElementById('transfer_tabfive-four_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>
+                                        </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre><code id="410B" style="border-radius: 0.375rem;" class="hljs json">{
     <span class="hljs-attr">"code"</span>: <span class="hljs-number">"0"</span>,
@@ -8497,6 +8537,7 @@
                             <div class="koh-faq form-group">
                                 <div class="koh-faq-question form-group ex">
                                     <lable class="Point"><b style="color: #19A17A !important;" set-lan="text:Example Request Body">Example Request Body</b><i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i></lable>
+                                    <button onclick="copyContent(document.getElementById('transfer_tabfive-four_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>
                                 </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre><code id="410A" style="border-radius: 0.375rem;" class="hljs json">{
@@ -8622,7 +8663,8 @@
                                 <div class="koh-faq-question form-group ex">
                                     <lable class="Point"><b style="color: #19A17A !important;">Example Service
                                             Respond Code</b><i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i></lable>
-                                </div>
+                                            <button onclick="copyContent(document.getElementById('transfer_tabfive-four_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>
+                                        </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre><code id="410B" style="border-radius: 0.375rem;" class="hljs json">{
     <span class="hljs-attr">"code"</span>: <span class="hljs-number">"0"</span>,
