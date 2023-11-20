@@ -160,10 +160,14 @@
                         <div class="koh-tab-content-body">
                             <div class="koh-faq form-group">
                                 <div class="koh-faq-question form-group ex">
-                                    <lable class="Point"><b style="color: #19A17A  !important;" set-lan="text:Example Request Body">Example Request Body</b><i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i></lable>
+                                    <lable class="Point">
+                                        <b style="color: #19A17A  !important;" set-lan="text:Example Request Body">Example Request Body</b>
+                                        <i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i>
+                                        <button onclick="copyContent(document.getElementById('transfer_tabfive-four_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>
+                                    </lable>
                                 </div>
                                 <div class="form-group ex">
-                                <button onclick="copyContent()" class="btn btn-info waves-effect waves-light">Copy Code</button>
+                                
                                 </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre ><code id="3_4A" style="border-radius: 0.375rem;" class="hljs json">{
@@ -1478,7 +1482,7 @@
 
 }</code></pre>
 
-<div id="myText" class="d-non">
+<div id="transfer_tabfive-four_req" class="d-non">
  {
     "agentUsername": "agenttoe2",
     "agentApiKey": "90c1f92bf298eeedf29ddea95681f56c7b707ec32368f820e01270d2bf9cda8b",
@@ -2790,9 +2794,26 @@
     }
 } 
 </div>
+<div id="transfer_tabfive-four_res" class="d-non">
+    {
+        "code":  200,
+        "data": {
+            "playerApiId": "ac355caa7591bae913f0e27ec84ab6c526274778",
+            "playerApiUsername": "testuserapi002@agenttoe2",
+            "playerUsername": "testuserapi002",
+            "tkUuid": "12cfc90e9569faf6e70c6d001b12f9e1c392f631",
+            "url": "https://dev-askmelotto.pirate168.com/token?token=12cfc90e9569faf6e70c6d001b12f9e1c392f631&header=off",
+            "urlFullPage": "https://dev-askmelotto.pirate168.com/token?token=12cfc90e9569faf6e70c6d001b12f9e1c392f631&header=on"
+        },
+        "msg": {
+            "en":  "Success",
+            "th":  "สำเร็จ"
+        }
+    }
+</div>
 <script>
-  let text = document.getElementById('myText').innerHTML;
-  const copyContent = async () => {
+//   let text = document.getElementById('myText').innerHTML;
+  const copyContent = async (text) => {
     try {
       await navigator.clipboard.writeText(text);
       console.log('Content copied to clipboard');
@@ -2941,7 +2962,9 @@
                             <div class="koh-faq form-group">
                                 <div class="koh-faq-question form-group ex">
                                     <lable class="Point"><b style="color: #19A17A  !important;">Example Response
-                                            Code</b><i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i></lable>
+                                            Code</b><i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i>
+                                            <button onclick="copyContent(document.getElementById('transfer_tabfive-four_res').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>
+                                    </lable>
                                 </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre><code id="44B" style="border-radius: 0.375rem;" class="hljs json">{
@@ -2957,7 +2980,8 @@
     <span class="hljs-attr"> "msg"</span>: {
         <span class="hljs-attr">"en"</span>:  <span class="hljs-attr">"Success",</span>
         <span class="hljs-attr">"th"</span>:  <span class="hljs-attr">"สำเร็จ"</span>
-    }</code></pre>
+    }
+}</code></pre>
 
                                     <script src="./API_files/ex4_4B.js.download"></script>
                                 </div>
