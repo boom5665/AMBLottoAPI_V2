@@ -121,7 +121,8 @@
                                                         <i class="sv-slim-icon fas fa-report fa-angle-double-left"></i><span set-lan="text:4. Transferwallet Api">4. <span style="padding-left: 3px;" id="menu_Seamless_API">Seamless API</span></span><i class="fas fa-angle-down rotate-icon"></i>
                                                 </a>
                                                 <div class="collapsible-body">
-                                                        <ul style="height: 600px;overflow-y:auto;">
+                                                        <!-- <ul style="height: 600px;overflow-y:auto;"> -->
+                                                        <ul style="height: 400px;overflow-y:auto;">
                                                                 <li id="manu41"><a class="waves-effect submenu" href="seamlessapi.php#tabOne">
                                                                                 <span class="sv-normal" set-lan="text:3.1 Introduction Seamless API">4.1
                                                                                         <span style="padding-left: 3px;" id="menu_Introduction_Seamless_API"> Introduction Seamless API</span></a>

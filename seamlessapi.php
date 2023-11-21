@@ -156,11 +156,15 @@
                                     <lable class="Point">
                                         <b style="color: #19A17A  !important;" set-lan="text:Example Request Body">Example Request Body</b>
                                         <i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i>
-                                        <button onclick="copyContent(document.getElementById('seamless_tabfour-four_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>
+                                        <!-- <button onclick="copyContent(document.getElementById('seamless_tabfour-four_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button> -->
                                     </lable>
                                 </div>
                                 <div class="koh-faq-answer col-9">
-                                    <pre><code id="3_4A" style="border-radius: 0.375rem;" class="hljs json">{
+                                    <pre style="position:relative">
+                                    <div class="copy-clipboard" style="position: absolute;width: 20px;top: 20%;right: 0;cursor:pointer">
+                                        <svg style="position: absolute;width: 20px;left: -50%;" onclick="copyContent(document.getElementById('seamless_tabfour-four_req').innerHTML)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Copy to Clipboard</title><path d="M18 6v-6h-18v18h6v6h18v-18h-6zm-12 10h-4v-14h14v4h-10v10zm16 6h-14v-14h14v14z"></path></svg>
+                                    </div>
+                                        <code id="3_4A" style="border-radius: 0.375rem;" class="hljs json">{
     <span class="hljs-attr">"agentUsername"</span>: <span class="hljs-string">"comptestseamless"</span>,
     <span class="hljs-attr">"agentApiKey"</span>: <span class="hljs-string">"18791944ec1a15e649c390d1403c5d6bc888a0d63602116c8f8b1725975e7c2eb832b2509f00eaf11f35bfbf810637e0"</span>,
     <span class="hljs-attr">"playerUsername"</span>: <span class="hljs-string">"member1"</span>
@@ -302,11 +306,15 @@
                                     <lable class="Point">
                                         <b style="color: #19A17A  !important;" set-lan="text:Example Request Body">Example Reponse </b>
                                         <i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i>
-                                        <button onclick="copyContent(document.getElementById('seamless_tabfour-four_res').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>
+                                        <!-- <button onclick="copyContent(document.getElementById('seamless_tabfour-four_res').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button> -->
                                     </lable>
                                 </div>
                                 <div class="koh-faq-answer col-9">
-                                    <pre><code id="3_4B" style="border-radius: 0.375rem;" class="hljs json">{
+                                    <pre style="position:relative">
+                                        <div class="copy-clipboard" style="position: absolute;width: 20px;top: 15%;right: 0;cursor:pointer">
+                                            <svg style="position: absolute;width: 20px;left: -50%;" onclick="copyContent(document.getElementById('seamless_tabfour-four_res').innerHTML)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Copy to Clipboard</title><path d="M18 6v-6h-18v18h6v6h18v-18h-6zm-12 10h-4v-14h14v4h-10v10zm16 6h-14v-14h14v14z"></path></svg>
+                                        </div>
+                                        <code id="3_4B" style="border-radius: 0.375rem;" class="hljs json">{
     <span class="hljs-attr">"code"</span>: <span class="hljs-number">0</span>,
     <span class="hljs-attr">"data"</span>: { 
         <span class="hljs-attr">"playerApiId"</span>: <span class="hljs-string">"67239355aa8af3f4a6678e31cc3eb83a1612322fc2bf6b8f268b1660f1f37e"</span>,
@@ -1034,11 +1042,16 @@
                                     <lable class="Point">
                                         <b style="color: #19A17A  !important;" set-lan="text:Example Request Body">Example Request Body</b>
                                         <i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i>
-                                        <button onclick="copyContent(document.getElementById('seamless_tabfour-five-one_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>
+                                        <!-- <button onclick="copyContent(document.getElementById('seamless_tabfour-five-one_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button> -->
                                     </lable>
                                 </div>
                                 <div class="koh-faq-answer col-9">
-                                    <pre class="myInput"><code id="351A" style="border-radius: 0.375rem;" class="hljs json">{
+                                    <!-- <pre class="myInput"> -->
+                                    <pre style="position:relative">
+                                        <div class="copy-clipboard" style="position: absolute;width: 20px;top: 15%;right: 0;cursor:pointer">
+                                            <svg style="position: absolute;width: 20px;left: -50%;" onclick="copyContent(document.getElementById('seamless_tabfour-five-one_req').innerHTML)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Copy to Clipboard</title><path d="M18 6v-6h-18v18h6v6h18v-18h-6zm-12 10h-4v-14h14v4h-10v10zm16 6h-14v-14h14v14z"></path></svg>
+                                        </div>
+                                        <code id="351A" style="border-radius: 0.375rem;" class="hljs json">{
     <span class="hljs-attr">"service"</span>: <span class="hljs-string">"GetUserDetail"</span>,
     <span class="hljs-attr">"data"</span>: {
         <span class="hljs-attr">"playerUsername"</span>: <span class="hljs-string">"testa0aagentthbmb01"</span>,
@@ -1147,11 +1160,15 @@
                                     <lable class="Point">
                                         <b style="color: #19A17A  !important;" set-lan="text:Example Request Body">Example Response Body</b>
                                         <i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i>
-                                        <button onclick="copyContent(document.getElementById('seamless_tabfour-five-one_res').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>
+                                        <!-- <button onclick="copyContent(document.getElementById('seamless_tabfour-five-one_res').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button> -->
                                     </lable>
                                 </div>
                                 <div class="koh-faq-answer col-9">
-                                    <pre><code id="351A" style="border-radius: 0.375rem;" class="hljs json">{
+                                    <pre style="position:relative">
+                                        <div class="copy-clipboard" style="position: absolute;width: 20px;top: 0.2%;right: 0;cursor:pointer">
+                                            <svg style="position: absolute;width: 20px;left: -50%;" onclick="copyContent(document.getElementById('seamless_tabfour-five-one_res').innerHTML)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Copy to Clipboard</title><path d="M18 6v-6h-18v18h6v6h18v-18h-6zm-12 10h-4v-14h14v4h-10v10zm16 6h-14v-14h14v14z"></path></svg>
+                                        </div>
+                                        <code id="351A" style="border-radius: 0.375rem;" class="hljs json">{
     <span class="hljs-attr">"code"</span>: <span class="hljs-string">0</span>,
     <span class="hljs-attr">"data"</span>: {
         <span class="hljs-attr">"username"</span>: <span class="hljs-string">"testa0aagentthbmb01"</span>,
@@ -2018,11 +2035,15 @@
                                     <lable class="Point">
                                         <b style="color: #19A17A  !important;" set-lan="text:Example Request Body">Example Request Body</b>
                                         <i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i>
-                                        <button onclick="copyContent(document.getElementById('seamless_tabfour-five-two_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>
+                                        <!-- <button onclick="copyContent(document.getElementById('seamless_tabfour-five-two_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button> -->
                                     </lable>
                                 </div>
                                 <div class="koh-faq-answer col-9">
-                                    <pre><code id="351A" style="border-radius: 0.375rem;" class="hljs json">{
+                                    <pre style="position:relative">
+                                        <div class="copy-clipboard" style="position: absolute;width: 20px;top: 15%;right: 0;cursor:pointer">
+                                            <svg style="position: absolute;width: 20px;left: -50%;" onclick="copyContent(document.getElementById('seamless_tabfour-five-two_req').innerHTML)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Copy to Clipboard</title><path d="M18 6v-6h-18v18h6v6h18v-18h-6zm-12 10h-4v-14h14v4h-10v10zm16 6h-14v-14h14v14z"></path></svg>
+                                        </div>
+                                        <code id="351A" style="border-radius: 0.375rem;" class="hljs json">{
     <span class="hljs-attr">"service"</span>: <span class="hljs-string">"GetUserBalance"</span>,
     <span class="hljs-attr">"data"</span>: {
         <span class="hljs-attr">"playerApiId"</span>: <span class="hljs-string">"21f7d4c971036eea30d1db483d01f131faada79fa94d52560c9f2c2b56a6f8877b66ae2c624f89442c938db064d8179f"</span>,
@@ -2287,11 +2308,15 @@
                                     <lable class="Point">
                                         <b style="color: #19A17A  !important;" set-lan="text:Example Request Body">Example Request Body</b>
                                         <i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i>
-                                        <button onclick="copyContent(document.getElementById('seamless_tabfour-five-three_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>
+                                        <!-- <button onclick="copyContent(document.getElementById('seamless_tabfour-five-three_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button> -->
                                     </lable>
                                 </div>
                                 <div class="koh-faq-answer col-9">
-                                    <pre><code id="352A" style="border-radius: 0.375rem;" class="hljs json">{
+                                    <pre style="position:relative">
+                                        <div class="copy-clipboard" style="position: absolute;width: 20px;top: 3%;right: 0;cursor:pointer">
+                                            <svg style="position: absolute;width: 20px;left: -50%;" onclick="copyContent(document.getElementById('seamless_tabfour-five-three_req').innerHTML)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Copy to Clipboard</title><path d="M18 6v-6h-18v18h6v6h18v-18h-6zm-12 10h-4v-14h14v4h-10v10zm16 6h-14v-14h14v14z"></path></svg>
+                                        </div>
+                                        <code id="352A" style="border-radius: 0.375rem;" class="hljs json">{
     <span class="hljs-attr">"service"</span>: <span class="hljs-string">"UserPlaceBet"</span>,
     <span class="hljs-attr">"data"</span>: {
         <span class="hljs-attr">"playerApiId"</span>: <span class="hljs-string">"281199a5837d34ce72dcc86c0e14bc26b9362d63b0f49173a3b977d0dfe2adfd"</span>,
@@ -2632,11 +2657,15 @@
                                     <lable class="Point">
                                         <b style="color: #19A17A  !important;" set-lan="text:Example Request Body">Example Request Body</b>
                                         <i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i>
-                                        <button onclick="copyContent(document.getElementById('seamless_tabfour-five-four_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>
+                                        <!-- <button onclick="copyContent(document.getElementById('seamless_tabfour-five-four_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button> -->
                                     </lable>
                                 </div>
                                 <div class="koh-faq-answer col-9">
-                                    <pre><code id="353A" style="border-radius: 0.375rem;" class="hljs json">{
+                                    <pre style="position:relative">
+                                        <div class="copy-clipboard" style="position: absolute;width: 20px;top: 4%;right: 0;cursor:pointer">
+                                            <svg style="position: absolute;width: 20px;left: -50%;" onclick="copyContent(document.getElementById('seamless_tabfour-five-four_req').innerHTML)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Copy to Clipboard</title><path d="M18 6v-6h-18v18h6v6h18v-18h-6zm-12 10h-4v-14h14v4h-10v10zm16 6h-14v-14h14v14z"></path></svg>
+                                        </div>
+                                        <code id="353A" style="border-radius: 0.375rem;" class="hljs json">{
     <span class="hljs-attr">"service"</span>: <span class="hljs-string">"UserPlaceBetCancel"</span>,
     <span class="hljs-attr">"data"</span>: {
         <span class="hljs-attr">"playerApiId"</span>: <span class="hljs-string">"4e4fbb4539fb0b7bd1d6b01a7f218cc0c311466f40bade45189b24a3efa3e6ba5ef2d47ee85eb2cffa48379b4fa017c6"</span>,
@@ -2948,11 +2977,15 @@
                                     <lable class="Point">
                                         <b style="color: #19A17A  !important;" set-lan="text:Example Request Body">Example Request Body</b>
                                         <i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i> (กรณีไม่ถูกรางวัล)
-                                        <button onclick="copyContent(document.getElementById('seamless_tabfour-five-five_lose_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>
+                                        <!-- <button onclick="copyContent(document.getElementById('seamless_tabfour-five-five_lose_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button> -->
                                     </lable>
                                 </div>
                                 <div class="koh-faq-answer col-9">
-                                    <pre><code id="354A" style="border-radius: 0.375rem;" class="hljs json">{
+                                    <pre style="position:relative">
+                                        <div class="copy-clipboard" style="position: absolute;width: 20px;top: 2%;right: 0;cursor:pointer">
+                                            <svg style="position: absolute;width: 20px;left: -50%;" onclick="copyContent(document.getElementById('seamless_tabfour-five-five_lose_req').innerHTML)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Copy to Clipboard</title><path d="M18 6v-6h-18v18h6v6h18v-18h-6zm-12 10h-4v-14h14v4h-10v10zm16 6h-14v-14h14v14z"></path></svg>
+                                        </div>
+                                        <code id="354A" style="border-radius: 0.375rem;" class="hljs json">{
     <span class="hljs-attr">"service"</span>: <span class="hljs-string">"UserPlacePayout"</span>,
     <span class="hljs-attr">"data"</span>: {
         <span class="hljs-attr">"playerApiId"</span>: <span class="hljs-string">"281199a5837d34ce72dcc86c0e14bc26b9362d63b0f49173a3b977d0dfe2adfd"</span>,
@@ -3034,11 +3067,15 @@
                                     <lable class="Point">
                                         <b style="color: #19A17A  !important;" set-lan="text:Example Request Body">Example Request Body</b>
                                         <i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i> (กรณีถูกรางวัล)
-                                        <button onclick="copyContent(document.getElementById('seamless_tabfour-five-five_win_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>
+                                        <!-- <button onclick="copyContent(document.getElementById('seamless_tabfour-five-five_win_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button> -->
                                     </lable>
                                 </div>
                                 <div class="koh-faq-answer col-9">
-                                    <pre><code id="354A" style="border-radius: 0.375rem;" class="hljs json">{
+                                    <pre style="position:relative">
+                                        <div class="copy-clipboard" style="position: absolute;width: 20px;top: 2%;right: 0;cursor:pointer">
+                                            <svg style="position: absolute;width: 20px;left: -50%;" onclick="copyContent(document.getElementById('seamless_tabfour-five-five_win_req').innerHTML)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Copy to Clipboard</title><path d="M18 6v-6h-18v18h6v6h18v-18h-6zm-12 10h-4v-14h14v4h-10v10zm16 6h-14v-14h14v14z"></path></svg>
+                                        </div>
+                                        <code id="354A" style="border-radius: 0.375rem;" class="hljs json">{
     <span class="hljs-attr">"service"</span>: <span class="hljs-string">"UserPlacePayout"</span>,
     <span class="hljs-attr">"data"</span>: {
         <span class="hljs-attr">"playerApiId"</span>: <span class="hljs-string">"281199a5837d34ce72dcc86c0e14bc26b9362d63b0f49173a3b977d0dfe2adfd"</span>,
@@ -3364,11 +3401,15 @@
                                     <lable class="Point">
                                         <b style="color: #19A17A  !important;" set-lan="text:Example Request Body">Example Request Body</b>
                                         <i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i>
-                                        <button onclick="copyContent(document.getElementById('seamless_tabfour-five-six_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>
+                                        <!-- <button onclick="copyContent(document.getElementById('seamless_tabfour-five-six_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button> -->
                                     </lable>
                                 </div>
                                 <div class="koh-faq-answer col-9">
-                                    <pre><code id="356A" style="border-radius: 0.375rem;" class="hljs json">{
+                                    <pre style="position:relative">
+                                        <div class="copy-clipboard" style="position: absolute;width: 20px;top: 4%;right: 0;cursor:pointer">
+                                            <svg style="position: absolute;width: 20px;left: -50%;" onclick="copyContent(document.getElementById('seamless_tabfour-five-six_req').innerHTML)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Copy to Clipboard</title><path d="M18 6v-6h-18v18h6v6h18v-18h-6zm-12 10h-4v-14h14v4h-10v10zm16 6h-14v-14h14v14z"></path></svg>
+                                        </div>
+                                        <code id="356A" style="border-radius: 0.375rem;" class="hljs json">{
     <span class="hljs-attr">"service"</span>: <span class="hljs-string">"UserPlaceReToRunning"</span>,
     <span class="hljs-attr">"data"</span>: {
         <span class="hljs-attr">"playerApiId"</span>: <span class="hljs-string">"281199a5837d34ce72dcc86c0e14bc26b9362d63b0f49173a3b977d0dfe2adfd"</span>,
@@ -3563,11 +3604,14 @@
                                     <lable class="Point">
                                         <b style="color: #19A17A  !important;" set-lan="text:Example Request Body">Example Request Body</b>
                                         <i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i>
-                                        <button onclick="copyContent(document.getElementById('transfer_tabfive-four_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>
-                                    </lable>
+                                        <!--<button onclick="copyContent(document.getElementById('transfer_tabfive-four_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>-->                                 </lable>
                                 </div>
                                 <div class="koh-faq-answer col-9">
-                                    <pre><code id="410A" style="border-radius: 0.375rem;" class="hljs json">{
+                                    <pre style="position:relative">
+                                        <div class="copy-clipboard" style="position: absolute;width: 20px;top: 20%;right: 0;cursor:pointer">
+                                            <svg style="position: absolute;width: 20px;left: -50%;" onclick="copyContent(document.getElementById('seamless_tabfour-six-four_seven_req').innerHTML)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Copy to Clipboard</title><path d="M18 6v-6h-18v18h6v6h18v-18h-6zm-12 10h-4v-14h14v4h-10v10zm16 6h-14v-14h14v14z"></path></svg>
+                                        </div>
+                                        <code id="410A" style="border-radius: 0.375rem;" class="hljs json">{
     <span class="hljs-attr">"agentUsername"</span>: <span class="hljs-string">"buildexcompany"</span>,
     <span class="hljs-attr">"agentApiKey"</span>: <span class="hljs-string">"504947f655f822e2f8f414bbc1a34ba763c7570ef638135f30b5696c899f806901e163f59f3a86d0c8cd"</span>
 }</code></pre>
@@ -5056,11 +5100,15 @@
                                     <lable class="Point">
                                         <b style="color: #19A17A  !important;" set-lan="text:Example Request Body">Example Request Body</b>
                                         <i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i>
-                                        <button onclick="copyContent(document.getElementById('seamless_tabfour-six-four_eight_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>
+                                        <!-- <button onclick="copyContent(document.getElementById('seamless_tabfour-six-four_eight_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button> -->
                                     </lable>
                                 </div>
                                 <div class="koh-faq-answer col-9">
-                                    <pre><code id="410A" style="border-radius: 0.375rem;" class="hljs json">{
+                                    <pre style="position:relative">
+                                        <div class="copy-clipboard" style="position: absolute;width: 20px;top: 8%;right: 0;cursor:pointer">
+                                            <svg style="position: absolute;width: 20px;left: -50%;" onclick="copyContent(document.getElementById('seamless_tabfour-six-four_eight_req').innerHTML)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Copy to Clipboard</title><path d="M18 6v-6h-18v18h6v6h18v-18h-6zm-12 10h-4v-14h14v4h-10v10zm16 6h-14v-14h14v14z"></path></svg>
+                                        </div>
+                                        <code id="410A" style="border-radius: 0.375rem;" class="hljs json">{
     <span class="hljs-attr">"agentUsername"</span>: <span class="hljs-string">"superadmincash"</span>,
     <span class="hljs-attr">"agentApiKey"</span>: <span class="hljs-string">"345afccac1c08a4f8e37fbf1ac4f6e2a63e298062482c3f5192a63f3f8"</span>,
     <span class="hljs-attr">"services"</span>: <span class="hljs-string">"DeleteLimitnumber"</span>,
@@ -5314,11 +5362,15 @@
                                     <lable class="Point">
                                         <b style="color: #19A17A  !important;" set-lan="text:Example Request Body">Example Request Body</b>
                                         <i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i>
-                                        <button onclick="copyContent(document.getElementById('seamless_tabfour-six-four_nine_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>
+                                        <!-- <button onclick="copyContent(document.getElementById('seamless_tabfour-six-four_nine_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button> -->
                                     </lable>
                                 </div>
                                 <div class="koh-faq-answer col-9">
-                                    <pre><code id="410A" style="border-radius: 0.375rem;" class="hljs json">{
+                                    <pre style="position:relative">
+                                        <div class="copy-clipboard" style="position: absolute;width: 20px;top: 8%;right: 0;cursor:pointer">
+                                            <svg style="position: absolute;width: 20px;left: -50%;" onclick="copyContent(document.getElementById('seamless_tabfour-six-four_nine_req').innerHTML)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Copy to Clipboard</title><path d="M18 6v-6h-18v18h6v6h18v-18h-6zm-12 10h-4v-14h14v4h-10v10zm16 6h-14v-14h14v14z"></path></svg>
+                                        </div>
+                                        <code id="410A" style="border-radius: 0.375rem;" class="hljs json">{
     <span class="hljs-attr">"agentUsername"</span>: <span class="hljs-string">"superadmincash"</span>,
     <span class="hljs-attr">"agentApiKey"</span>: <span class="hljs-string">"345afccac1c08a4f8e37fbf1ac4f6e2a63e298062482c3f5192a63f3f8"</span>,
     <span class="hljs-attr">"services"</span>: <span class="hljs-string">"DeleteLimitnumber"</span>,
@@ -7037,6 +7089,8 @@
         }
     }
 </div>
+
+<!-- USE -->
 <div id="seamless_tabfour-six-four_seven_req" class="d-non">
     {
         "agentUsername": "buildexcompany",
