@@ -165,7 +165,7 @@
                                                                 <li id="manu456"><a class="waves-effect submenu" href="seamlessapi.php#tab15">
                                                                                 <span class="sv-normal">4.5.6 <span style="padding-left: 3px;" id="menu_UserPlaceReToRunning">UserPlaceReToRunning</span></span></a>
                                                                 </li>
-                                                                <li id="manu457"><a class="waves-effect submenu" href="seamlessapi.php#tab16">
+                                                                <!-- <li id="manu457"><a class="waves-effect submenu" href="seamlessapi.php#tab16">
                                                                                 <span class="sv-normal">4.5.7 <span style="padding-left: 3px;" id="menu_UserPayReward">UserPayReward</span></span></a>
                                                                 </li>
                                                                 <li id="manu458"><a class="waves-effect submenu" href="seamlessapi.php#tabTen">
@@ -214,7 +214,7 @@
                                                                 <li id="manu4646"><a class="waves-effect submenu" href="seamlessapi.php#tab4646">
                                                                                 <span class="sv-normal" set-lan="text:3.6.1">4.6.4.6
                                                                                         <span style="padding-left: 3px;" id="menu_SetPlaceout">SetPlaceout</span></span></a>
-                                                                </li>
+                                                                </li> -->
                                                                 <li id="manu47"><a class="waves-effect submenu" href="seamlessapi.php#tab47">
                                                                                 <span class="sv-normal" set-lan="text:3.6.1">4.7
                                                                                         <span style="padding-left: 3px;" id="menu_ListPlaceout">ListPlaceout</span></span></a>
