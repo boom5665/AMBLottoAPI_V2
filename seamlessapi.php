@@ -9,8 +9,13 @@
                 .txtHead {
                     color: #7F0055;
                 }
-                .d-non{
+
+                .d-non {
                     display: none;
+                }
+
+                svg:hover {
+                    fill: gray;
                 }
             </style>
             <div style="background: #f2f3f4; padding: 30px; margin-top: 1%; border-radius: .375rem;">
@@ -160,9 +165,9 @@
                                     </lable>
                                 </div>
                                 <div class="koh-faq-answer col-9">
-                                    <pre style="position:relative">
-                                    <div class="copy-clipboard" style="position: absolute;width: 20px;top: 20%;right: 0;cursor:pointer">
-                                        <svg style="position: absolute;width: 20px;left: -50%;" onclick="copyContent(document.getElementById('seamless_tabfour-four_req').innerHTML)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Copy to Clipboard</title><path d="M18 6v-6h-18v18h6v6h18v-18h-6zm-12 10h-4v-14h14v4h-10v10zm16 6h-14v-14h14v14z"></path></svg>
+                                    <pre >
+                                    <div class="copy-clipboard" style=" position: absolute;width: 20px;top: 20%;right: 0;cursor:pointer">
+                                        <svg  style="position: absolute;width: 20px;left: -100%;" onclick="copyContent(document.getElementById('seamless_tabfour-four_req').innerHTML)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Copy to Clipboard</title><path d="M18 6v-6h-18v18h6v6h18v-18h-6zm-12 10h-4v-14h14v4h-10v10zm16 6h-14v-14h14v14z"></path></svg>
                                     </div>
                                         <code id="3_4A" style="border-radius: 0.375rem;" class="hljs json">{
     <span class="hljs-attr">"agentUsername"</span>: <span class="hljs-string">"comptestseamless"</span>,
@@ -310,9 +315,9 @@
                                     </lable>
                                 </div>
                                 <div class="koh-faq-answer col-9">
-                                    <pre style="position:relative">
-                                        <div class="copy-clipboard" style="position: absolute;width: 20px;top: 15%;right: 0;cursor:pointer">
-                                            <svg style="position: absolute;width: 20px;left: -50%;" onclick="copyContent(document.getElementById('seamless_tabfour-four_res').innerHTML)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Copy to Clipboard</title><path d="M18 6v-6h-18v18h6v6h18v-18h-6zm-12 10h-4v-14h14v4h-10v10zm16 6h-14v-14h14v14z"></path></svg>
+                                    <pre >
+                                        <div class="copy-clipboard" style="position: absolute;width: 20px;top: 10%;right: 0;cursor:pointer">
+                                            <svg style="position: absolute;width: 20px;left: -100%;" onclick="copyContent(document.getElementById('seamless_tabfour-four_res').innerHTML)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Copy to Clipboard</title><path d="M18 6v-6h-18v18h6v6h18v-18h-6zm-12 10h-4v-14h14v4h-10v10zm16 6h-14v-14h14v14z"></path></svg>
                                         </div>
                                         <code id="3_4B" style="border-radius: 0.375rem;" class="hljs json">{
     <span class="hljs-attr">"code"</span>: <span class="hljs-number">0</span>,
@@ -1047,9 +1052,9 @@
                                 </div>
                                 <div class="koh-faq-answer col-9">
                                     <!-- <pre class="myInput"> -->
-                                    <pre style="position:relative">
+                                    <pre >
                                         <div class="copy-clipboard" style="position: absolute;width: 20px;top: 15%;right: 0;cursor:pointer">
-                                            <svg style="position: absolute;width: 20px;left: -50%;" onclick="copyContent(document.getElementById('seamless_tabfour-five-one_req').innerHTML)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Copy to Clipboard</title><path d="M18 6v-6h-18v18h6v6h18v-18h-6zm-12 10h-4v-14h14v4h-10v10zm16 6h-14v-14h14v14z"></path></svg>
+                                            <svg style="position: absolute;width: 20px;left: -100%;" onclick="copyContent(document.getElementById('seamless_tabfour-five-one_req').innerHTML)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Copy to Clipboard</title><path d="M18 6v-6h-18v18h6v6h18v-18h-6zm-12 10h-4v-14h14v4h-10v10zm16 6h-14v-14h14v14z"></path></svg>
                                         </div>
                                         <code id="351A" style="border-radius: 0.375rem;" class="hljs json">{
     <span class="hljs-attr">"service"</span>: <span class="hljs-string">"GetUserDetail"</span>,
@@ -1164,9 +1169,9 @@
                                     </lable>
                                 </div>
                                 <div class="koh-faq-answer col-9">
-                                    <pre style="position:relative">
+                                    <pre >
                                         <div class="copy-clipboard" style="position: absolute;width: 20px;top: 0.2%;right: 0;cursor:pointer">
-                                            <svg style="position: absolute;width: 20px;left: -50%;" onclick="copyContent(document.getElementById('seamless_tabfour-five-one_res').innerHTML)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Copy to Clipboard</title><path d="M18 6v-6h-18v18h6v6h18v-18h-6zm-12 10h-4v-14h14v4h-10v10zm16 6h-14v-14h14v14z"></path></svg>
+                                            <svg style="position: absolute;width: 20px;left: -100%;" onclick="copyContent(document.getElementById('seamless_tabfour-five-one_res').innerHTML)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Copy to Clipboard</title><path d="M18 6v-6h-18v18h6v6h18v-18h-6zm-12 10h-4v-14h14v4h-10v10zm16 6h-14v-14h14v14z"></path></svg>
                                         </div>
                                         <code id="351A" style="border-radius: 0.375rem;" class="hljs json">{
     <span class="hljs-attr">"code"</span>: <span class="hljs-string">0</span>,
@@ -2039,9 +2044,9 @@
                                     </lable>
                                 </div>
                                 <div class="koh-faq-answer col-9">
-                                    <pre style="position:relative">
-                                        <div class="copy-clipboard" style="position: absolute;width: 20px;top: 15%;right: 0;cursor:pointer">
-                                            <svg style="position: absolute;width: 20px;left: -50%;" onclick="copyContent(document.getElementById('seamless_tabfour-five-two_req').innerHTML)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Copy to Clipboard</title><path d="M18 6v-6h-18v18h6v6h18v-18h-6zm-12 10h-4v-14h14v4h-10v10zm16 6h-14v-14h14v14z"></path></svg>
+                                    <pre >
+                                        <div class="copy-clipboard" style="position: absolute;width: 20px;top: 12%;right: 0;cursor:pointer">
+                                            <svg style="position: absolute;width: 20px;left: -100%;" onclick="copyContent(document.getElementById('seamless_tabfour-five-two_req').innerHTML)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Copy to Clipboard</title><path d="M18 6v-6h-18v18h6v6h18v-18h-6zm-12 10h-4v-14h14v4h-10v10zm16 6h-14v-14h14v14z"></path></svg>
                                         </div>
                                         <code id="351A" style="border-radius: 0.375rem;" class="hljs json">{
     <span class="hljs-attr">"service"</span>: <span class="hljs-string">"GetUserBalance"</span>,
@@ -2312,9 +2317,9 @@
                                     </lable>
                                 </div>
                                 <div class="koh-faq-answer col-9">
-                                    <pre style="position:relative">
-                                        <div class="copy-clipboard" style="position: absolute;width: 20px;top: 3%;right: 0;cursor:pointer">
-                                            <svg style="position: absolute;width: 20px;left: -50%;" onclick="copyContent(document.getElementById('seamless_tabfour-five-three_req').innerHTML)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Copy to Clipboard</title><path d="M18 6v-6h-18v18h6v6h18v-18h-6zm-12 10h-4v-14h14v4h-10v10zm16 6h-14v-14h14v14z"></path></svg>
+                                    <pre >
+                                        <div class="copy-clipboard" style="position: absolute;width: 20px;top: 2.5%;right: 0;cursor:pointer">
+                                            <svg style="position: absolute;width: 20px;left: -100%;" onclick="copyContent(document.getElementById('seamless_tabfour-five-three_req').innerHTML)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Copy to Clipboard</title><path d="M18 6v-6h-18v18h6v6h18v-18h-6zm-12 10h-4v-14h14v4h-10v10zm16 6h-14v-14h14v14z"></path></svg>
                                         </div>
                                         <code id="352A" style="border-radius: 0.375rem;" class="hljs json">{
     <span class="hljs-attr">"service"</span>: <span class="hljs-string">"UserPlaceBet"</span>,
@@ -2661,9 +2666,9 @@
                                     </lable>
                                 </div>
                                 <div class="koh-faq-answer col-9">
-                                    <pre style="position:relative">
+                                    <pre >
                                         <div class="copy-clipboard" style="position: absolute;width: 20px;top: 4%;right: 0;cursor:pointer">
-                                            <svg style="position: absolute;width: 20px;left: -50%;" onclick="copyContent(document.getElementById('seamless_tabfour-five-four_req').innerHTML)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Copy to Clipboard</title><path d="M18 6v-6h-18v18h6v6h18v-18h-6zm-12 10h-4v-14h14v4h-10v10zm16 6h-14v-14h14v14z"></path></svg>
+                                            <svg style="position: absolute;width: 20px;left: -100%;" onclick="copyContent(document.getElementById('seamless_tabfour-five-four_req').innerHTML)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Copy to Clipboard</title><path d="M18 6v-6h-18v18h6v6h18v-18h-6zm-12 10h-4v-14h14v4h-10v10zm16 6h-14v-14h14v14z"></path></svg>
                                         </div>
                                         <code id="353A" style="border-radius: 0.375rem;" class="hljs json">{
     <span class="hljs-attr">"service"</span>: <span class="hljs-string">"UserPlaceBetCancel"</span>,
@@ -2981,9 +2986,9 @@
                                     </lable>
                                 </div>
                                 <div class="koh-faq-answer col-9">
-                                    <pre style="position:relative">
+                                    <pre >
                                         <div class="copy-clipboard" style="position: absolute;width: 20px;top: 2%;right: 0;cursor:pointer">
-                                            <svg style="position: absolute;width: 20px;left: -50%;" onclick="copyContent(document.getElementById('seamless_tabfour-five-five_lose_req').innerHTML)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Copy to Clipboard</title><path d="M18 6v-6h-18v18h6v6h18v-18h-6zm-12 10h-4v-14h14v4h-10v10zm16 6h-14v-14h14v14z"></path></svg>
+                                            <svg style="position: absolute;width: 20px;left: -100%;" onclick="copyContent(document.getElementById('seamless_tabfour-five-five_lose_req').innerHTML)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Copy to Clipboard</title><path d="M18 6v-6h-18v18h6v6h18v-18h-6zm-12 10h-4v-14h14v4h-10v10zm16 6h-14v-14h14v14z"></path></svg>
                                         </div>
                                         <code id="354A" style="border-radius: 0.375rem;" class="hljs json">{
     <span class="hljs-attr">"service"</span>: <span class="hljs-string">"UserPlacePayout"</span>,
@@ -3071,9 +3076,9 @@
                                     </lable>
                                 </div>
                                 <div class="koh-faq-answer col-9">
-                                    <pre style="position:relative">
+                                    <pre >
                                         <div class="copy-clipboard" style="position: absolute;width: 20px;top: 2%;right: 0;cursor:pointer">
-                                            <svg style="position: absolute;width: 20px;left: -50%;" onclick="copyContent(document.getElementById('seamless_tabfour-five-five_win_req').innerHTML)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Copy to Clipboard</title><path d="M18 6v-6h-18v18h6v6h18v-18h-6zm-12 10h-4v-14h14v4h-10v10zm16 6h-14v-14h14v14z"></path></svg>
+                                            <svg style="position: absolute;width: 20px;left: -100%;" onclick="copyContent(document.getElementById('seamless_tabfour-five-five_win_req').innerHTML)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Copy to Clipboard</title><path d="M18 6v-6h-18v18h6v6h18v-18h-6zm-12 10h-4v-14h14v4h-10v10zm16 6h-14v-14h14v14z"></path></svg>
                                         </div>
                                         <code id="354A" style="border-radius: 0.375rem;" class="hljs json">{
     <span class="hljs-attr">"service"</span>: <span class="hljs-string">"UserPlacePayout"</span>,
@@ -3214,7 +3219,7 @@
                                     <lable class="Point">
                                         <b style="color: #19A17A  !important;" set-lan="text:Example Service Respond Code">Example Service Respond Code</b>
                                         <i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i>
-                                        
+
                                     </lable>
                                 </div>
                                 <div class="koh-faq-answer col-9">
@@ -3397,7 +3402,7 @@
                     <div class="koh-tab-content col-12">
                         <div class="koh-tab-content-body">
                             <div class="koh-faq form-group">
-                            <div class="koh-faq-question form-group ex">
+                                <div class="koh-faq-question form-group ex">
                                     <lable class="Point">
                                         <b style="color: #19A17A  !important;" set-lan="text:Example Request Body">Example Request Body</b>
                                         <i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i>
@@ -3405,9 +3410,9 @@
                                     </lable>
                                 </div>
                                 <div class="koh-faq-answer col-9">
-                                    <pre style="position:relative">
+                                    <pre >
                                         <div class="copy-clipboard" style="position: absolute;width: 20px;top: 4%;right: 0;cursor:pointer">
-                                            <svg style="position: absolute;width: 20px;left: -50%;" onclick="copyContent(document.getElementById('seamless_tabfour-five-six_req').innerHTML)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Copy to Clipboard</title><path d="M18 6v-6h-18v18h6v6h18v-18h-6zm-12 10h-4v-14h14v4h-10v10zm16 6h-14v-14h14v14z"></path></svg>
+                                            <svg style="position: absolute;width: 20px;left: -100%;" onclick="copyContent(document.getElementById('seamless_tabfour-five-six_req').innerHTML)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Copy to Clipboard</title><path d="M18 6v-6h-18v18h6v6h18v-18h-6zm-12 10h-4v-14h14v4h-10v10zm16 6h-14v-14h14v14z"></path></svg>
                                         </div>
                                         <code id="356A" style="border-radius: 0.375rem;" class="hljs json">{
     <span class="hljs-attr">"service"</span>: <span class="hljs-string">"UserPlaceReToRunning"</span>,
@@ -3520,7 +3525,7 @@
                                     <lable class="Point">
                                         <b style="color: #19A17A  !important;" set-lan="text:Example Service Respond Code">Example Service Respond Code</b>
                                         <i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i>
-                                        
+
                                     </lable>
                                 </div>
                                 <div class="koh-faq-answer col-9">
@@ -3535,7 +3540,7 @@
                 <div class="pb-5"></div>
 
 
-                
+
                 <div class="pb-5"></div>
 
                 <div class="col-12" id="tab47">
@@ -3600,16 +3605,17 @@
                     <div class="koh-tab-content col-12">
                         <div class="koh-tab-content-body">
                             <div class="koh-faq form-group">
-                            <div class="koh-faq-question form-group ex">
+                                <div class="koh-faq-question form-group ex">
                                     <lable class="Point">
                                         <b style="color: #19A17A  !important;" set-lan="text:Example Request Body">Example Request Body</b>
                                         <i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i>
-                                        <!--<button onclick="copyContent(document.getElementById('transfer_tabfive-four_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>-->                                 </lable>
+                                        <!--<button onclick="copyContent(document.getElementById('transfer_tabfive-four_req').innerHTML)" class="btn btn-info waves-effect waves-light">Copy to clipboard</button>-->
+                                    </lable>
                                 </div>
                                 <div class="koh-faq-answer col-9">
-                                    <pre style="position:relative">
+                                    <pre >
                                         <div class="copy-clipboard" style="position: absolute;width: 20px;top: 20%;right: 0;cursor:pointer">
-                                            <svg style="position: absolute;width: 20px;left: -50%;" onclick="copyContent(document.getElementById('seamless_tabfour-six-four_seven_req').innerHTML)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Copy to Clipboard</title><path d="M18 6v-6h-18v18h6v6h18v-18h-6zm-12 10h-4v-14h14v4h-10v10zm16 6h-14v-14h14v14z"></path></svg>
+                                            <svg style="position: absolute;width: 20px;left: -100%;" onclick="copyContent(document.getElementById('seamless_tabfour-six-four_seven_req').innerHTML)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Copy to Clipboard</title><path d="M18 6v-6h-18v18h6v6h18v-18h-6zm-12 10h-4v-14h14v4h-10v10zm16 6h-14v-14h14v14z"></path></svg>
                                         </div>
                                         <code id="410A" style="border-radius: 0.375rem;" class="hljs json">{
     <span class="hljs-attr">"agentUsername"</span>: <span class="hljs-string">"buildexcompany"</span>,
@@ -3744,7 +3750,7 @@
                                     <lable class="Point">
                                         <b style="color: #19A17A  !important;" set-lan="text:Example Service Respond Code">Example Service Respond Code</b>
                                         <i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i>
-                                        
+
                                     </lable>
                                 </div>
                                 <div class="koh-faq-answer col-9">
@@ -5096,7 +5102,7 @@
                     <div class="koh-tab-content col-12">
                         <div class="koh-tab-content-body">
                             <div class="koh-faq form-group">
-                            <div class="koh-faq-question form-group ex">
+                                <div class="koh-faq-question form-group ex">
                                     <lable class="Point">
                                         <b style="color: #19A17A  !important;" set-lan="text:Example Request Body">Example Request Body</b>
                                         <i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i>
@@ -5104,9 +5110,9 @@
                                     </lable>
                                 </div>
                                 <div class="koh-faq-answer col-9">
-                                    <pre style="position:relative">
+                                    <pre >
                                         <div class="copy-clipboard" style="position: absolute;width: 20px;top: 8%;right: 0;cursor:pointer">
-                                            <svg style="position: absolute;width: 20px;left: -50%;" onclick="copyContent(document.getElementById('seamless_tabfour-six-four_eight_req').innerHTML)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Copy to Clipboard</title><path d="M18 6v-6h-18v18h6v6h18v-18h-6zm-12 10h-4v-14h14v4h-10v10zm16 6h-14v-14h14v14z"></path></svg>
+                                            <svg style="position: absolute;width: 20px;left: -100%;" onclick="copyContent(document.getElementById('seamless_tabfour-six-four_eight_req').innerHTML)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Copy to Clipboard</title><path d="M18 6v-6h-18v18h6v6h18v-18h-6zm-12 10h-4v-14h14v4h-10v10zm16 6h-14v-14h14v14z"></path></svg>
                                         </div>
                                         <code id="410A" style="border-radius: 0.375rem;" class="hljs json">{
     <span class="hljs-attr">"agentUsername"</span>: <span class="hljs-string">"superadmincash"</span>,
@@ -5228,7 +5234,7 @@
                                     <lable class="Point">
                                         <b style="color: #19A17A  !important;" set-lan="text:Example Service Respond Code">Example Service Respond Code</b>
                                         <i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i>
-                                        
+
                                     </lable>
                                 </div>
                                 <div class="koh-faq-answer col-9">
@@ -5358,7 +5364,7 @@
                     <div class="koh-tab-content col-12">
                         <div class="koh-tab-content-body">
                             <div class="koh-faq form-group">
-                            <div class="koh-faq-question form-group ex">
+                                <div class="koh-faq-question form-group ex">
                                     <lable class="Point">
                                         <b style="color: #19A17A  !important;" set-lan="text:Example Request Body">Example Request Body</b>
                                         <i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i>
@@ -5366,9 +5372,9 @@
                                     </lable>
                                 </div>
                                 <div class="koh-faq-answer col-9">
-                                    <pre style="position:relative">
+                                    <pre >
                                         <div class="copy-clipboard" style="position: absolute;width: 20px;top: 8%;right: 0;cursor:pointer">
-                                            <svg style="position: absolute;width: 20px;left: -50%;" onclick="copyContent(document.getElementById('seamless_tabfour-six-four_nine_req').innerHTML)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Copy to Clipboard</title><path d="M18 6v-6h-18v18h6v6h18v-18h-6zm-12 10h-4v-14h14v4h-10v10zm16 6h-14v-14h14v14z"></path></svg>
+                                            <svg style="position: absolute;width: 20px;left: -100%;" onclick="copyContent(document.getElementById('seamless_tabfour-six-four_nine_req').innerHTML)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Copy to Clipboard</title><path d="M18 6v-6h-18v18h6v6h18v-18h-6zm-12 10h-4v-14h14v4h-10v10zm16 6h-14v-14h14v14z"></path></svg>
                                         </div>
                                         <code id="410A" style="border-radius: 0.375rem;" class="hljs json">{
     <span class="hljs-attr">"agentUsername"</span>: <span class="hljs-string">"superadmincash"</span>,
@@ -5494,7 +5500,7 @@
                                     <lable class="Point">
                                         <b style="color: #19A17A  !important;" set-lan="text:Example Service Respond Code">Example Service Respond Code</b>
                                         <i class="fa fa-chevron-down" aria-hidden="true" style="margin-left: 2%; font-size: 1rem;"></i>
-                                        
+
                                     </lable>
                                 </div>
                                 <div class="koh-faq-answer col-9">
@@ -5687,1446 +5693,1446 @@
 </div>
 <div id="seamless_tabfour-four_res" class="d-non">
     {
-        "code": 0,
-        "data": { 
-            "playerApiId": "67239355aa8af3f4a6678e31cc3eb83a1612322fc2bf6b8f268b1660f1f37e",
-            "playerApiUsername": "member1@comptestseamless",
-            "playerUsername": "member1",
-            "tkUuid": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImN0eSI6IiJ9.eyJhZ2VudGlkIjoxODksImV4cCI6MTYyNzE3ODYzMCwiaWF0IjoxNjI2MzE0NjMwLCJyb2xlIjoibWVtYmVyMUBjb21wc2VhbWxlc3MiLCJzdWIiOmZhbHNlfQ.eLfAFfTnSD80OajqxH6yWmojd_m8MB7C0xxvahoWtPg",
-            "url": "https://dev-askmelotto.pirate168.com/token?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImN0eSI6IiJ9.eyJhZ2VudGlkIjoxODksImV4cCI6MTYyNzE3ODYzMCwiaWF0IjoxNjI2MzE0NjMwLCJyb2xlIjoibWVtYmVyMUBjb21wc2VhbWxlc3MiLCJzdWIiOmZhbHNlfQ.eLfAFfTnSD80OajqxH6yWmojd_m8MB7C0xxvahoWtPg&header=off",
-            "urlFullPage": "https://dev-askmelotto.pirate168.com/token?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImN0eSI6IiJ9.eyJhZ2VudGlkIjoxODksImV4cCI6MTYyNzE3ODYzMCwiaWF0IjoxNjI2MzE0NjMwLCJyb2xlIjoibWVtYmVyMUBjb21wc2VhbWxlc3MiLCJzdWIiOmZhbHNlfQ.eLfAFfTnSD80OajqxH6yWmojd_m8MB7C0xxvahoWtPg&header=on"
-        },
-        "mgs": "Success"
+    "code": 0,
+    "data": {
+    "playerApiId": "67239355aa8af3f4a6678e31cc3eb83a1612322fc2bf6b8f268b1660f1f37e",
+    "playerApiUsername": "member1@comptestseamless",
+    "playerUsername": "member1",
+    "tkUuid": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImN0eSI6IiJ9.eyJhZ2VudGlkIjoxODksImV4cCI6MTYyNzE3ODYzMCwiaWF0IjoxNjI2MzE0NjMwLCJyb2xlIjoibWVtYmVyMUBjb21wc2VhbWxlc3MiLCJzdWIiOmZhbHNlfQ.eLfAFfTnSD80OajqxH6yWmojd_m8MB7C0xxvahoWtPg",
+    "url": "https://dev-askmelotto.pirate168.com/token?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImN0eSI6IiJ9.eyJhZ2VudGlkIjoxODksImV4cCI6MTYyNzE3ODYzMCwiaWF0IjoxNjI2MzE0NjMwLCJyb2xlIjoibWVtYmVyMUBjb21wc2VhbWxlc3MiLCJzdWIiOmZhbHNlfQ.eLfAFfTnSD80OajqxH6yWmojd_m8MB7C0xxvahoWtPg&header=off",
+    "urlFullPage": "https://dev-askmelotto.pirate168.com/token?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImN0eSI6IiJ9.eyJhZ2VudGlkIjoxODksImV4cCI6MTYyNzE3ODYzMCwiaWF0IjoxNjI2MzE0NjMwLCJyb2xlIjoibWVtYmVyMUBjb21wc2VhbWxlc3MiLCJzdWIiOmZhbHNlfQ.eLfAFfTnSD80OajqxH6yWmojd_m8MB7C0xxvahoWtPg&header=on"
+    },
+    "mgs": "Success"
     }
 </div>
 <div id="seamless_tabfour-five-one_req" class="d-non">
     {
-        "service": "GetUserDetail",
-        "data": {
-            "playerUsername": "testa0aagentthbmb01",
-            "agentUsername": "comptestseamless"
-        }
+    "service": "GetUserDetail",
+    "data": {
+    "playerUsername": "testa0aagentthbmb01",
+    "agentUsername": "comptestseamless"
+    }
     }
 </div>
 <div id="seamless_tabfour-five-one_res" class="d-non">
     {
-        "code": 0,
-        "data": {
-            "username": "testa0aagentthbmb01",
-            "phone": "0xxxxxxxx",
-            "email": "xxxx@gmail.com",
-            "line": "lineX",
-            "currency": "THB",
-            "rate": {   
-                "baaclotto": {
-                    "bottom1": {
-                        "discount": 0,
-                        "max": 10000,
-                        "min": 1,
-                        "payout": 4
-                    },
-                    "bottom2": {
-                        "discount": 10,
-                        "max": 10000,
-                        "min": 1,
-                        "payout": 90
-                    },
-                    "row3": {
-                        "discount": 0,
-                        "max": 5000,
-                        "min": 1,
-                        "payout": 150
-                    },
-                    "top1": {
-                        "discount": 0,
-                        "max": 10000,
-                        "min": 1,
-                        "payout": 3
-                    },
-                    "top2": {
-                        "discount": 0,
-                        "max": 10000,
-                        "min": 1,
-                        "payout": 90
-                    },
-                    "top3": {
-                        "discount": 0,
-                        "max": 1000,
-                        "min": 1,
-                        "payout": 900
-                    }
-                },
-                "gsblotto": {
-                    "bottom1": {
-                        "discount": 0,
-                        "max": 10000,
-                        "min": 1,
-                        "payout": 4
-                    },
-                    "bottom2": {
-                        "discount": 0,
-                        "max": 10000,
-                        "min": 1,
-                        "payout": 90
-                    },
-                    "row3": {
-                        "discount": 0,
-                        "max": 5000,
-                        "min": 1,
-                        "payout": 150
-                    },
-                    "top1": {
-                        "discount": 0,
-                        "max": 10000,
-                        "min": 1,
-                        "payout": 3.2
-                    },
-                    "top2": {
-                        "discount": 0,
-                        "max": 10000,
-                        "min": 1,
-                        "payout": 90
-                    },
-                    "top3": {
-                        "discount": 0,
-                        "max": 1000,
-                        "min": 1,
-                        "payout": 900
-                    }
-                },
-                "laoslotto_set": {
-                    "back2": {
-                        "discount": 1,
-                        "max": 600,
-                        "min": 1,
-                        "payout": 15
-                    },
-                    "front2": {
-                        "discount": 0,
-                        "max": 600,
-                        "min": 1,
-                        "payout": 15
-                    },
-                    "row3": {
-                        "discount": 1,
-                        "max": 600,
-                        "min": 1,
-                        "payout": 25
-                    },
-                    "row4": {
-                        "discount": 1,
-                        "max": 600,
-                        "min": 1,
-                        "payout": 40
-                    },
-                    "top3": {
-                        "discount": 1,
-                        "max": 600,
-                        "min": 1,
-                        "payout": 350
-                    },
-                    "top4": {
-                        "discount": 1,
-                        "max": 600,
-                        "min": 1,
-                        "payout": 1000
-                    }
-                },
-                "laoslotto": {
-                    "bottom1": {
-                        "discount": 1,
-                        "max": 10000,
-                        "min": 1,
-                        "payout": 4
-                    },
-                    "bottom2": {
-                        "discount": 1,
-                        "max": 10000,
-                        "min": 1,
-                        "payout": 90
-                    },
-                    "row2": {
-                        "discount": 1,
-                        "max": 10000,
-                        "min": 1,
-                        "payout": 12
-                    },
-                    "row3": {
-                        "discount": 1,
-                        "max": 5000,
-                        "min": 1,
-                        "payout": 150
-                    },
-                    "row4": {
-                        "discount": 1,
-                        "max": 1000,
-                        "min": 1,
-                        "payout": 225
-                    },
-                    "top1": {
-                        "discount": 1,
-                        "max": 10000,
-                        "min": 1,
-                        "payout": 3
-                    },
-                    "top2": {
-                        "discount": 1,
-                        "max": 10000,
-                        "min": 1,
-                        "payout": 90
-                    },
-                    "top3": {
-                        "discount": 1,
-                        "max": 1000,
-                        "min": 1,
-                        "payout": 900
-                    },
-                    "top4": {
-                        "discount": 1,
-                        "max": 500,
-                        "min": 1,
-                        "payout": 5000
-                    }
-                },
-                "hanoylotto_set": {
-                    "back2": {
-                        "discount": 0,
-                        "max": 600,
-                        "min": 1,
-                        "payout": 15
-                    },
-                    "front2": {
-                        "discount": 0,
-                        "max": 600,
-                        "min": 1,
-                        "payout": 15
-                    },
-                    "row3": {
-                        "discount": 0,
-                        "max": 600,
-                        "min": 1,
-                        "payout": 25
-                    },
-                    "row4": {
-                        "discount": 0,
-                        "max": 600,
-                        "min": 1,
-                        "payout": 40
-                    },
-                    "top3": {
-                        "discount": 0,
-                        "max": 600,
-                        "min": 1,
-                        "payout": 350
-                    },
-                    "top4": {
-                        "discount": 0,
-                        "max": 600,
-                        "min": 1,
-                        "payout": 1000
-                    }
-                },
-                "hanoylotto": {
-                    "bottom1": {
-                        "discount": 0,
-                        "max": 10000,
-                        "min": 1,
-                        "payout": 4
-                    },
-                    "bottom2": {
-                        "discount": 0,
-                        "max": 10000,
-                        "min": 1,
-                        "payout": 90
-                    },
-                    "row2": {
-                        "discount": 0,
-                        "max": 10000,
-                        "min": 1,
-                        "payout": 0
-                    },
-                    "row3": {
-                        "discount": 0,
-                        "max": 5000,
-                        "min": 1,
-                        "payout": 150
-                    },
-                    "row4": {
-                        "discount": 0,
-                        "max": 1000,
-                        "min": 1,
-                        "payout": 0
-                    },
-                    "top1": {
-                        "discount": 0,
-                        "max": 200000,
-                        "min": 1,
-                        "payout": 3.2
-                    },
-                    "top2": {
-                        "discount": 0,
-                        "max": 20000,
-                        "min": 1,
-                        "payout": 90
-                    },
-                    "top3": {
-                        "discount": 0,
-                        "max": 5000,
-                        "min": 1,
-                        "payout": 900
-                    },
-                    "top4": {
-                        "discount": 0,
-                        "max": 500,
-                        "min": 1,
-                        "payout": 0
-                    }
-                },
-                "hanoylottospecial": {
-                    "bottom1": {
-                        "discount": 0,
-                        "max": 10000,
-                        "min": 1,
-                        "payout": 4
-                    },
-                    "bottom2": {
-                        "discount": 0,
-                        "max": 10000,
-                        "min": 1,
-                        "payout": 90
-                    },
-                    "bottom2": {
-                        "discount": 0,
-                        "max": 10000,
-                        "min": 1,
-                        "payout": 90
-                    },
-                    "row3": {
-                        "discount": 0,
-                        "max": 10000,
-                        "min": 1,
-                        "payout": 0
-                    },
-                    "top1": {
-                        "discount": 0,
-                        "max": 200000,
-                        "min": 1,
-                        "payout": 3.2
-                    },
-                    "top2": {
-                        "discount": 0,
-                        "max": 20000,
-                        "min": 1,
-                        "payout": 90
-                    },
-                    "top3": {
-                        "discount": 0,
-                        "max": 5000,
-                        "min": 1,
-                        "payout": 900
-                    }
-                },
-                "hanoylottospecial_set": {
-                    "back2": {
-                        "discount": 0,
-                        "max": 600,
-                        "min": 1,
-                        "payout": 15
-                    },
-                    "front2": {
-                        "discount": 0,
-                        "max": 600,
-                        "min": 1,
-                        "payout": 15
-                    },
-                    "row3": {
-                        "discount": 0,
-                        "max": 600,
-                        "min": 1,
-                        "payout": 25
-                    },
-                    "row4": {
-                        "discount": 0,
-                        "max": 600,
-                        "min": 1,
-                        "payout": 40
-                    },
-                    "top3": {
-                        "discount": 0,
-                        "max": 600,
-                        "min": 1,
-                        "payout": 350
-                    },
-                    "top4": {
-                        "discount": 0,
-                        "max": 600,
-                        "min": 1,
-                        "payout": 1000
-                    }
-                },
-                "hanoylottovip": {
-                    "bottom1": {
-                        "discount": 0,
-                        "max": 10000,
-                        "min": 1,
-                        "payout": 4
-                    },
-                    "bottom2": {
-                        "discount": 0,
-                        "max": 10000,
-                        "min": 1,
-                        "payout": 90
-                    },
-                    "row2": {
-                        "discount": 0,
-                        "max": 10000,
-                        "min": 1,
-                        "payout": 0
-                    },  
-                    "row3": {
-                        "discount": 0,
-                        "max": 5000,
-                        "min": 1,
-                        "payout": 150
-                    },
-                    "row4": {
-                        "discount": 0,
-                        "max": 1000,
-                        "min": 1,
-                        "payout": 0
-                    },
-                    "top1": {
-                        "discount": 0,
-                        "max": 10000,
-                        "min": 1,
-                        "payout": 3
-                    },
-                    "top2": {
-                        "discount": 0,
-                        "max": 10000,
-                        "min": 1,
-                        "payout": 90
-                    },
-                    "top3": {
-                        "discount": 0,
-                        "max": 1000,
-                        "min": 1,
-                        "payout": 900
-                    },
-                    "top4": {
-                        "discount": 0,
-                        "max": 500,
-                        "min": 1,
-                        "payout": 0
-                    }
-                },
-                "hanoylottovip_set": {
-                    "back2": {
-                        "discount": 0,
-                        "max": 600,
-                        "min": 1,
-                        "payout": 15
-                    },
-                    "front2": {
-                        "discount": 0,
-                        "max": 600,
-                        "min": 1,
-                        "payout": 15
-                    },
-                    "row3": {
-                        "discount": 0,
-                        "max": 600,
-                        "min": 1,
-                        "payout": 25
-                    },
-                    "row4": {
-                        "discount": 0,
-                        "max": 600,
-                        "min": 1,
-                        "payout": 40
-                    },
-                    "top3": {
-                        "discount": 0,
-                        "max": 600,
-                        "min": 1,
-                        "payout": 350
-                    },
-                    "top4": {
-                        "discount": 0,
-                        "max": 600,
-                        "min": 1,
-                        "payout": 1000
-                    }
-                },
-                "malaylotto": {
-                    "bottom1": {
-                        "discount": 0,
-                        "max": 10000,
-                        "min": 1,
-                        "payout": 4
-                    },
-                    "bottom2": {
-                        "discount": 0,
-                        "max": 10000,
-                        "min": 1,
-                        "payout": 90
-                    },
-                    "row2": {
-                        "discount": 0,
-                        "max": 10000,
-                        "min": 1,
-                        "payout": 0
-                    },
-                    "row3": {
-                        "discount": 0,
-                        "max": 5000,
-                        "min": 1,
-                        "payout": 150
-                    },
-                    "row4": {
-                        "discount": 0,
-                        "max": 1000,
-                        "min": 1,
-                        "payout": 0
-                    },
-                    "top1": {
-                        "discount": 0,
-                        "max": 10000,
-                        "min": 1,
-                        "payout": 3
-                    },
-                    "top2": {
-                        "discount": 0,
-                        "max": 10000,
-                        "min": 1,
-                        "payout": 90
-                    },
-                    "top3": {
-                        "discount": 0,
-                        "max": 1000,
-                        "min": 1,
-                        "payout": 900
-                    },
-                    "top4": {
-                        "discount": 0,
-                        "max": 500,
-                        "min": 1,
-                        "payout": 0
-                    }
-                },
-                "malaylotto_set": {
-                    "back2": {
-                        "discount": 0,
-                        "max": 600,
-                        "min": 1,
-                        "payout": 15
-                    },
-                    "front2": {
-                        "discount": 0,
-                        "max": 600,
-                        "min": 1,
-                        "payout": 15
-                    },
-                    "row3": {
-                        "discount": 0,
-                        "max": 600,
-                        "min": 1,
-                        "payout": 25
-                    },
-                    "row4": {
-                        "discount": 0,
-                        "max": 600,
-                        "min": 1,
-                        "payout": 40
-                    },
-                    "top3": {
-                        "discount": 0,
-                        "max": 600,
-                        "min": 1,
-                        "payout": 350
-                    },
-                    "top4": {
-                        "discount": 0,
-                        "max": 600,
-                        "min": 1,
-                        "payout": 1000
-                    }
-                },
-                "pingponglotto": {
-                    "bottom1": {
-                        "discount": 0,
-                        "max": 10000,
-                        "min": 1,
-                        "payout": 4
-                    },
-                    "bottom2": {
-                        "discount": 0,
-                        "max": 10000,
-                        "min": 1,
-                        "payout": 90
-                    },
-                    "row2": {
-                        "discount": 0,
-                        "max": 10000,
-                        "min": 1,
-                        "payout": 12
-                    },
-                    "row3": {
-                        "discount": 0,
-                        "max": 5000,
-                        "min": 1,
-                        "payout": 130
-                    },
-                    "row4": {
-                        "discount": 0,
-                        "max": 1000,
-                        "min": 1,
-                        "payout": 225
-                    },
-                    "top1": {
-                        "discount": 0,
-                        "max": 10000,
-                        "min": 1,
-                        "payout": 3
-                    },
-                    "top2": {
-                        "discount": 0,
-                        "max": 10000,
-                        "min": 1,
-                        "payout": 90
-                    },
-                    "top3": {
-                        "discount": 0,
-                        "max": 1000,
-                        "min": 1,
-                        "payout": 800
-                    },
-                    "top4": {
-                        "discount": 0,
-                        "max": 5000,
-                        "min": 1,
-                        "payout": 5000
-                    },
-                    "top5": {
-                        "discount": 0,
-                        "max": 500,
-                        "min": 1,
-                        "payout": 25000
-                    },
-                    "top6": {
-                        "discount": 0,
-                        "max": 500,
-                        "min": 1,
-                        "payout": 50000
-                    }
-                },
-                "stock": {
-                    "bottom1": {
-                        "discount": 0,
-                        "max": 10000,
-                        "min": 1,
-                        "payout": 4
-                    },
-                    "bottom2": {
-                        "discount": 0,
-                        "max": 10000,
-                        "min": 1,
-                        "payout": 90
-                    },
-                    "row3": {
-                        "discount": 0,
-                        "max": 5000,
-                        "min": 1,
-                        "payout": 150
-                    },
-                    "top1": {
-                        "discount": 0,
-                        "max": 10000,
-                        "min": 1,
-                        "payout": 3
-                    },
-                    "top2": {
-                        "discount": 1,
-                        "max": 10000,
-                        "min": 1,
-                        "payout": 90
-                    },
-                    "top3": {
-                        "discount": 0,
-                        "max": 1000,
-                        "min": 1,
-                        "payout": 900
-                    }
-                },
-                "thailotto": {
-                    "bottom1": {
-                        "discount": 0,
-                        "max": 10000,
-                        "min": 1,
-                        "payout": 4
-                    },
-                    "bottom2": {
-                        "discount": 0,
-                        "max": 10000,
-                        "min": 1,
-                        "payout": 90
-                    },
-                    "bottom3": {
-                        "discount": 0,
-                        "max": 10000,
-                        "min": 1,
-                        "payout": 225
-                    },
-                    "row2": {
-                        "discount": 0,
-                        "max": 10000,
-                        "min": 1,
-                        "payout": 12
-                    },
-                    "row3": {
-                        "discount": 0,
-                        "max": 5000,
-                        "min": 1,
-                        "payout": 150
-                    },
-                    "row4": {
-                        "discount": 0,
-                        "max": 1000,
-                        "min": 1,
-                        "payout": 225
-                    },
-                    "top1": {
-                        "discount": 0,
-                        "max": 10000,
-                        "min": 1,
-                        "payout": 3
-                    },
-                    "top2": {
-                        "discount": 0,
-                        "max": 10000,
-                        "min": 1,
-                        "payout": 90
-                    },
-                    "top3": {
-                        "discount": 0,
-                        "max": 1000,
-                        "min": 1,
-                        "payout": 900
-                    },
-                    "top4": {
-                        "discount": 0,
-                        "max": 500,
-                        "min": 1,
-                        "payout": 5000
-                    },
-                    "top5": {
-                        "discount": 0,
-                        "max": 500,
-                        "min": 1,
-                        "payout": 25000
-                    },
-                    "top6": {
-                        "discount": 0,
-                        "max": 500,
-                        "min": 1,
-                        "payout": 50000
-                    }
-                },
-                "yeekeelotto": {
-                    "bottom1": {
-                        "discount": 0,
-                        "max": 10000,
-                        "min": 1,
-                        "payout": 1
-                    },
-                    "bottom2": {
-                        "discount": 0,
-                        "max": 10000,
-                        "min": 1,
-                        "payout": 90
-                    },
-                    "row3": {
-                        "discount": 0,
-                        "max": 5000,
-                        "min": 1,
-                        "payout": 150
-                    },
-                    "top1": {
-                        "discount": 0,
-                        "max": 10000,
-                        "min": 1,
-                        "payout": 2
-                    },
-                    "top2": {
-                        "discount": 0,
-                        "max": 10000,
-                        "min": 1,
-                        "payout": 90
-                    },
-                    "top3": {
-                        "discount": 0,
-                        "max": 1000,
-                        "min": 1,
-                        "payout": 900
-                    }
-                },
-                "zodiaclotto": {
-                    "ball1": {
-                        "discount": 0,
-                        "max": 10000,
-                        "min": 1,
-                        "payout": 0
-                    },  
-                    "ball2": {
-                        "discount": 0,
-                        "max": 10000,
-                        "min": 1,
-                        "payout": 0
-                    },  
-                    "ball3": {
-                        "discount": 0,
-                        "max": 10000,
-                        "min": 1,
-                        "payout": 0
-                    },    
-                    "ball4": {
-                        "discount": 0,
-                        "max": 5000,
-                        "min": 1,
-                        "payout": 0
-                    },
-                    "color": {
-                        "discount": 0,
-                        "max": 1000,
-                        "min": 1,
-                        "payout": 0
-                    }
-                }
-            }
-        }
+    "code": 0,
+    "data": {
+    "username": "testa0aagentthbmb01",
+    "phone": "0xxxxxxxx",
+    "email": "xxxx@gmail.com",
+    "line": "lineX",
+    "currency": "THB",
+    "rate": {
+    "baaclotto": {
+    "bottom1": {
+    "discount": 0,
+    "max": 10000,
+    "min": 1,
+    "payout": 4
+    },
+    "bottom2": {
+    "discount": 10,
+    "max": 10000,
+    "min": 1,
+    "payout": 90
+    },
+    "row3": {
+    "discount": 0,
+    "max": 5000,
+    "min": 1,
+    "payout": 150
+    },
+    "top1": {
+    "discount": 0,
+    "max": 10000,
+    "min": 1,
+    "payout": 3
+    },
+    "top2": {
+    "discount": 0,
+    "max": 10000,
+    "min": 1,
+    "payout": 90
+    },
+    "top3": {
+    "discount": 0,
+    "max": 1000,
+    "min": 1,
+    "payout": 900
+    }
+    },
+    "gsblotto": {
+    "bottom1": {
+    "discount": 0,
+    "max": 10000,
+    "min": 1,
+    "payout": 4
+    },
+    "bottom2": {
+    "discount": 0,
+    "max": 10000,
+    "min": 1,
+    "payout": 90
+    },
+    "row3": {
+    "discount": 0,
+    "max": 5000,
+    "min": 1,
+    "payout": 150
+    },
+    "top1": {
+    "discount": 0,
+    "max": 10000,
+    "min": 1,
+    "payout": 3.2
+    },
+    "top2": {
+    "discount": 0,
+    "max": 10000,
+    "min": 1,
+    "payout": 90
+    },
+    "top3": {
+    "discount": 0,
+    "max": 1000,
+    "min": 1,
+    "payout": 900
+    }
+    },
+    "laoslotto_set": {
+    "back2": {
+    "discount": 1,
+    "max": 600,
+    "min": 1,
+    "payout": 15
+    },
+    "front2": {
+    "discount": 0,
+    "max": 600,
+    "min": 1,
+    "payout": 15
+    },
+    "row3": {
+    "discount": 1,
+    "max": 600,
+    "min": 1,
+    "payout": 25
+    },
+    "row4": {
+    "discount": 1,
+    "max": 600,
+    "min": 1,
+    "payout": 40
+    },
+    "top3": {
+    "discount": 1,
+    "max": 600,
+    "min": 1,
+    "payout": 350
+    },
+    "top4": {
+    "discount": 1,
+    "max": 600,
+    "min": 1,
+    "payout": 1000
+    }
+    },
+    "laoslotto": {
+    "bottom1": {
+    "discount": 1,
+    "max": 10000,
+    "min": 1,
+    "payout": 4
+    },
+    "bottom2": {
+    "discount": 1,
+    "max": 10000,
+    "min": 1,
+    "payout": 90
+    },
+    "row2": {
+    "discount": 1,
+    "max": 10000,
+    "min": 1,
+    "payout": 12
+    },
+    "row3": {
+    "discount": 1,
+    "max": 5000,
+    "min": 1,
+    "payout": 150
+    },
+    "row4": {
+    "discount": 1,
+    "max": 1000,
+    "min": 1,
+    "payout": 225
+    },
+    "top1": {
+    "discount": 1,
+    "max": 10000,
+    "min": 1,
+    "payout": 3
+    },
+    "top2": {
+    "discount": 1,
+    "max": 10000,
+    "min": 1,
+    "payout": 90
+    },
+    "top3": {
+    "discount": 1,
+    "max": 1000,
+    "min": 1,
+    "payout": 900
+    },
+    "top4": {
+    "discount": 1,
+    "max": 500,
+    "min": 1,
+    "payout": 5000
+    }
+    },
+    "hanoylotto_set": {
+    "back2": {
+    "discount": 0,
+    "max": 600,
+    "min": 1,
+    "payout": 15
+    },
+    "front2": {
+    "discount": 0,
+    "max": 600,
+    "min": 1,
+    "payout": 15
+    },
+    "row3": {
+    "discount": 0,
+    "max": 600,
+    "min": 1,
+    "payout": 25
+    },
+    "row4": {
+    "discount": 0,
+    "max": 600,
+    "min": 1,
+    "payout": 40
+    },
+    "top3": {
+    "discount": 0,
+    "max": 600,
+    "min": 1,
+    "payout": 350
+    },
+    "top4": {
+    "discount": 0,
+    "max": 600,
+    "min": 1,
+    "payout": 1000
+    }
+    },
+    "hanoylotto": {
+    "bottom1": {
+    "discount": 0,
+    "max": 10000,
+    "min": 1,
+    "payout": 4
+    },
+    "bottom2": {
+    "discount": 0,
+    "max": 10000,
+    "min": 1,
+    "payout": 90
+    },
+    "row2": {
+    "discount": 0,
+    "max": 10000,
+    "min": 1,
+    "payout": 0
+    },
+    "row3": {
+    "discount": 0,
+    "max": 5000,
+    "min": 1,
+    "payout": 150
+    },
+    "row4": {
+    "discount": 0,
+    "max": 1000,
+    "min": 1,
+    "payout": 0
+    },
+    "top1": {
+    "discount": 0,
+    "max": 200000,
+    "min": 1,
+    "payout": 3.2
+    },
+    "top2": {
+    "discount": 0,
+    "max": 20000,
+    "min": 1,
+    "payout": 90
+    },
+    "top3": {
+    "discount": 0,
+    "max": 5000,
+    "min": 1,
+    "payout": 900
+    },
+    "top4": {
+    "discount": 0,
+    "max": 500,
+    "min": 1,
+    "payout": 0
+    }
+    },
+    "hanoylottospecial": {
+    "bottom1": {
+    "discount": 0,
+    "max": 10000,
+    "min": 1,
+    "payout": 4
+    },
+    "bottom2": {
+    "discount": 0,
+    "max": 10000,
+    "min": 1,
+    "payout": 90
+    },
+    "bottom2": {
+    "discount": 0,
+    "max": 10000,
+    "min": 1,
+    "payout": 90
+    },
+    "row3": {
+    "discount": 0,
+    "max": 10000,
+    "min": 1,
+    "payout": 0
+    },
+    "top1": {
+    "discount": 0,
+    "max": 200000,
+    "min": 1,
+    "payout": 3.2
+    },
+    "top2": {
+    "discount": 0,
+    "max": 20000,
+    "min": 1,
+    "payout": 90
+    },
+    "top3": {
+    "discount": 0,
+    "max": 5000,
+    "min": 1,
+    "payout": 900
+    }
+    },
+    "hanoylottospecial_set": {
+    "back2": {
+    "discount": 0,
+    "max": 600,
+    "min": 1,
+    "payout": 15
+    },
+    "front2": {
+    "discount": 0,
+    "max": 600,
+    "min": 1,
+    "payout": 15
+    },
+    "row3": {
+    "discount": 0,
+    "max": 600,
+    "min": 1,
+    "payout": 25
+    },
+    "row4": {
+    "discount": 0,
+    "max": 600,
+    "min": 1,
+    "payout": 40
+    },
+    "top3": {
+    "discount": 0,
+    "max": 600,
+    "min": 1,
+    "payout": 350
+    },
+    "top4": {
+    "discount": 0,
+    "max": 600,
+    "min": 1,
+    "payout": 1000
+    }
+    },
+    "hanoylottovip": {
+    "bottom1": {
+    "discount": 0,
+    "max": 10000,
+    "min": 1,
+    "payout": 4
+    },
+    "bottom2": {
+    "discount": 0,
+    "max": 10000,
+    "min": 1,
+    "payout": 90
+    },
+    "row2": {
+    "discount": 0,
+    "max": 10000,
+    "min": 1,
+    "payout": 0
+    },
+    "row3": {
+    "discount": 0,
+    "max": 5000,
+    "min": 1,
+    "payout": 150
+    },
+    "row4": {
+    "discount": 0,
+    "max": 1000,
+    "min": 1,
+    "payout": 0
+    },
+    "top1": {
+    "discount": 0,
+    "max": 10000,
+    "min": 1,
+    "payout": 3
+    },
+    "top2": {
+    "discount": 0,
+    "max": 10000,
+    "min": 1,
+    "payout": 90
+    },
+    "top3": {
+    "discount": 0,
+    "max": 1000,
+    "min": 1,
+    "payout": 900
+    },
+    "top4": {
+    "discount": 0,
+    "max": 500,
+    "min": 1,
+    "payout": 0
+    }
+    },
+    "hanoylottovip_set": {
+    "back2": {
+    "discount": 0,
+    "max": 600,
+    "min": 1,
+    "payout": 15
+    },
+    "front2": {
+    "discount": 0,
+    "max": 600,
+    "min": 1,
+    "payout": 15
+    },
+    "row3": {
+    "discount": 0,
+    "max": 600,
+    "min": 1,
+    "payout": 25
+    },
+    "row4": {
+    "discount": 0,
+    "max": 600,
+    "min": 1,
+    "payout": 40
+    },
+    "top3": {
+    "discount": 0,
+    "max": 600,
+    "min": 1,
+    "payout": 350
+    },
+    "top4": {
+    "discount": 0,
+    "max": 600,
+    "min": 1,
+    "payout": 1000
+    }
+    },
+    "malaylotto": {
+    "bottom1": {
+    "discount": 0,
+    "max": 10000,
+    "min": 1,
+    "payout": 4
+    },
+    "bottom2": {
+    "discount": 0,
+    "max": 10000,
+    "min": 1,
+    "payout": 90
+    },
+    "row2": {
+    "discount": 0,
+    "max": 10000,
+    "min": 1,
+    "payout": 0
+    },
+    "row3": {
+    "discount": 0,
+    "max": 5000,
+    "min": 1,
+    "payout": 150
+    },
+    "row4": {
+    "discount": 0,
+    "max": 1000,
+    "min": 1,
+    "payout": 0
+    },
+    "top1": {
+    "discount": 0,
+    "max": 10000,
+    "min": 1,
+    "payout": 3
+    },
+    "top2": {
+    "discount": 0,
+    "max": 10000,
+    "min": 1,
+    "payout": 90
+    },
+    "top3": {
+    "discount": 0,
+    "max": 1000,
+    "min": 1,
+    "payout": 900
+    },
+    "top4": {
+    "discount": 0,
+    "max": 500,
+    "min": 1,
+    "payout": 0
+    }
+    },
+    "malaylotto_set": {
+    "back2": {
+    "discount": 0,
+    "max": 600,
+    "min": 1,
+    "payout": 15
+    },
+    "front2": {
+    "discount": 0,
+    "max": 600,
+    "min": 1,
+    "payout": 15
+    },
+    "row3": {
+    "discount": 0,
+    "max": 600,
+    "min": 1,
+    "payout": 25
+    },
+    "row4": {
+    "discount": 0,
+    "max": 600,
+    "min": 1,
+    "payout": 40
+    },
+    "top3": {
+    "discount": 0,
+    "max": 600,
+    "min": 1,
+    "payout": 350
+    },
+    "top4": {
+    "discount": 0,
+    "max": 600,
+    "min": 1,
+    "payout": 1000
+    }
+    },
+    "pingponglotto": {
+    "bottom1": {
+    "discount": 0,
+    "max": 10000,
+    "min": 1,
+    "payout": 4
+    },
+    "bottom2": {
+    "discount": 0,
+    "max": 10000,
+    "min": 1,
+    "payout": 90
+    },
+    "row2": {
+    "discount": 0,
+    "max": 10000,
+    "min": 1,
+    "payout": 12
+    },
+    "row3": {
+    "discount": 0,
+    "max": 5000,
+    "min": 1,
+    "payout": 130
+    },
+    "row4": {
+    "discount": 0,
+    "max": 1000,
+    "min": 1,
+    "payout": 225
+    },
+    "top1": {
+    "discount": 0,
+    "max": 10000,
+    "min": 1,
+    "payout": 3
+    },
+    "top2": {
+    "discount": 0,
+    "max": 10000,
+    "min": 1,
+    "payout": 90
+    },
+    "top3": {
+    "discount": 0,
+    "max": 1000,
+    "min": 1,
+    "payout": 800
+    },
+    "top4": {
+    "discount": 0,
+    "max": 5000,
+    "min": 1,
+    "payout": 5000
+    },
+    "top5": {
+    "discount": 0,
+    "max": 500,
+    "min": 1,
+    "payout": 25000
+    },
+    "top6": {
+    "discount": 0,
+    "max": 500,
+    "min": 1,
+    "payout": 50000
+    }
+    },
+    "stock": {
+    "bottom1": {
+    "discount": 0,
+    "max": 10000,
+    "min": 1,
+    "payout": 4
+    },
+    "bottom2": {
+    "discount": 0,
+    "max": 10000,
+    "min": 1,
+    "payout": 90
+    },
+    "row3": {
+    "discount": 0,
+    "max": 5000,
+    "min": 1,
+    "payout": 150
+    },
+    "top1": {
+    "discount": 0,
+    "max": 10000,
+    "min": 1,
+    "payout": 3
+    },
+    "top2": {
+    "discount": 1,
+    "max": 10000,
+    "min": 1,
+    "payout": 90
+    },
+    "top3": {
+    "discount": 0,
+    "max": 1000,
+    "min": 1,
+    "payout": 900
+    }
+    },
+    "thailotto": {
+    "bottom1": {
+    "discount": 0,
+    "max": 10000,
+    "min": 1,
+    "payout": 4
+    },
+    "bottom2": {
+    "discount": 0,
+    "max": 10000,
+    "min": 1,
+    "payout": 90
+    },
+    "bottom3": {
+    "discount": 0,
+    "max": 10000,
+    "min": 1,
+    "payout": 225
+    },
+    "row2": {
+    "discount": 0,
+    "max": 10000,
+    "min": 1,
+    "payout": 12
+    },
+    "row3": {
+    "discount": 0,
+    "max": 5000,
+    "min": 1,
+    "payout": 150
+    },
+    "row4": {
+    "discount": 0,
+    "max": 1000,
+    "min": 1,
+    "payout": 225
+    },
+    "top1": {
+    "discount": 0,
+    "max": 10000,
+    "min": 1,
+    "payout": 3
+    },
+    "top2": {
+    "discount": 0,
+    "max": 10000,
+    "min": 1,
+    "payout": 90
+    },
+    "top3": {
+    "discount": 0,
+    "max": 1000,
+    "min": 1,
+    "payout": 900
+    },
+    "top4": {
+    "discount": 0,
+    "max": 500,
+    "min": 1,
+    "payout": 5000
+    },
+    "top5": {
+    "discount": 0,
+    "max": 500,
+    "min": 1,
+    "payout": 25000
+    },
+    "top6": {
+    "discount": 0,
+    "max": 500,
+    "min": 1,
+    "payout": 50000
+    }
+    },
+    "yeekeelotto": {
+    "bottom1": {
+    "discount": 0,
+    "max": 10000,
+    "min": 1,
+    "payout": 1
+    },
+    "bottom2": {
+    "discount": 0,
+    "max": 10000,
+    "min": 1,
+    "payout": 90
+    },
+    "row3": {
+    "discount": 0,
+    "max": 5000,
+    "min": 1,
+    "payout": 150
+    },
+    "top1": {
+    "discount": 0,
+    "max": 10000,
+    "min": 1,
+    "payout": 2
+    },
+    "top2": {
+    "discount": 0,
+    "max": 10000,
+    "min": 1,
+    "payout": 90
+    },
+    "top3": {
+    "discount": 0,
+    "max": 1000,
+    "min": 1,
+    "payout": 900
+    }
+    },
+    "zodiaclotto": {
+    "ball1": {
+    "discount": 0,
+    "max": 10000,
+    "min": 1,
+    "payout": 0
+    },
+    "ball2": {
+    "discount": 0,
+    "max": 10000,
+    "min": 1,
+    "payout": 0
+    },
+    "ball3": {
+    "discount": 0,
+    "max": 10000,
+    "min": 1,
+    "payout": 0
+    },
+    "ball4": {
+    "discount": 0,
+    "max": 5000,
+    "min": 1,
+    "payout": 0
+    },
+    "color": {
+    "discount": 0,
+    "max": 1000,
+    "min": 1,
+    "payout": 0
+    }
+    }
+    }
+    }
     }
 </div>
 <div id="seamless_tabfour-five-two_req" class="d-non">
     {
-        "service": "GetUserBalance",
-        "data": {
-            "playerApiId": "21f7d4c971036eea30d1db483d01f131faada79fa94d52560c9f2c2b56a6f8877b66ae2c624f89442c938db064d8179f",
-            "playerApiUsername": "testa0alottoviptest2@comptestseamless",
-            "playerUsername": "testa0alottoviptest2"
-        }
+    "service": "GetUserBalance",
+    "data": {
+    "playerApiId": "21f7d4c971036eea30d1db483d01f131faada79fa94d52560c9f2c2b56a6f8877b66ae2c624f89442c938db064d8179f",
+    "playerApiUsername": "testa0alottoviptest2@comptestseamless",
+    "playerUsername": "testa0alottoviptest2"
+    }
     }
 </div>
 <div id="seamless_tabfour-five-three_req" class="d-non">
     {
-        "service": "UserPlaceBet",
-        "data": {
-            "playerApiId": "281199a5837d34ce72dcc86c0e14bc26b9362d63b0f49173a3b977d0dfe2adfd",
-            "playerApiUsername": "testa0aagentthbmb01@comptestseamless",
-            "playerUsername": "testa0aagentthbmb01",
-            "ticketId": "39781",
-            "type": "yeekeelotto",
-            "government": false,
-            "drawId": 36160,
-            "totalBetAmt": -49.00000000000001,
-            "drawName": "Yeekee Lotto",
-            "drawExpire": "2023-10-03 15:14:00",
-            "txtList": [
-                {
-                    "agentPt": "0",
-                    "apiPt": "100",
-                    "betKey": "Mzk3ODEtMQ==",
-                    "betId": "1",
-                    "betType": "top2",
-                    "betNumber": "12",
-                    "betStatus": "pending",
-                    "betAmt": 5,
-                    "betTotal": 4.95,
-                    "betDiscount": 0.05,
-                    "payOutRate": 90,
-                    "rateLevel": 0,
-                    "rateLevelAmount": 0,
-                    "betResultKey": " ",
-                    "payOutAmt": 0
-                },
-                {
-                    "agentPt": "0",
-                    "apiPt": "100",
-                    "betKey": "Mzk3ODEtMQ==",
-                    "betId": "2",
-                    "betType": "bottom2",
-                    "betNumber": "12",
-                    "betStatus": "pending",
-                    "betAmt": 5,
-                    "betTotal": 5,
-                    "betDiscount": 0,
-                    "payOutRate": 90,
-                    "rateLevel": 0,
-                    "rateLevelAmount": 0,
-                    "betResultKey": " ",
-                    "payOutAmt": 0
-                }
-            ],
-            "status": "pending",
-            "createDate": "2023-10-03 15:12:25",
-            "ip": "8.213.194.49",
-            "currency": "thb",
-            "DrawOpen": "2023-10-03 05:00:00"
-        }
+    "service": "UserPlaceBet",
+    "data": {
+    "playerApiId": "281199a5837d34ce72dcc86c0e14bc26b9362d63b0f49173a3b977d0dfe2adfd",
+    "playerApiUsername": "testa0aagentthbmb01@comptestseamless",
+    "playerUsername": "testa0aagentthbmb01",
+    "ticketId": "39781",
+    "type": "yeekeelotto",
+    "government": false,
+    "drawId": 36160,
+    "totalBetAmt": -49.00000000000001,
+    "drawName": "Yeekee Lotto",
+    "drawExpire": "2023-10-03 15:14:00",
+    "txtList": [
+    {
+    "agentPt": "0",
+    "apiPt": "100",
+    "betKey": "Mzk3ODEtMQ==",
+    "betId": "1",
+    "betType": "top2",
+    "betNumber": "12",
+    "betStatus": "pending",
+    "betAmt": 5,
+    "betTotal": 4.95,
+    "betDiscount": 0.05,
+    "payOutRate": 90,
+    "rateLevel": 0,
+    "rateLevelAmount": 0,
+    "betResultKey": " ",
+    "payOutAmt": 0
+    },
+    {
+    "agentPt": "0",
+    "apiPt": "100",
+    "betKey": "Mzk3ODEtMQ==",
+    "betId": "2",
+    "betType": "bottom2",
+    "betNumber": "12",
+    "betStatus": "pending",
+    "betAmt": 5,
+    "betTotal": 5,
+    "betDiscount": 0,
+    "payOutRate": 90,
+    "rateLevel": 0,
+    "rateLevelAmount": 0,
+    "betResultKey": " ",
+    "payOutAmt": 0
+    }
+    ],
+    "status": "pending",
+    "createDate": "2023-10-03 15:12:25",
+    "ip": "8.213.194.49",
+    "currency": "thb",
+    "DrawOpen": "2023-10-03 05:00:00"
+    }
     }
 </div>
 <div id="seamless_tabfour-five-four_req" class="d-non">
     {
-        "service": "UserPlaceBetCancel",
-        "data": {
-            "playerApiId": "4e4fbb4539fb0b7bd1d6b01a7f218cc0c311466f40bade45189b24a3efa3e6ba5ef2d47ee85eb2cffa48379b4fa017c6",
-            "playerApiUsername": "testa0alottoviptestcarl@comptestseamless",
-            "playerUsername": "testa0alottoviptestcarl",
-            "ticketId": 53000,
-            "type": "thailotto",
-            "government": false,
-            "drawId": 44170,
-            "totalBetAmt": -10000
-            "txtList": [
-                {
-                    "agentPt": "95",
-                    "apiPt": "5",
-                    "betKey": "NTMwMDAtMQ==",
-                    "betId": "1",
-                    "betType": "bottom2",
-                    "betNumber": "10",
-                    "betStatus": "pending",
-                    "betAmt": 10000,
-                    "betTotal": 10000,
-                    "betDiscount": 0,
-                    "payOutRate": 90,
-                    "rateLevel": 0,
-                    "rateLevelAmount": 0,
-                    "betResultKey": "",
-                    "payOutAmt": 0
-                }
-            ],
-            "status": "cancel",
-            "createDate": "2023-11-11 15:16:44",
-            "currency": "thb",
-            "DrawOpen": "2023-11-09 01:00:00",
-            "drawExpire": "2023-11-19 15:25:00"
-        }
+    "service": "UserPlaceBetCancel",
+    "data": {
+    "playerApiId": "4e4fbb4539fb0b7bd1d6b01a7f218cc0c311466f40bade45189b24a3efa3e6ba5ef2d47ee85eb2cffa48379b4fa017c6",
+    "playerApiUsername": "testa0alottoviptestcarl@comptestseamless",
+    "playerUsername": "testa0alottoviptestcarl",
+    "ticketId": 53000,
+    "type": "thailotto",
+    "government": false,
+    "drawId": 44170,
+    "totalBetAmt": -10000
+    "txtList": [
+    {
+    "agentPt": "95",
+    "apiPt": "5",
+    "betKey": "NTMwMDAtMQ==",
+    "betId": "1",
+    "betType": "bottom2",
+    "betNumber": "10",
+    "betStatus": "pending",
+    "betAmt": 10000,
+    "betTotal": 10000,
+    "betDiscount": 0,
+    "payOutRate": 90,
+    "rateLevel": 0,
+    "rateLevelAmount": 0,
+    "betResultKey": "",
+    "payOutAmt": 0
+    }
+    ],
+    "status": "cancel",
+    "createDate": "2023-11-11 15:16:44",
+    "currency": "thb",
+    "DrawOpen": "2023-11-09 01:00:00",
+    "drawExpire": "2023-11-19 15:25:00"
+    }
     }
 </div>
 <div id="seamless_tabfour-five-five_lose_req" class="d-non">
     {
-        "service": "UserPlacePayout",
-        "data": {
-            "playerApiId": "281199a5837d34ce72dcc86c0e14bc26b9362d63b0f49173a3b977d0dfe2adfd",
-            "playerApiUsername": "testa0aagentthbmb01@comptestseamless",
-            "playerUsername": "testa0aagentthbmb01",
-            "ticketId": "751811",
-            "type": "stockgerman",
-            "government": false,
-            "drawId": 47600,
-            "totalBetAmt":  -9.9,
-            "totalPayOutAmt":  900,
-            "txtList": [
-                {
-                    "agentPt": "95",
-                    "apiPt": "5",
-                    "betKey": "NzUxODExLTI=",
-                    "betId": "1",
-                    "betType": "bottom2",
-                    "betNumber": "87",
-                    "betStatus": "false",
-                    "betAmt": 9.9,
-                    "betTotal": 10,
-                    "betDiscount": 1,
-                    "payOutRate": 90,
-                    "rateLevel": 0,
-                    "rateLevelAmount": 0,
-                    "betResultKey": "",
-                    "payOutAmt": 0
-                }
-            ],
-            "status": "Success",
-            "result": {
-                "bottom1": [
-                    "7",
-                    "8"
-                ],
-                "bottom2": [
-                    "78"
-                ],
-                "row2": [
-                    "77",
-                    "78",
-                    "87"
-                ],
-                "row3": [
-                    "456",
-                    "465",
-                    "546",
-                    "564",
-                    "645",
-                    "654"
-                ],
-                "top1": [
-                    "4",
-                    "5",
-                    "6"
-                ],
-                "top2": [
-                    "56"
-                ],
-                "top3": [
-                    "456"
-                ]
-            },
-            "resultlink": "",
-            "createDate": "2023-10-02 20:41:54",
-            "currency": "thb"
+    "service": "UserPlacePayout",
+    "data": {
+    "playerApiId": "281199a5837d34ce72dcc86c0e14bc26b9362d63b0f49173a3b977d0dfe2adfd",
+    "playerApiUsername": "testa0aagentthbmb01@comptestseamless",
+    "playerUsername": "testa0aagentthbmb01",
+    "ticketId": "751811",
+    "type": "stockgerman",
+    "government": false,
+    "drawId": 47600,
+    "totalBetAmt": -9.9,
+    "totalPayOutAmt": 900,
+    "txtList": [
+    {
+    "agentPt": "95",
+    "apiPt": "5",
+    "betKey": "NzUxODExLTI=",
+    "betId": "1",
+    "betType": "bottom2",
+    "betNumber": "87",
+    "betStatus": "false",
+    "betAmt": 9.9,
+    "betTotal": 10,
+    "betDiscount": 1,
+    "payOutRate": 90,
+    "rateLevel": 0,
+    "rateLevelAmount": 0,
+    "betResultKey": "",
+    "payOutAmt": 0
+    }
+    ],
+    "status": "Success",
+    "result": {
+    "bottom1": [
+    "7",
+    "8"
+    ],
+    "bottom2": [
+    "78"
+    ],
+    "row2": [
+    "77",
+    "78",
+    "87"
+    ],
+    "row3": [
+    "456",
+    "465",
+    "546",
+    "564",
+    "645",
+    "654"
+    ],
+    "top1": [
+    "4",
+    "5",
+    "6"
+    ],
+    "top2": [
+    "56"
+    ],
+    "top3": [
+    "456"
+    ]
+    },
+    "resultlink": "",
+    "createDate": "2023-10-02 20:41:54",
+    "currency": "thb"
 
-        }
+    }
     }
 </div>
 <div id="seamless_tabfour-five-five_win_req" class="d-non">
     {
-        "service": "UserPlacePayout",
-        "data": {
-            "playerApiId": "281199a5837d34ce72dcc86c0e14bc26b9362d63b0f49173a3b977d0dfe2adfd",
-            "playerApiUsername": "testa0aagentthbmb01@comptestseamless",
-            "playerUsername": "testa0aagentthbmb01",
-            "ticketId": "751812",
-            "type": "stockgerman",
-            "government": false,
-            "drawId": 47600,
-            "totalBetAmt":  -9.9,
-            "totalPayOutAmt":  900,
-            "txtList": [
-                {
-                    "agentPt": "95",
-                    "apiPt": "5",
-                    "betKey": "NzUxODExLTE=",
-                    "betId": "1",
-                    "betType": "bottom2",
-                    "betNumber": "78",
-                    "betStatus": "true",
-                    "betAmt": 9.9,
-                    "betTotal": 10,
-                    "betDiscount": 1,
-                    "payOutRate": 90,
-                    "rateLevel": 0,
-                    "rateLevelAmount": 0,
-                    "betResultKey": "bottom2",
-                    "payOutAmt": 900
-                }
-            ],
-            "status": "Success",
-            "result": {
-                "bottom1": [
-                    "7",
-                    "8"
-                ],
-                "bottom2": [
-                    "78"
-                ],
-                "row2": [
-                    "77",
-                    "78",
-                    "87"
-                ],
-                "row3": [
-                    "456",
-                    "465",
-                    "546",
-                    "564",
-                    "645",
-                    "654"
-                ],
-                "top1": [
-                    "4",
-                    "5",
-                    "6"
-                ],
-                "top2": [
-                    "56"
-                ],
-                "top3": [
-                    "456"
-                ]
-            },
-            "resultlink": "",
-            "createDate": "2023-10-02 20:41:54",
-            "currency": "thb"
+    "service": "UserPlacePayout",
+    "data": {
+    "playerApiId": "281199a5837d34ce72dcc86c0e14bc26b9362d63b0f49173a3b977d0dfe2adfd",
+    "playerApiUsername": "testa0aagentthbmb01@comptestseamless",
+    "playerUsername": "testa0aagentthbmb01",
+    "ticketId": "751812",
+    "type": "stockgerman",
+    "government": false,
+    "drawId": 47600,
+    "totalBetAmt": -9.9,
+    "totalPayOutAmt": 900,
+    "txtList": [
+    {
+    "agentPt": "95",
+    "apiPt": "5",
+    "betKey": "NzUxODExLTE=",
+    "betId": "1",
+    "betType": "bottom2",
+    "betNumber": "78",
+    "betStatus": "true",
+    "betAmt": 9.9,
+    "betTotal": 10,
+    "betDiscount": 1,
+    "payOutRate": 90,
+    "rateLevel": 0,
+    "rateLevelAmount": 0,
+    "betResultKey": "bottom2",
+    "payOutAmt": 900
+    }
+    ],
+    "status": "Success",
+    "result": {
+    "bottom1": [
+    "7",
+    "8"
+    ],
+    "bottom2": [
+    "78"
+    ],
+    "row2": [
+    "77",
+    "78",
+    "87"
+    ],
+    "row3": [
+    "456",
+    "465",
+    "546",
+    "564",
+    "645",
+    "654"
+    ],
+    "top1": [
+    "4",
+    "5",
+    "6"
+    ],
+    "top2": [
+    "56"
+    ],
+    "top3": [
+    "456"
+    ]
+    },
+    "resultlink": "",
+    "createDate": "2023-10-02 20:41:54",
+    "currency": "thb"
 
-        }
+    }
     }
 </div>
 <div id="seamless_tabfour-five-six_req" class="d-non">
     {
-        "service": "UserPlaceReToRunning",
-        "data": {
-            "playerApiId": "281199a5837d34ce72dcc86c0e14bc26b9362d63b0f49173a3b977d0dfe2adfd",
-            "playerApiUsername": "testa0aagentthbmb01@comptestseamless",
-            "playerUsername": "testa0aagentthbmb01",
-            "ticketId": 40864,
-            "type": "pingponglotto6",
-            "government": false,
-            "drawId": 37187,
-            "totalBetAmt": 1243,
-            "txtList": [
-                {
-                    "agentPt": "95",
-                    "apiPt": "5",
-                    "betKey": "NDA4NjQtMQ==",
-                    "betId": "1",
-                    "betType": "top6",
-                    "betNumber": "789000",
-                    "betStatus": "pending",
-                    "betAmt": 733,
-                    "betTotal": 733,
-                    "betDiscount": 0,
-                    "payOutRate": 50000,
-                    "rateLevel": 0,
-                    "rateLevelAmount": 0,
-                    "betResultKey": "",
-                    "payOutAmt": 0
-                }
-            ],
-            "status": "pending",
-            "createDate": "2023-10-07 17:18:42",
-            "DrawOpen": "2023-10-07 17:00:00",
-            "currency": "thb",
-            "drawExpire": "2023-10-07 17:30:00",
-            "totalPayOutAmt": 0
-        }
+    "service": "UserPlaceReToRunning",
+    "data": {
+    "playerApiId": "281199a5837d34ce72dcc86c0e14bc26b9362d63b0f49173a3b977d0dfe2adfd",
+    "playerApiUsername": "testa0aagentthbmb01@comptestseamless",
+    "playerUsername": "testa0aagentthbmb01",
+    "ticketId": 40864,
+    "type": "pingponglotto6",
+    "government": false,
+    "drawId": 37187,
+    "totalBetAmt": 1243,
+    "txtList": [
+    {
+    "agentPt": "95",
+    "apiPt": "5",
+    "betKey": "NDA4NjQtMQ==",
+    "betId": "1",
+    "betType": "top6",
+    "betNumber": "789000",
+    "betStatus": "pending",
+    "betAmt": 733,
+    "betTotal": 733,
+    "betDiscount": 0,
+    "payOutRate": 50000,
+    "rateLevel": 0,
+    "rateLevelAmount": 0,
+    "betResultKey": "",
+    "payOutAmt": 0
+    }
+    ],
+    "status": "pending",
+    "createDate": "2023-10-07 17:18:42",
+    "DrawOpen": "2023-10-07 17:00:00",
+    "currency": "thb",
+    "drawExpire": "2023-10-07 17:30:00",
+    "totalPayOutAmt": 0
+    }
     }
 </div>
 
 <!-- start -->
 <div id="seamless_tabfour-five-seven_req" class="d-non">
     {
-        "service": "UserPayReward",
-        "data": {
-            "playerApiId": "5eae90e32f7df02c92fde32d",
-            "playerApiUsername": "startseamlessmember@startapiseamless",
-            "playerUsername": "member1",
-            "rewardId": "1004718",
-            "type": "Reward",
-            "drawId": 12312,
-            "lottotype": "yeekeelotto",
-            "round": 11,
-            "totalPayOutAmt": 400,
-            "status": "Success",
-            "createDate": "2020-05-03 20:36:13",
-            "requestDate": "2020-05-03 20:36:13"
-        }
+    "service": "UserPayReward",
+    "data": {
+    "playerApiId": "5eae90e32f7df02c92fde32d",
+    "playerApiUsername": "startseamlessmember@startapiseamless",
+    "playerUsername": "member1",
+    "rewardId": "1004718",
+    "type": "Reward",
+    "drawId": 12312,
+    "lottotype": "yeekeelotto",
+    "round": 11,
+    "totalPayOutAmt": 400,
+    "status": "Success",
+    "createDate": "2020-05-03 20:36:13",
+    "requestDate": "2020-05-03 20:36:13"
+    }
     }
 </div>
 <div id="seamless_tabfour-five-eight_req" class="d-non">
     {
-        "service": "UserPayRewardCancel",
-        "data": {
-            "playerApiId": "5eae90e32f7df02c92fde32d",
-            "playerApiUsername": "startseamlessmember@startapiseamless",
-            "playerUsername": "member1",
-            "rewardId": "1004718",
-            "type": "Reward",
-            "drawId": 12312,
-            "lottotype": "yeekeelotto",
-            "round": 11,
-            "totalPayOutAmt": 400,
-            "status": "Cancel",
-            "createDate": "2020-05-03 20:36:13",
-            "requestDate": "2020-05-03 20:36:13"
-        }
+    "service": "UserPayRewardCancel",
+    "data": {
+    "playerApiId": "5eae90e32f7df02c92fde32d",
+    "playerApiUsername": "startseamlessmember@startapiseamless",
+    "playerUsername": "member1",
+    "rewardId": "1004718",
+    "type": "Reward",
+    "drawId": 12312,
+    "lottotype": "yeekeelotto",
+    "round": 11,
+    "totalPayOutAmt": 400,
+    "status": "Cancel",
+    "createDate": "2020-05-03 20:36:13",
+    "requestDate": "2020-05-03 20:36:13"
+    }
     }
 </div>
 <div id="seamless_tabfour-six-one_req" class="d-non">
     {
-        "agentUsername": "compseamless",
-        "agentApiKey": "e5ecb1f7d639dff2e3bcc05948726a8e7cafa0a75a07117b9562c4b7bc67c665a409cec17f9dfa02",
-        "playerUsername": "member1",
-        "startDate": "2021-07-10 15:04:05",
-        "endDate": "2021-07-20 15:04:05",
-        "page": 1,
-        "limit": 1
+    "agentUsername": "compseamless",
+    "agentApiKey": "e5ecb1f7d639dff2e3bcc05948726a8e7cafa0a75a07117b9562c4b7bc67c665a409cec17f9dfa02",
+    "playerUsername": "member1",
+    "startDate": "2021-07-10 15:04:05",
+    "endDate": "2021-07-20 15:04:05",
+    "page": 1,
+    "limit": 1
     }
 </div>
 <div id="seamless_tabfour-six-two_req" class="d-non">
     {
-        "agentUsername": "compseamless",
-        "agentApiKey": "e5ecb1f7d639dff2e3bcc05948726a8e7cafa0a75a07117b9562c4b7bc67c665a409cec17f9dfa02",
-        "startDate": "2021-07-10 15:04:05",
-        "endDate": "2021-07-20 15:04:05",
-        "page": 1,
-        "limit": 1
+    "agentUsername": "compseamless",
+    "agentApiKey": "e5ecb1f7d639dff2e3bcc05948726a8e7cafa0a75a07117b9562c4b7bc67c665a409cec17f9dfa02",
+    "startDate": "2021-07-10 15:04:05",
+    "endDate": "2021-07-20 15:04:05",
+    "page": 1,
+    "limit": 1
     }
 </div>
 <div id="seamless_tabfour-six-three_req" class="d-non">
     {
-        "agentUsername": "agentapi",
-        "agentApiKey": "18c089a2e49dfc1776b6abc2ea3ee909d43b10bc37dfd7195a7265da82f8b4a983a1ebf3",
-        "playerUsername": "stockrussia",
-        "startDate": "2021-07-20 15:04:05",
-        "endDate": "2021-07-20 15:04:05"
+    "agentUsername": "agentapi",
+    "agentApiKey": "18c089a2e49dfc1776b6abc2ea3ee909d43b10bc37dfd7195a7265da82f8b4a983a1ebf3",
+    "playerUsername": "stockrussia",
+    "startDate": "2021-07-20 15:04:05",
+    "endDate": "2021-07-20 15:04:05"
     }
 </div>
 <div id="seamless_tabfour-six-four_one_req" class="d-non">
     {
-        "agentUsername": "superadmincash1",
-        "agentApiKey": "345afccac1c08a4f8e37fbf1ac4f6e2a63e298062482c3f5192a63f3f8",
-        "services": "AddHotnumber",
-        "data": {
-            "hotnumber": {
-                "thailotto": {
-                    "top3": {
-                        "number": "123",
-                        "amount": 100
-                    }
-                }
-            }
-        }
+    "agentUsername": "superadmincash1",
+    "agentApiKey": "345afccac1c08a4f8e37fbf1ac4f6e2a63e298062482c3f5192a63f3f8",
+    "services": "AddHotnumber",
+    "data": {
+    "hotnumber": {
+    "thailotto": {
+    "top3": {
+    "number": "123",
+    "amount": 100
+    }
+    }
+    }
+    }
     }
 </div>
 <div id="seamless_tabfour-six-four_two_req" class="d-non">
     {
-        "agentUsername": "superadmincash",
-        "agentApiKey": "345afccac1c08a4f8e37fbf1ac4f6e2a63e298062482c3f5192a63f3f8",
-        "services": "EditHotnumber",
-        "data": {
-            "hotnumber": {
-                "thailotto": {
-                    "top3": {
-                        "number": "123",
-                        "amount": 1000
-                    }
-                }
-            }
-        }
+    "agentUsername": "superadmincash",
+    "agentApiKey": "345afccac1c08a4f8e37fbf1ac4f6e2a63e298062482c3f5192a63f3f8",
+    "services": "EditHotnumber",
+    "data": {
+    "hotnumber": {
+    "thailotto": {
+    "top3": {
+    "number": "123",
+    "amount": 1000
+    }
+    }
+    }
+    }
     }
 </div>
 <div id="seamless_tabfour-six-four_three_req" class="d-non">
     {
-        "agentUsername": "superadmincash",
-        "agentApiKey": "345afccac1c08a4f8e37fbf1ac4f6e2a63e298062482c3f5192a63f3f8",
-        "services": "DeleteHotnumber",
-        "data": {
-            "hotnumber": {
-                "thailotto": {
-                    "top3": {
-                        "number": "123"
-                    }
-                }
-            }
-        }
+    "agentUsername": "superadmincash",
+    "agentApiKey": "345afccac1c08a4f8e37fbf1ac4f6e2a63e298062482c3f5192a63f3f8",
+    "services": "DeleteHotnumber",
+    "data": {
+    "hotnumber": {
+    "thailotto": {
+    "top3": {
+    "number": "123"
+    }
+    }
+    }
+    }
     }
 </div>
 <div id="seamless_tabfour-six-four_four_req" class="d-non">
     {
-        "agentUsername": "superadmincash",
-        "agentApiKey": "345afccac1c08a4f8e37fbf1ac4f6e2a63e298062482c3f5192a63f3f8",
-        "services": "AddLimitnumber",
-        "data": {
-            "limitnumber": {
-                "thailotto": {
-                    "top3": {
-                        "number": "999"
-                    }
-                }
-            }
-        }
+    "agentUsername": "superadmincash",
+    "agentApiKey": "345afccac1c08a4f8e37fbf1ac4f6e2a63e298062482c3f5192a63f3f8",
+    "services": "AddLimitnumber",
+    "data": {
+    "limitnumber": {
+    "thailotto": {
+    "top3": {
+    "number": "999"
+    }
+    }
+    }
+    }
     }
 </div>
 <div id="seamless_tabfour-six-four_five_req" class="d-non">
     {
-        "agentUsername": "superadmincash",
-        "agentApiKey": "345afccac1c08a4f8e37fbf1ac4f6e2a63e298062482c3f5192a63f3f8",
-        "services": "DeleteLimitnumber",
-        "data": {
-            "limitnumber": {
-                "thailotto": {
-                    "top3": {
-                        "number": "567"
-                    }
-                }
-            }
-        }
+    "agentUsername": "superadmincash",
+    "agentApiKey": "345afccac1c08a4f8e37fbf1ac4f6e2a63e298062482c3f5192a63f3f8",
+    "services": "DeleteLimitnumber",
+    "data": {
+    "limitnumber": {
+    "thailotto": {
+    "top3": {
+    "number": "567"
+    }
+    }
+    }
+    }
     }
 </div>
 <div id="seamless_tabfour-six-four_six_left_req" class="d-non">
     {
-        "agentUsername": "testcompany",
-        "agentApiKey": "504947f655f822e2f8f414bbc1a34ba763c7570ef638135f30b5696c899f806901e163f59f3a86d0c8cd",
-        "services": "SetPlaceOut",
-        "data": {
-            "enable_hotplaceout": true,
-            "placeout": {
-                "laoslotto": {
-                    "laoslotto": {
-                        "top4": {
-                            "amount": 200
-                        },
-                        "row4": {
-                            "amount": 1
-                        },
-                        "top3": {
-                            "amount": 0
-                        },
-                        "row3": {
-                            "amount": 0
-                        },
-                        "top2": {
-                            "amount": 0
-                        },
-                        "bottom2": {
-                            "amount": 0
-                        },
-                        "row2": {
-                            "amount": 0
-                        },
-                        "top1": {
-                            "amount": 0
-                        },
-                        "bottom1": {
-                            "amount": 0
-                        }
-                    },
-                    "laoslotto_set": {
-                        "lottoset": {
-                            "amount": 500
-                        }
-                    }
-                }
-            },
-            "hotplaceout": {
-                "laoslotto": {
-                    "laoslotto": {
-                        "top4": {
-                            "amount": 800
-                        },
-                        "row4": {
-                            "amount": 800
-                        },
-                        "top3": {
-                            "amount": 800
-                        },
-                        "row3": {
-                            "amount": 800
-                        },
-                        "top2": {
-                            "amount": 800
-                        },
-                        "bottom2": {
-                            "amount": 800
-                        },
-                        "row2": {
-                            "amount": 800
-                        },
-                        "top1": {
-                            "amount": 800
-                        },
-                        "bottom1": {
-                            "amount": 800
-                        }
-                    },
-                    "laoslotto_set": {
-                        "amount": 500
-                    }
-                }
-            }
-        }
+    "agentUsername": "testcompany",
+    "agentApiKey": "504947f655f822e2f8f414bbc1a34ba763c7570ef638135f30b5696c899f806901e163f59f3a86d0c8cd",
+    "services": "SetPlaceOut",
+    "data": {
+    "enable_hotplaceout": true,
+    "placeout": {
+    "laoslotto": {
+    "laoslotto": {
+    "top4": {
+    "amount": 200
+    },
+    "row4": {
+    "amount": 1
+    },
+    "top3": {
+    "amount": 0
+    },
+    "row3": {
+    "amount": 0
+    },
+    "top2": {
+    "amount": 0
+    },
+    "bottom2": {
+    "amount": 0
+    },
+    "row2": {
+    "amount": 0
+    },
+    "top1": {
+    "amount": 0
+    },
+    "bottom1": {
+    "amount": 0
+    }
+    },
+    "laoslotto_set": {
+    "lottoset": {
+    "amount": 500
+    }
+    }
+    }
+    },
+    "hotplaceout": {
+    "laoslotto": {
+    "laoslotto": {
+    "top4": {
+    "amount": 800
+    },
+    "row4": {
+    "amount": 800
+    },
+    "top3": {
+    "amount": 800
+    },
+    "row3": {
+    "amount": 800
+    },
+    "top2": {
+    "amount": 800
+    },
+    "bottom2": {
+    "amount": 800
+    },
+    "row2": {
+    "amount": 800
+    },
+    "top1": {
+    "amount": 800
+    },
+    "bottom1": {
+    "amount": 800
+    }
+    },
+    "laoslotto_set": {
+    "amount": 500
+    }
+    }
+    }
+    }
     }
 </div>
 <div id="seamless_tabfour-six-four_six_left_req" class="d-non">
     {
-        "agentUsername": "buildexcompany",
-        "agentApiKey": "504947f655f822e2f8f414bbc1a34ba763c7570ef638135f30b5696c899f806901e163f59f3a86d0c8cd",
-        "services": "SetPlaceOut",
-        "data": {
-            "enable_hotplaceout": false,
-            "placeout": {
-                "stock": {
-                    "top3": {
-                        "amount": 10
-                    },
-                    "row3": {
-                        "amount": 10
-                    },
-                    "top2": {
-                        "amount": 10
-                    },
-                    "bottom2": {
-                        "amount": 10
-                    },
-                    "top1": {
-                        "amount": 10
-                    },
-                    "bottom1": {
-                        "amount": 10
-                    },
-                }
-            },
-            "hotplaceout": {
-                "stock": {
-                    "top3": {
-                        "amount": 50
-                    },
-                    "row3": {
-                        "amount": 20
-                    },
-                    "top2": {
-                        "amount": 20
-                    },
-                    "bottom2": {
-                        "amount": 20
-                    },
-                    "top1": {
-                        "amount": 20
-                    },
-                    "bottom1": {
-                        "amount": 20.5
-                    }
-                }
-            }
-        }
+    "agentUsername": "buildexcompany",
+    "agentApiKey": "504947f655f822e2f8f414bbc1a34ba763c7570ef638135f30b5696c899f806901e163f59f3a86d0c8cd",
+    "services": "SetPlaceOut",
+    "data": {
+    "enable_hotplaceout": false,
+    "placeout": {
+    "stock": {
+    "top3": {
+    "amount": 10
+    },
+    "row3": {
+    "amount": 10
+    },
+    "top2": {
+    "amount": 10
+    },
+    "bottom2": {
+    "amount": 10
+    },
+    "top1": {
+    "amount": 10
+    },
+    "bottom1": {
+    "amount": 10
+    },
+    }
+    },
+    "hotplaceout": {
+    "stock": {
+    "top3": {
+    "amount": 50
+    },
+    "row3": {
+    "amount": 20
+    },
+    "top2": {
+    "amount": 20
+    },
+    "bottom2": {
+    "amount": 20
+    },
+    "top1": {
+    "amount": 20
+    },
+    "bottom1": {
+    "amount": 20.5
+    }
+    }
+    }
+    }
     }
 </div>
 
 <!-- USE -->
 <div id="seamless_tabfour-six-four_seven_req" class="d-non">
     {
-        "agentUsername": "buildexcompany",
-        "agentApiKey": "504947f655f822e2f8f414bbc1a34ba763c7570ef638135f30b5696c899f806901e163f59f3a86d0c8cd"
+    "agentUsername": "buildexcompany",
+    "agentApiKey": "504947f655f822e2f8f414bbc1a34ba763c7570ef638135f30b5696c899f806901e163f59f3a86d0c8cd"
     }
 </div>
 <div id="seamless_tabfour-six-four_eight_req" class="d-non">
     {
-        "agentUsername": "superadmincash",
-        "agentApiKey": "345afccac1c08a4f8e37fbf1ac4f6e2a63e298062482c3f5192a63f3f8",
-        "services": "DeleteLimitnumber",
-        "data": {
-            "limitnumber": {
-                "thailotto": {
-                    "top3": {
-                        "number": "567"
-                    }
-                }
-            }
-        }
+    "agentUsername": "superadmincash",
+    "agentApiKey": "345afccac1c08a4f8e37fbf1ac4f6e2a63e298062482c3f5192a63f3f8",
+    "services": "DeleteLimitnumber",
+    "data": {
+    "limitnumber": {
+    "thailotto": {
+    "top3": {
+    "number": "567"
+    }
+    }
+    }
+    }
     }
 </div>
 <div id="seamless_tabfour-six-four_nine_req" class="d-non">
     {
-        "agentUsername": "superadmincash",
-        "agentApiKey": "345afccac1c08a4f8e37fbf1ac4f6e2a63e298062482c3f5192a63f3f8",
-        "services": "DeleteLimitnumber",
-        "data": {
-            "limitnumber": {
-                "thailotto": {
-                    "top3": {
-                        "number": "567"
-                    }
-                }
-            }
-        }
+    "agentUsername": "superadmincash",
+    "agentApiKey": "345afccac1c08a4f8e37fbf1ac4f6e2a63e298062482c3f5192a63f3f8",
+    "services": "DeleteLimitnumber",
+    "data": {
+    "limitnumber": {
+    "thailotto": {
+    "top3": {
+    "number": "567"
+    }
+    }
+    }
+    }
     }
 </div>
 <script>
