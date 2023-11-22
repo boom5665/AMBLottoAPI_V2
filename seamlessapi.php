@@ -3564,14 +3564,15 @@
                                     </lable>
                                 </div>
                                 <div class="koh-faq-answer col-9">
-                                    <div class="copy-clipboard" style="position: absolute;width: 20px;top: 15px;right: 0;cursor:pointer">
+                                    <div class="copy-clipboard" style="position: absolute;width: 20px;top: 8px;right: 0;cursor:pointer">
                                         <svg style="position: absolute;width: 20px;left: -25px;" onclick="copyContent(document.getElementById('seamless_tabfour-six-four_two_ser').innerHTML)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
                                             <title>Copy to Clipboard</title>
                                             <path d="M18 6v-6h-18v18h6v6h18v-18h-6zm-12 10h-4v-14h14v4h-10v10zm16 6h-14v-14h14v14z"></path>
                                         </svg>
-                                    </div><code id="352B" style="border-radius: 0.375rem;" class="hljs json">{
-                                        <span class="hljs-attr">"code"</span>: <span class="hljs-number">0</span>
-                                        }</code></pre>
+                                        </div><code id="352B" style="border-radius: 0.375rem;" class="hljs json">{
+    <span class="hljs-attr">"code"</span>: <span class="hljs-number">0</span>
+}</code></pre>
+                                        
                                 </div>
                             </div>
                         </div>
