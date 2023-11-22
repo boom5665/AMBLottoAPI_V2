@@ -166,7 +166,7 @@
                                 </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre>
-                                    <div class="copy-clipboard" style=" position: absolute;width: 20px;top: 20%;right: 0;cursor:pointer">
+                                    <div class="copy-clipboard" style=" position: absolute;width: 20px;top: 25px;right: 0;cursor:pointer">
                                         <svg  style="position: absolute;width: 20px;left: -100%;" onclick="copyContent(document.getElementById('seamless_tabfour-four_req').innerHTML)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Copy to Clipboard</title><path d="M18 6v-6h-18v18h6v6h18v-18h-6zm-12 10h-4v-14h14v4h-10v10zm16 6h-14v-14h14v14z"></path></svg>
                                     </div>
                                         <code id="3_4A" style="border-radius: 0.375rem;" class="hljs json">{
@@ -316,7 +316,7 @@
                                 </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre>
-                                        <div class="copy-clipboard" style="position: absolute;width: 20px;top: 10%;right: 0;cursor:pointer">
+                                        <div class="copy-clipboard" style="position: absolute;width: 20px; top: 25px;right: 0;cursor:pointer">
                                             <svg style="position: absolute;width: 20px;left: -100%;" onclick="copyContent(document.getElementById('seamless_tabfour-four_res').innerHTML)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Copy to Clipboard</title><path d="M18 6v-6h-18v18h6v6h18v-18h-6zm-12 10h-4v-14h14v4h-10v10zm16 6h-14v-14h14v14z"></path></svg>
                                         </div>
                                         <code id="3_4B" style="border-radius: 0.375rem;" class="hljs json">{
@@ -1053,7 +1053,7 @@
                                 <div class="koh-faq-answer col-9">
                                     <!-- <pre class="myInput"> -->
                                     <pre>
-                                        <div class="copy-clipboard" style="position: absolute;width: 20px;top: 15%;right: 0;cursor:pointer">
+                                        <div class="copy-clipboard" style="position: absolute;width: 20px; top: 25px;right: 0;cursor:pointer">
                                             <svg style="position: absolute;width: 20px;left: -100%;" onclick="copyContent(document.getElementById('seamless_tabfour-five-one_req').innerHTML)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Copy to Clipboard</title><path d="M18 6v-6h-18v18h6v6h18v-18h-6zm-12 10h-4v-14h14v4h-10v10zm16 6h-14v-14h14v14z"></path></svg>
                                         </div>
                                         <code id="351A" style="border-radius: 0.375rem;" class="hljs json">{
@@ -1170,7 +1170,7 @@
                                 </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre>
-                                        <div class="copy-clipboard" style="position: absolute;width: 20px;top: 0.2%;right: 0;cursor:pointer">
+                                        <div class="copy-clipboard" style="position: absolute;width: 20px;top: 25px;right: 0;cursor:pointer">
                                             <svg style="position: absolute;width: 20px;left: -100%;" onclick="copyContent(document.getElementById('seamless_tabfour-five-one_res').innerHTML)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Copy to Clipboard</title><path d="M18 6v-6h-18v18h6v6h18v-18h-6zm-12 10h-4v-14h14v4h-10v10zm16 6h-14v-14h14v14z"></path></svg>
                                         </div>
                                         <code id="351A" style="border-radius: 0.375rem;" class="hljs json">{
@@ -2045,7 +2045,7 @@
                                 </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre>
-                                        <div class="copy-clipboard" style="position: absolute;width: 20px;top: 12%;right: 0;cursor:pointer">
+                                        <div class="copy-clipboard" style="position: absolute;width: 20px;top: 25px;right: 0;cursor:pointer">
                                             <svg style="position: absolute;width: 20px;left: -100%;" onclick="copyContent(document.getElementById('seamless_tabfour-five-two_req').innerHTML)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Copy to Clipboard</title><path d="M18 6v-6h-18v18h6v6h18v-18h-6zm-12 10h-4v-14h14v4h-10v10zm16 6h-14v-14h14v14z"></path></svg>
                                         </div>
                                         <code id="351A" style="border-radius: 0.375rem;" class="hljs json">{
@@ -2131,7 +2131,7 @@
                                 </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre>
-                                    <div class="copy-clipboard" style="position: absolute;width: 20px;top: 3%;right: 0;cursor:pointer">
+                                    <div class="copy-clipboard" style="position: absolute;width: 20px;top: 5px;right: 0;cursor:pointer">
                                             <svg style="position: absolute;width: 20px;left: -100%;" onclick="copyContent(document.getElementById('seamless_tabfour-six-four_one_ser').innerHTML)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Copy to Clipboard</title><path d="M18 6v-6h-18v18h6v6h18v-18h-6zm-12 10h-4v-14h14v4h-10v10zm16 6h-14v-14h14v14z"></path></svg>
                                         </div><code id="351B" style="border-radius: 0.375rem;" class="hljs json">{
     <span class="hljs-attr">"code"</span>: <span class="hljs-number">0</span>,
@@ -2326,7 +2326,7 @@
                                 </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre>
-                                        <div class="copy-clipboard" style="position: absolute;width: 20px;top: 2.5%;right: 0;cursor:pointer">
+                                        <div class="copy-clipboard" style="position: absolute;width: 20px;top: 25px;right: 0;cursor:pointer">
                                             <svg style="position: absolute;width: 20px;left: -100%;" onclick="copyContent(document.getElementById('seamless_tabfour-five-three_req').innerHTML)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Copy to Clipboard</title><path d="M18 6v-6h-18v18h6v6h18v-18h-6zm-12 10h-4v-14h14v4h-10v10zm16 6h-14v-14h14v14z"></path></svg>
                                         </div>
                                         <code id="352A" style="border-radius: 0.375rem;" class="hljs json">{
@@ -2485,7 +2485,7 @@
                                 </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre>
-                                    <div class="copy-clipboard" style="position: absolute;width: 20px;top: 5%;right: 0;cursor:pointer">
+                                    <div class="copy-clipboard" style="position: absolute;width: 20px;top: 5px;right: 0;cursor:pointer">
                                             <svg style="position: absolute;width: 20px;left: -100%;" onclick="copyContent(document.getElementById('seamless_tabfour-six-four_two_ser').innerHTML)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Copy to Clipboard</title><path d="M18 6v-6h-18v18h6v6h18v-18h-6zm-12 10h-4v-14h14v4h-10v10zm16 6h-14v-14h14v14z"></path></svg>
                                         </div><code id="352B" style="border-radius: 0.375rem;" class="hljs json">{
     <span class="hljs-attr">"code"</span>: <span class="hljs-number">0</span>
@@ -2684,7 +2684,7 @@
                                 </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre>
-                                        <div class="copy-clipboard" style="position: absolute;width: 20px;top: 4%;right: 0;cursor:pointer">
+                                        <div class="copy-clipboard" style="position: absolute;width: 20px;top: 25px;right: 0;cursor:pointer">
                                             <svg style="position: absolute;width: 20px;left: -100%;" onclick="copyContent(document.getElementById('seamless_tabfour-five-four_req').innerHTML)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Copy to Clipboard</title><path d="M18 6v-6h-18v18h6v6h18v-18h-6zm-12 10h-4v-14h14v4h-10v10zm16 6h-14v-14h14v14z"></path></svg>
                                         </div>
                                         <code id="353A" style="border-radius: 0.375rem;" class="hljs json">{
@@ -2800,7 +2800,7 @@
                                 </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre>
-                                    <div class="copy-clipboard" style="position: absolute;width: 20px;top: 5%;right: 0;cursor:pointer">
+                                    <div class="copy-clipboard" style="position: absolute;width: 20px;top: 5px;right: 0;cursor:pointer">
                                             <svg style="position: absolute;width: 20px;left: -100%;" onclick="copyContent(document.getElementById('seamless_tabfour-six-four_three_ser').innerHTML)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Copy to Clipboard</title><path d="M18 6v-6h-18v18h6v6h18v-18h-6zm-12 10h-4v-14h14v4h-10v10zm16 6h-14v-14h14v14z"></path></svg>
                                         </div><code id="352B" style="border-radius: 0.375rem;" class="hljs json">{
     <span class="hljs-attr">"code"</span>: <span class="hljs-number">0</span>
@@ -3013,7 +3013,7 @@
                                 </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre>
-                                        <div class="copy-clipboard" style="position: absolute;width: 20px;top: 2%;right: 0;cursor:pointer">
+                                        <div class="copy-clipboard" style="position: absolute;width: 20px;top: 25px;right: 0;cursor:pointer">
                                             <svg style="position: absolute;width: 20px;left: -100%;" onclick="copyContent(document.getElementById('seamless_tabfour-five-five_lose_req').innerHTML)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Copy to Clipboard</title><path d="M18 6v-6h-18v18h6v6h18v-18h-6zm-12 10h-4v-14h14v4h-10v10zm16 6h-14v-14h14v14z"></path></svg>
                                         </div>
                                         <code id="354A" style="border-radius: 0.375rem;" class="hljs json">{
@@ -3103,7 +3103,7 @@
                                 </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre>
-                                        <div class="copy-clipboard" style="position: absolute;width: 20px;top: 2%;right: 0;cursor:pointer">
+                                        <div class="copy-clipboard" style="position: absolute;width: 20px;top: 25px;right: 0;cursor:pointer">
                                             <svg style="position: absolute;width: 20px;left: -100%;" onclick="copyContent(document.getElementById('seamless_tabfour-five-five_win_req').innerHTML)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Copy to Clipboard</title><path d="M18 6v-6h-18v18h6v6h18v-18h-6zm-12 10h-4v-14h14v4h-10v10zm16 6h-14v-14h14v14z"></path></svg>
                                         </div>
                                         <code id="354A" style="border-radius: 0.375rem;" class="hljs json">{
@@ -3250,7 +3250,7 @@
                                 </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre>
-                                    <div class="copy-clipboard" style="position: absolute;width: 20px;top: 5%;right: 0;cursor:pointer">
+                                    <div class="copy-clipboard" style="position: absolute;width: 20px;top: 5px;right: 0;cursor:pointer">
                                             <svg style="position: absolute;width: 20px;left: -100%;" onclick="copyContent(document.getElementById('seamless_tabfour-six-four_two_ser').innerHTML)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Copy to Clipboard</title><path d="M18 6v-6h-18v18h6v6h18v-18h-6zm-12 10h-4v-14h14v4h-10v10zm16 6h-14v-14h14v14z"></path></svg>
                                         </div><code id="352B" style="border-radius: 0.375rem;" class="hljs json">{
     <span class="hljs-attr">"code"</span>: <span class="hljs-number">0</span>
@@ -3446,7 +3446,7 @@
                                 </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre>
-                                        <div class="copy-clipboard" style="position: absolute;width: 20px;top: 4%;right: 0;cursor:pointer">
+                                        <div class="copy-clipboard" style="position: absolute;width: 20px;top: 25px;right: 0;cursor:pointer">
                                             <svg style="position: absolute;width: 20px;left: -100%;" onclick="copyContent(document.getElementById('seamless_tabfour-five-six_req').innerHTML)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Copy to Clipboard</title><path d="M18 6v-6h-18v18h6v6h18v-18h-6zm-12 10h-4v-14h14v4h-10v10zm16 6h-14v-14h14v14z"></path></svg>
                                         </div>
                                         <code id="356A" style="border-radius: 0.375rem;" class="hljs json">{
@@ -3564,7 +3564,7 @@
                                     </lable>
                                 </div>
                                 <div class="koh-faq-answer col-9">
-                                    <div class="copy-clipboard" style="position: absolute;width: 20px;top: 18%;right: 0;cursor:pointer">
+                                    <div class="copy-clipboard" style="position: absolute;width: 20px;top: 5px;right: 0;cursor:pointer">
                                         <svg style="position: absolute;width: 20px;left: -100%;" onclick="copyContent(document.getElementById('seamless_tabfour-six-four_two_ser').innerHTML)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
                                             <title>Copy to Clipboard</title>
                                             <path d="M18 6v-6h-18v18h6v6h18v-18h-6zm-12 10h-4v-14h14v4h-10v10zm16 6h-14v-14h14v14z"></path>
@@ -3660,7 +3660,7 @@
                                 </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre>
-                                        <div class="copy-clipboard" style="position: absolute;width: 20px;top: 20%;right: 0;cursor:pointer">
+                                        <div class="copy-clipboard" style="position: absolute;width: 20px;top: 25px;right: 0;cursor:pointer">
                                             <svg style="position: absolute;width: 20px;left: -100%;" onclick="copyContent(document.getElementById('seamless_tabfour-six-four_seven_req').innerHTML)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Copy to Clipboard</title><path d="M18 6v-6h-18v18h6v6h18v-18h-6zm-12 10h-4v-14h14v4h-10v10zm16 6h-14v-14h14v14z"></path></svg>
                                         </div>
                                         <code id="410A" style="border-radius: 0.375rem;" class="hljs json">{
@@ -3801,7 +3801,7 @@
                                 </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre>
-                                    <div class="copy-clipboard" style="position: absolute;width: 20px;top: 27px;right: 0;cursor:pointer">
+                                    <div class="copy-clipboard" style="position: absolute;width: 20px;top: 25px;right: 0;cursor:pointer">
                                             <svg style="position: absolute;width: 20px;left: -100%;" onclick="copyContent(document.getElementById('seamless_tabfour-six-four_five_ser').innerHTML)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Copy to Clipboard</title><path d="M18 6v-6h-18v18h6v6h18v-18h-6zm-12 10h-4v-14h14v4h-10v10zm16 6h-14v-14h14v14z"></path></svg>
                                         </div>
                                         <code id="410B" style="border-radius: 0.375rem;" class="hljs json">{
@@ -6411,7 +6411,7 @@
                                 </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre>
-                                        <div class="copy-clipboard" style="position: absolute;width: 20px;top: 8%;right: 0;cursor:pointer">
+                                        <div class="copy-clipboard" style="position: absolute;width: 20px;top: 25px;right: 0;cursor:pointer">
                                             <svg style="position: absolute;width: 20px;left: -100%;" onclick="copyContent(document.getElementById('seamless_tabfour-six-four_eight_req').innerHTML)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Copy to Clipboard</title><path d="M18 6v-6h-18v18h6v6h18v-18h-6zm-12 10h-4v-14h14v4h-10v10zm16 6h-14v-14h14v14z"></path></svg>
                                         </div>
                                         <code id="410A" style="border-radius: 0.375rem;" class="hljs json">{
@@ -6539,7 +6539,7 @@
                                 </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre>
-                                    <div class="copy-clipboard" style="position: absolute;width: 20px;top: 4.2%;right: 0;cursor:pointer">
+                                    <div class="copy-clipboard" style="position: absolute;width: 20px;top: 25px;right: 0;cursor:pointer">
                                             <svg style="position: absolute;width: 20px;left: -100%;" onclick="copyContent(document.getElementById('seamless_tabfour-six-four_six_ser').innerHTML)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Copy to Clipboard</title><path d="M18 6v-6h-18v18h6v6h18v-18h-6zm-12 10h-4v-14h14v4h-10v10zm16 6h-14v-14h14v14z"></path></svg>
                                         </div>    
                                     <code id="410B" style="border-radius: 0.375rem;" class="hljs json">{
@@ -6708,7 +6708,7 @@
                                 </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre>
-                                        <div class="copy-clipboard" style="position: absolute;width: 20px;top: 8%;right: 0;cursor:pointer">
+                                        <div class="copy-clipboard" style="position: absolute;width: 20px;top: 25px;right: 0;cursor:pointer">
                                             <svg style="position: absolute;width: 20px;left: -100%;" onclick="copyContent(document.getElementById('seamless_tabfour-six-four_nine_req').innerHTML)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Copy to Clipboard</title><path d="M18 6v-6h-18v18h6v6h18v-18h-6zm-12 10h-4v-14h14v4h-10v10zm16 6h-14v-14h14v14z"></path></svg>
                                         </div>
                                         <code id="410A" style="border-radius: 0.375rem;" class="hljs json">{
@@ -6840,7 +6840,7 @@
                                 </div>
                                 <div class="koh-faq-answer col-9">
                                     <pre>
-                                    <div class="copy-clipboard" style="position: absolute;width: 20px;top: 1.2%;right: 0;cursor:pointer">
+                                    <div class="copy-clipboard" style="position: absolute;width: 20px;top: 25px;right: 0;cursor:pointer">
                                             <svg style="position: absolute;width: 20px;left: -100%;" onclick="copyContent(document.getElementById('seamless_tabfour-seven-one_ser').innerHTML)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Copy to Clipboard</title><path d="M18 6v-6h-18v18h6v6h18v-18h-6zm-12 10h-4v-14h14v4h-10v10zm16 6h-14v-14h14v14z"></path></svg>
                                         </div>    
                                     <code id="410B" style="border-radius: 0.375rem;" class="hljs json">{
