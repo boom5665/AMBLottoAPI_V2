@@ -104,7 +104,7 @@
                             </label>
                             <label>
 
-                                https://test-api.askmelotto.com/apiRoute/member/loginRequest
+                                https://dev-api.amblotto.net/apiRoute/member/loginRequest
                             </label>
                         </div>
                         <div class="col-12">
@@ -1176,7 +1176,7 @@
                                         <code id="351A" style="border-radius: 0.375rem;" class="hljs json">{
     <span class="hljs-attr">"code"</span>: <span class="hljs-string">0</span>,
     <span class="hljs-attr">"data"</span>: {
-       <span class="hljs-attr">"username"</span>: <span class="hljs-string">ambtest"</span>,
+       <span class="hljs-attr">"username"</span>: <span class="hljs-string">"ambtest"</span>,
        <span class="hljs-attr">"phone"</span>: <span class="hljs-string">"0xxxxxxxx"</span>,
        <span class="hljs-attr">"email"</span>: <span class="hljs-string">"xxxx@gmail.com"</span>,
        <span class="hljs-attr">"line"</span>: <span class="hljs-string">"lineX"</span>,
@@ -3617,7 +3617,7 @@
                                 Url :
                             </label>
                             <label>
-                                https://test-api.askmelotto.com/apiRoute/api/ListPlaceout
+                                https://dev-api.amblotto.net/apiRoute/api/ListPlaceout
                             </label>
                         </div>
                         <div class="col-12">
@@ -4481,7 +4481,7 @@
         <span class="hljs-attr">"stock"</span>: {
         <span class="hljs-attr">"bottom1"</span>: {
         <span class="hljs-attr">"discount"<span class="hljs-number">0</span>,
-        <span class="hljs-attr">"payout"</span>: <span class="hljs-number">4.2</span></span>,
+        <span class="hljs-attr">"payout"</span>: <span class="hljs-number">4.2</span>,</span>
             },
             <span class="hljs-attr">"bottom2"</span>: {
             <span class="hljs-attr">"discount"<span class="hljs-number">0</span>,
@@ -4978,33 +4978,33 @@
             <span class="hljs-attr">"top1"</span>: {
             <span class="hljs-attr">"amount"</span>:<span class="hljs-number"> 1000</span>,
             <span class="hljs-attr">"levellist"</span>: [
-            <span class="hljs-attr">2.1</span>,
+            <span class="hljs-attr">2.1,</span>
             <span class="hljs-attr">1</span>
                 ]
             },
             <span class="hljs-attr">"top2"</span>: {
-            <span class="hljs-attr">"amount"</span>: <span class="hljs-number">1000</span></span>,
+            <span class="hljs-attr">"amount"</span>: <span class="hljs-number">1000</span>,</span>
             <span class="hljs-attr">"levellist"</span>: [
-            <span class="hljs-attr">70</span></span>,
+            <span class="hljs-attr">70</span>,</span>
             <span class="hljs-attr">50</span>
                 ]
             },
             <span class="hljs-attr">"top3"</span>: {
-            <span class="hljs-attr">"amount"</span>: <span class="hljs-number">1000</span></span>,
+            <span class="hljs-attr">"amount"</span>: <span class="hljs-number">1000</span>,</span>
             <span class="hljs-attr">"levellist"</span>: [
-            <span class="hljs-attr">550</span></span>,
+            <span class="hljs-attr">550</span>,</span>
             <span class="hljs-attr">450</span>
                 ]
             },
             <span class="hljs-attr">"top4"</span>: {
-            <span class="hljs-attr">"amount"</span>: <span class="hljs-number">1000</span></span>,
+            <span class="hljs-attr">"amount"</span>: <span class="hljs-number">1000</span>,</span>
             <span class="hljs-attr">"levellist"</span>: [
-            <span class="hljs-attr">3500</span></span>,
+            <span class="hljs-attr">3500</span>,</span>
             <span class="hljs-attr">3000</span>
                 ]
             },
             <span class="hljs-attr">"top5"</span>: {
-            <span class="hljs-attr">"amount"</span>:<span class="hljs-number"> 1000</span></span>,
+            <span class="hljs-attr">"amount"</span>:<span class="hljs-number"> 1000</span>,</span>
             <span class="hljs-attr">"levellist"</span>: [
             <span class="hljs-attr">10000</span>,
             <span class="hljs-attr">5000</span>
@@ -6338,7 +6338,7 @@
                                 Url :
                             </label>
                             <label>
-                                https://test-api.askmelotto.com/apiRoute/api/ListHotnumberandLimitnumber
+                                https://dev-api.amblotto.net/apiRoute/api/ListHotnumberandLimitnumber
                             </label>
                         </div>
                         <div class="col-12">
@@ -6635,7 +6635,7 @@
                                 Url :
                             </label>
                             <label>
-                                https://test-api.askmelotto.com/apiRoute/api/detail
+                                https://dev-api.amblotto.net/apiRoute/api/detail
                             </label>
                         </div>
                         <div class="col-12">
