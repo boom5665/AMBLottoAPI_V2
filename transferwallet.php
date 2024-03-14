@@ -102,7 +102,7 @@
                                 Url :
                             </label>
                             <label>
-                                https://dev-api.amblotto.net/api/v2/apiRoute/member/tranferwallet/loginRequest
+                                https://test-api.askmelotto.com/api/v2/apiRoute/member/tranferwallet/loginRequest
                             </label>
                         </div>
                         <div class="col-12">
@@ -3628,7 +3628,7 @@
                         <div class="col-12">
                             <label class="txtHead">Url : </label>
                             <label>
-                                https://dev-api.amblotto.net/apiRoute/api/getUserBalance
+                                https://test-api.askmelotto.com/apiRoute/api/getUserBalance
                             </label>
                         </div>
                         <div class="col-12">
@@ -3846,7 +3846,7 @@
                         <div class="col-12">
                             <label class="txtHead">Url : </label>
                             <label>
-                                https://dev-api.amblotto.net/apiRoute/api/deposit
+                                https://test-api.askmelotto.com/apiRoute/api/deposit
                             </label>
                         </div>
                         <div class="col-12">
@@ -4166,7 +4166,7 @@
                         <div class="col-12">
                             <label class="txtHead">Url : </label>
                             <label>
-                                https://dev-api.amblotto.net/apiRoute/api/withdraw
+                                https://test-api.askmelotto.com/apiRoute/api/withdraw
                             </label>
                         </div>
                         <div class="col-12">
@@ -4486,7 +4486,7 @@
                         <div class="col-12">
                             <label class="txtHead">Url : </label>
                             <label>
-                                https://dev-api.amblotto.net/apiRoute/api/memberBetHistories
+                                https://test-api.askmelotto.com/apiRoute/api/memberBetHistories
                             </label>
                         </div>
                         <div class="col-12">
@@ -5001,7 +5001,7 @@
                         <div class="col-12">
                             <label class="txtHead">Url : </label>
                             <label>
-                                https://dev-api.amblotto.net/apiRoute/api/betHistories
+                                https://test-api.askmelotto.com/apiRoute/api/betHistories
                             </label>
                         </div>
                         <div class="col-12">
@@ -5507,7 +5507,7 @@
                         <div class="col-12">
                             <label class="txtHead">Url : </label>
                             <label>
-                                https://dev-api.amblotto.net/apiRoute/api/depositWithdrawHistory
+                                https://test-api.askmelotto.com/apiRoute/api/depositWithdrawHistory
                             </label>
                         </div>
                         <div class="col-12">
@@ -5747,7 +5747,7 @@
                         <div class="col-12">
                             <label class="txtHead">Url : </label>
                             <label>
-                                https://dev-api.amblotto.net/apiRoute/api/depositWithdrawHistoryByTransId
+                                https://test-api.askmelotto.com/apiRoute/api/depositWithdrawHistoryByTransId
                             </label>
                         </div>
                         <div class="col-12">
@@ -5986,7 +5986,7 @@
                         <div class="col-12">
                             <label class="txtHead">Url : </label>
                             <label>
-                                https://dev-api.amblotto.net/apiRoute/api/GetListBetResult
+                                https://test-api.askmelotto.com/apiRoute/api/GetListBetResult
                             </label>
                         </div>
                         <div class="col-12">
