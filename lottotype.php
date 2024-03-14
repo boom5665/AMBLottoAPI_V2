@@ -18,14 +18,6 @@
                     <span style="padding-left: 3px;" id="Lotto_Key_Type"> Key Type</span></b></lable>
                 </div>
                 <div class="pb-3"></div>
-                <!-- <div class="btn-toolbar mb-3" role="toolbar">
-                    <div class="form-group col-12">
-                        <label
-                            set-lan="html:3.1 Body">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                            This section is to illustrate the detail of implementing seamless in external partner
-                            system.</label>
-                    </div>
-                </div> -->
                 <div class="btn-toolbar mb-3" role="toolbar">
                     <div class="form-group col-1"></div>
                     <div class="form-group col-9">
