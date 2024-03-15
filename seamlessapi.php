@@ -104,7 +104,7 @@
                             </label>
                             <label>
 
-                                https://dev-api.amblotto.net/apiRoute/member/loginRequest
+                                https://test-api.askmelotto.com/apiRoute/member/loginRequest
                             </label>
                         </div>
                         <div class="col-12">
@@ -3617,7 +3617,7 @@
                                 Url :
                             </label>
                             <label>
-                                https://dev-api.amblotto.net/apiRoute/api/ListPlaceout
+                                https://test-api.askmelotto.com/apiRoute/api/ListPlaceout
                             </label>
                         </div>
                         <div class="col-12">
@@ -6338,7 +6338,7 @@
                                 Url :
                             </label>
                             <label>
-                                https://dev-api.amblotto.net/apiRoute/api/ListHotnumberandLimitnumber
+                                https://test-api.askmelotto.com/apiRoute/api/ListHotnumberandLimitnumber
                             </label>
                         </div>
                         <div class="col-12">
@@ -6635,7 +6635,7 @@
                                 Url :
                             </label>
                             <label>
-                                https://dev-api.amblotto.net/apiRoute/api/detail
+                                https://test-api.askmelotto.com/apiRoute/api/detail
                             </label>
                         </div>
                         <div class="col-12">
